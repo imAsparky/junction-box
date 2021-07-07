@@ -1,8 +1,8 @@
 # CHANGELOG
 
-## Unreleased
+## [v0.0.1-alpha](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha) - 2021-07-07 08:23:31
 
-Changes unreleased.
+Basic git workflow setup.
 
 ### Feature
 
