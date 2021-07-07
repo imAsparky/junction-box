@@ -6,6 +6,11 @@ Changes unreleased.
 
 ### Feature
 
+- pre-commit:
+  - Add tox.ini ([6db58b0](https://github.com/imAsparky/junction-box/commit/6db58b0562d93c499b116bfe1d75d9b1f681d9fe)) ([#10](https://github.com/imAsparky/junction-box/pull/10))
+  - Add pyproject.toml file ([cce2a1c](https://github.com/imAsparky/junction-box/commit/cce2a1c02ddb67bca46df2f9ff97ca297ba791dc)) ([#10](https://github.com/imAsparky/junction-box/pull/10))
+  - Add yaml config file ([8cc0799](https://github.com/imAsparky/junction-box/commit/8cc079977f16cb3bdae1078fbf2834dc88954ce2)) ([#10](https://github.com/imAsparky/junction-box/pull/10))
+
 - #6:
   - Add chore to CHANGELOG choices
 https://www.conventionalcommits.org/en/v1.0.0/ allows other choices for commit.
