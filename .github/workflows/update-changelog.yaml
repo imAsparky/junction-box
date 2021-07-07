@@ -2,7 +2,8 @@ name: Auto-generate CHANGELOG
 on:
   release:
     types: [created, edited]
-
+    schedule:
+      - cron: "0 2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,4 +19,4 @@ jobs:
           ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
           PATH: "/CHANGELOG.md"
           COMMIT_MESSAGE: "docs(CHANGELOG): update release notes"
-          TYPE: "FEAT:Feature,fix:Bug Fixes,docs:Documentation,refactor:Refactor,perf:Performance Improvements"
+          TYPE: "feat:Feature,fix:Bug Fixes,docs:Documentation,refactor:Refactor,perf:Performance Improvements,test:Tests"
