@@ -7,6 +7,7 @@ Changes unreleased.
 ### Feature
 
 - sphinx:
+  - Added custom theme furo #12 ([e3f351b](https://github.com/imAsparky/junction-box/commit/e3f351bf6ef2e03c496418ee07ae199c5869d4b3)) ([#20](https://github.com/imAsparky/junction-box/pull/20))
   - Update requirements.txt ([7403cd7](https://github.com/imAsparky/junction-box/commit/7403cd7b3f5ec5fc2177fa2cecad26233ae3b9a4)) ([#16](https://github.com/imAsparky/junction-box/pull/16))
   - Install with base config ([75a8fb5](https://github.com/imAsparky/junction-box/commit/75a8fb5fddb6fc44660f2ab3ff0710235bfbd0bd)) ([#15](https://github.com/imAsparky/junction-box/pull/15))
 
