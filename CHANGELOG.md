@@ -1,8 +1,10 @@
 # CHANGELOG
 
-## Unreleased
+## [v0.0.1-alpha-1](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha-1) - 2021-07-08 07:35:04
 
-Changes unreleased.
+Sphinx and the Furo theme have been installed with basic configurations.
+A basic about page was written and deployed to readthedocs.
+Snyk was deployed to monitor this project.
 
 ### Feature
 
