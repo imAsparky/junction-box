@@ -10,6 +10,11 @@ Changes unreleased.
   - Update requirements.txt ([7403cd7](https://github.com/imAsparky/junction-box/commit/7403cd7b3f5ec5fc2177fa2cecad26233ae3b9a4)) ([#16](https://github.com/imAsparky/junction-box/pull/16))
   - Install with base config ([75a8fb5](https://github.com/imAsparky/junction-box/commit/75a8fb5fddb6fc44660f2ab3ff0710235bfbd0bd)) ([#15](https://github.com/imAsparky/junction-box/pull/15))
 
+### Bug Fixes
+
+- sphinx:
+  - readthedocs build failed (pkg-resources==0.0.0) #18 ([581a99d](https://github.com/imAsparky/junction-box/commit/581a99d8e3b3f48b6f432b71efbc8c47a6f3584d)) ([#19](https://github.com/imAsparky/junction-box/pull/19))
+
 ## [v0.0.1-alpha](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha) - 2021-07-07 08:23:31
 
 Basic git workflow setup.
