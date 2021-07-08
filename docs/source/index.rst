@@ -6,9 +6,15 @@
 Welcome to Junction Box's documentation!
 ========================================
 
+A place to document connections between technologies for our software development framework.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   about
 
 
 
