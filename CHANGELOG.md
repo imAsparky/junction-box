@@ -18,6 +18,9 @@ Changes unreleased.
 
 ### Documentation
 
+- README:
+  - Add a link to the readthedocs docs ([2f4159d](https://github.com/imAsparky/junction-box/commit/2f4159df777f7293cca2f4de5df6360c6712f8b5)) ([#22](https://github.com/imAsparky/junction-box/pull/22))
+
 - about:
   - Add an about page, update index ([09c9cc1](https://github.com/imAsparky/junction-box/commit/09c9cc1730cb8c79e3f17a5430a9ed972ac0509f)) ([#21](https://github.com/imAsparky/junction-box/pull/21))
 
