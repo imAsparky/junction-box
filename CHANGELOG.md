@@ -16,6 +16,11 @@ Changes unreleased.
 - sphinx:
   - readthedocs build failed (pkg-resources==0.0.0) #18 ([581a99d](https://github.com/imAsparky/junction-box/commit/581a99d8e3b3f48b6f432b71efbc8c47a6f3584d)) ([#19](https://github.com/imAsparky/junction-box/pull/19))
 
+### Documentation
+
+- about:
+  - Add an about page, update index ([09c9cc1](https://github.com/imAsparky/junction-box/commit/09c9cc1730cb8c79e3f17a5430a9ed972ac0509f)) ([#21](https://github.com/imAsparky/junction-box/pull/21))
+
 ## [v0.0.1-alpha](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha) - 2021-07-07 08:23:31
 
 Basic git workflow setup.
