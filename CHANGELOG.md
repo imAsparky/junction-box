@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## Unreleased
+
+Changes unreleased.
+
+### Feature
+
+- sphinx:
+  - Install with base config ([75a8fb5](https://github.com/imAsparky/junction-box/commit/75a8fb5fddb6fc44660f2ab3ff0710235bfbd0bd)) ([#15](https://github.com/imAsparky/junction-box/pull/15))
+
 ## [v0.0.1-alpha](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha) - 2021-07-07 08:23:31
 
 Basic git workflow setup.
