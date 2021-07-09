@@ -1,5 +1,14 @@
 # CHANGELOG
 
+## Unreleased
+
+Changes unreleased.
+
+### Documentation
+
+- about:
+  - Improve wording in the Why section ([ec5c76e](https://github.com/imAsparky/junction-box/commit/ec5c76e0ce1329aa39d2df4b541e6a3e5b50a59c)) ([#26](https://github.com/imAsparky/junction-box/pull/26))
+
 ## [v0.0.1-alpha-1](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha-1) - 2021-07-08 07:35:04
 
 Sphinx and the Furo theme have been installed with basic configurations.
