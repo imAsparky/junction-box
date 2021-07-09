@@ -13,7 +13,7 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
+import t3SphinxThemeRtd
 
 # -- Project information -----------------------------------------------------
 
@@ -40,7 +40,7 @@ templates_path = ["_templates"]
 exclude_patterns = []
 
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = "sphinx"
+pygments_style = "monokai"
 pygments_dark_style = "monokai"
 
 # -- Options for HTML output -------------------------------------------------
@@ -48,7 +48,11 @@ pygments_dark_style = "monokai"
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = "furo"
+# html_theme = "furo"
+
+#  https://github.com/TYPO3-Documentation/t3SphinxThemeRtd
+html_theme = "t3SphinxThemeRtd"
+html_theme_path = [t3SphinxThemeRtd.get_html_theme_path()]
 html_theme_options = {}
 
 # Add any paths that contain custom static files (such as style sheets) here,
