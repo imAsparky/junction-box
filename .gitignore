@@ -1,4 +1,11 @@
 # Byte-compiled / optimized / DLL files
+# PROJECT FILES
+# vscode
+workspace.code-workspace
+
+# restructuredtext vscode build folder
+docs/source/_build/
+
 __pycache__/
 *.py[cod]
 *$py.class
@@ -154,6 +161,7 @@ cython_debug/
 
 
 ### VisualStudioCode template
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
