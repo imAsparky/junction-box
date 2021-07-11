@@ -1,14 +1,16 @@
-=====
-About
-=====
-
-JUNCTION BOX
-------------
-
-What's in a name?
-~~~~~~~~~~~~~~~~~
+=========
+**About**
+=========
 
 |
+
+JUNCTION BOX
+============
+
+|
+
+**What's in a name?**
+---------------------
 
 The process of writing software is very similar to the electrical trade in the sense that things are wired up or connected.
 
@@ -16,16 +18,16 @@ Hence the name **Junction Box**, a place where things are connected.
 
 |
 
-Overview
----------
+**Overview**
+------------
 |
 
 This project is about documenting how we use several technologies that meet the needs of our software development initiatives.
 
 |
 
-What
------
+**What**
+--------
 
 |
 
@@ -44,12 +46,12 @@ When how we use the first two items has been  documented, other technologies on 
 #. `Django <https://www.djangoproject.com/>`__: A python web framework.
 #. `Pytest <https://docs.pytest.org/en/6.2.x/>`__: A software testing tool.
 #. `Hypothesis <https://hypothesis.readthedocs.io/en/latest/index.html>`__: A software testing tool.
-#. `Playwright <https://playwright.dev/>`__: End-to-end testing for modern web apps
+#. `Playwright <https://playwright.dev/>`__: End-to-end testing for modern web apps.
 
 |
 
-How
----
+**How**
+-------
 |
 
 #. Create and follow a style guide.
@@ -59,8 +61,8 @@ How
 
 |
 
-Why
-----
+**Why**
+-------
 
 |
 
@@ -76,16 +78,16 @@ When it is needed, good documentation can ease the load of remembering.
 
 |
 
-When
-------
+**When**
+--------
 |
 
 Following Continuous Delivery Principles, this is a living document.
 
 |
 
-The Author
-----------
+**The Author**
+--------------
 |
 
 Mark Sevelj has an electrical trade background.
