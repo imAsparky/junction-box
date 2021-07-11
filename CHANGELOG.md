@@ -4,7 +4,16 @@
 
 Changes unreleased.
 
+### Feature
+
+- sphinx:
+  - Theme is now sphinx_rtd_theme ([97174c7](https://github.com/imAsparky/junction-box/commit/97174c733cda618f11e6c0c875c13421e07008b4)) ([#29](https://github.com/imAsparky/junction-box/pull/29))
+  - Theme is now  t3SphinxThemeRtd #12 ([86f3afb](https://github.com/imAsparky/junction-box/commit/86f3afbbb57082b0cf167fd3f7ecba8c77b03057)) ([#27](https://github.com/imAsparky/junction-box/pull/27))
+
 ### Documentation
+
+- Style:
+  - Add intro Style Guide, Update Index ([2df9ad0](https://github.com/imAsparky/junction-box/commit/2df9ad09c3fd1b69871b83de9bc72a34191f1cb5)) ([#30](https://github.com/imAsparky/junction-box/pull/30))
 
 - about:
   - Improve wording in the Why section ([ec5c76e](https://github.com/imAsparky/junction-box/commit/ec5c76e0ce1329aa39d2df4b541e6a3e5b50a59c)) ([#26](https://github.com/imAsparky/junction-box/pull/26))
