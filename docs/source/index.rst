@@ -8,12 +8,12 @@ Welcome to Junction Box's documentation!
 
 A place to document connections between technologies for our software development framework.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-|
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
+   style-guide
    about
 
 
@@ -21,6 +21,10 @@ A place to document connections between technologies for our software developmen
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
+
+
+
+.. * :ref:`genindex`
+
+.. * :ref:`modindex`
