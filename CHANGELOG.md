@@ -10,6 +10,11 @@ Changes unreleased.
   - Theme is now sphinx_rtd_theme ([97174c7](https://github.com/imAsparky/junction-box/commit/97174c733cda618f11e6c0c875c13421e07008b4)) ([#29](https://github.com/imAsparky/junction-box/pull/29))
   - Theme is now  t3SphinxThemeRtd #12 ([86f3afb](https://github.com/imAsparky/junction-box/commit/86f3afbbb57082b0cf167fd3f7ecba8c77b03057)) ([#27](https://github.com/imAsparky/junction-box/pull/27))
 
+### Bug Fixes
+
+- yaml:
+  - Cron job not formatted correctly ([a64530e](https://github.com/imAsparky/junction-box/commit/a64530eb6bbba6f293b3ba8a210211e68db97d9f)) ([#34](https://github.com/imAsparky/junction-box/pull/34))
+
 ### Documentation
 
 - style:
