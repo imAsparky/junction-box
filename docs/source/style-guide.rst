@@ -45,7 +45,6 @@ See our list of style guides below.
    :maxdepth: 1
    :caption: Style Guides:
 
-   style-rst
 
-..    style-diataxus
-..    style-developer
+   style-developer.rst
+   style-rst
