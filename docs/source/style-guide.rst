@@ -39,12 +39,13 @@ See our list of style guides below.
 
 .. tip::
 
-   Style guides are under construction
+   Style guides are under construction... More to come : )
 
-.. .. toctree::
-..    :maxdepth: 1
-..    :caption: Style Guides:
+.. toctree::
+   :maxdepth: 1
+   :caption: Style Guides:
+
+   style-rst
 
 ..    style-diataxus
 ..    style-developer
-..    style-rst
