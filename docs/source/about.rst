@@ -66,6 +66,13 @@ When how we use the first two items has been  documented, other technologies on 
 
 |
 
+#. You want people to use your project.
+#. If you have good documentation, people are more likely to use your project.
+#. If people are more likely to use your project, you will have more contributors.
+#. If people have trouble installing your project with poor documentation, they are more likely to opt out.
+
+|
+
 Continuous documentation is a critical task often overlooked or poorly executed.
 
 Over time as memories fade, the need for good quality documentation becomes evident.
