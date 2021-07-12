@@ -1,7 +1,14 @@
-============
-Junction Box
-============
+================
+**Junction Box**
+================
+
 |
+
+.. image:: docs/source/_static/img/logo-junction-box-280x640.png
+   :alt: Junction Box
+
+|
+
 
 |made-with-sphinx-doc|
 
@@ -16,25 +23,32 @@ Junction Box
     :target: https://github.com/ambv/black
     :alt: Code style: black
 |
+
 A junction box is a place for making connections.
 -------------------------------------------------
 |
+
 *Here, we document connections between technologies for our software development framework.*
 
 |
+
 Junction Box documentation `here <https://junction-box.readthedocs.io/>`__.
 
 |
+
 Technologies
 ------------
 |
+
 Documentation
 ~~~~~~~~~~~~~
 
 * `Diátaxis <https://diataxis.fr/>`__ is the documentation framework employed.  Diátaxis adopts a systematic approach to structuring technical documentation.
+
 |
 
 * `Sphinx <https://www.sphinx-doc.org/en/master/>`__, created for the Python language, provides excellent facilities for documenting projects using various languages.  This project uses `reStructuredText <https://docutils.sourceforge.io/rst.html>`__.
 
 |
+
 **MORE TO COME!**
