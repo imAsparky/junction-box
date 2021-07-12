@@ -17,6 +17,12 @@ Changes unreleased.
 
 ### Documentation
 
+- style:
+  - Update Commit Message template #41 ([b0c05bb](https://github.com/imAsparky/junction-box/commit/b0c05bb579cc22529c409d681c76c9c1020b866e)) ([#46](https://github.com/imAsparky/junction-box/pull/46))
+  - Update Development Pipeline style #35 ([608574f](https://github.com/imAsparky/junction-box/commit/608574f027373e18188c141e40792798cf12ae76)) ([#46](https://github.com/imAsparky/junction-box/pull/46))
+  - Add Development Pipeline style #35 ([c9847bb](https://github.com/imAsparky/junction-box/commit/c9847bbe7777ee429c9231e75b329464f0d1ec72)) ([#36](https://github.com/imAsparky/junction-box/pull/36))
+  - Added reST style guide. TOC update #23 ([78aad68](https://github.com/imAsparky/junction-box/commit/78aad68cc078dac547e7932f3238a22daba0ed1a)) ([#32](https://github.com/imAsparky/junction-box/pull/32))
+
 - log:
   - Add additional tags to update-changelog.yaml# ([dce6027](https://github.com/imAsparky/junction-box/commit/dce60279223d53983c3f365583954e1fe042da7a)) ([#45](https://github.com/imAsparky/junction-box/pull/45))
 
@@ -25,10 +31,6 @@ Changes unreleased.
 
 - images:
   - Add .png and .svg logo's #37 ([1c7abc3](https://github.com/imAsparky/junction-box/commit/1c7abc39c1c225d34e6ff2f04e0ca4b2f5589a36)) ([#38](https://github.com/imAsparky/junction-box/pull/38))
-
-- style:
-  - Add Development Pipeline style #35 ([c9847bb](https://github.com/imAsparky/junction-box/commit/c9847bbe7777ee429c9231e75b329464f0d1ec72)) ([#36](https://github.com/imAsparky/junction-box/pull/36))
-  - Added reST style guide. TOC update #23 ([78aad68](https://github.com/imAsparky/junction-box/commit/78aad68cc078dac547e7932f3238a22daba0ed1a)) ([#32](https://github.com/imAsparky/junction-box/pull/32))
 
 - about:
   - Change to match reST style guide. ([230dd44](https://github.com/imAsparky/junction-box/commit/230dd44246be82f710e0c686f461243030d91c96)) ([#31](https://github.com/imAsparky/junction-box/pull/31))
