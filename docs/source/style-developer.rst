@@ -95,6 +95,7 @@ Auto-generate CHANGELOG uses
 
 .. code-block:: yaml
     :linenos:
+    :emphasize-lines: 18
 
     name: Auto-generate CHANGELOG
     on:
