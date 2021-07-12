@@ -17,6 +17,12 @@ Changes unreleased.
 
 ### Documentation
 
+- README:
+  - Added logo to the git README #37 ([7be1e99](https://github.com/imAsparky/junction-box/commit/7be1e99e661850f2895c1522a0acd5c248046c12)) ([#39](https://github.com/imAsparky/junction-box/pull/39))
+
+- images:
+  - Add .png and .svg logo's #37 ([1c7abc3](https://github.com/imAsparky/junction-box/commit/1c7abc39c1c225d34e6ff2f04e0ca4b2f5589a36)) ([#38](https://github.com/imAsparky/junction-box/pull/38))
+
 - style:
   - Add Development Pipeline style #35 ([c9847bb](https://github.com/imAsparky/junction-box/commit/c9847bbe7777ee429c9231e75b329464f0d1ec72)) ([#36](https://github.com/imAsparky/junction-box/pull/36))
   - Added reST style guide. TOC update #23 ([78aad68](https://github.com/imAsparky/junction-box/commit/78aad68cc078dac547e7932f3238a22daba0ed1a)) ([#32](https://github.com/imAsparky/junction-box/pull/32))
