@@ -30,6 +30,7 @@ release = "0.0.1-alpha"
 # ones.
 extensions = [
     "sphinx_rtd_theme",
+    "myst_parser",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
