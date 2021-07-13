@@ -9,11 +9,15 @@
 
 |
 
-
 |made-with-sphinx-doc|
 
 .. |made-with-sphinx-doc| image:: https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg
    :target: https://www.sphinx-doc.org/
+
+
+.. image:: https://readthedocs.org/projects/junction-box/badge/?version=latest
+   :target: https://junction-box.readthedocs.io/en/latest/?badge=latest
+   :alt: Documentation Status
 
 .. image:: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
    :target: https://github.com/pre-commit/pre-commit
@@ -22,6 +26,7 @@
 .. image:: https://img.shields.io/badge/code%20style-black-000000.svg
     :target: https://github.com/ambv/black
     :alt: Code style: black
+
 |
 
 A junction box is a place for making connections.
