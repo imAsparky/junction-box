@@ -15,6 +15,7 @@ A place to document connections between technologies for our software developmen
 
    style-guide
    about
+   CHANGELOG.md
 
 
 
