@@ -14,6 +14,7 @@ Changes unreleased.
 ### Bug Fixes
 
 - log:
+  - CHANGELOG now updates on push #60 ([eea8e08](https://github.com/imAsparky/junction-box/commit/eea8e0884a518fd21f571fc8584b40c26dee0d16)) ([#61](https://github.com/imAsparky/junction-box/pull/61))
   - Added CHANGELOG.md to /docs/source #58 ([9269a54](https://github.com/imAsparky/junction-box/commit/9269a54ca73da56a53b61f5b8322649394cd59a3)) ([#59](https://github.com/imAsparky/junction-box/pull/59))
   - Changed yaml /source/CHANGELOG #58 ([e6d3c8f](https://github.com/imAsparky/junction-box/commit/e6d3c8f96b158e8ab41f3f84890ff9abacae0662)) ([#59](https://github.com/imAsparky/junction-box/pull/59))
 
