@@ -4,6 +4,9 @@ on:
     types: [created, edited]
   schedule:
     - cron: "0 23 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
