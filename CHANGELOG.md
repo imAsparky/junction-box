@@ -13,10 +13,23 @@ Changes unreleased.
 
 ### Bug Fixes
 
+- log:
+  - Added CHANGELOG.md to /docs/source #58 ([9269a54](https://github.com/imAsparky/junction-box/commit/9269a54ca73da56a53b61f5b8322649394cd59a3)) ([#59](https://github.com/imAsparky/junction-box/pull/59))
+  - Changed yaml /source/CHANGELOG #58 ([e6d3c8f](https://github.com/imAsparky/junction-box/commit/e6d3c8f96b158e8ab41f3f84890ff9abacae0662)) ([#59](https://github.com/imAsparky/junction-box/pull/59))
+
 - yaml:
   - Cron job not formatted correctly ([a64530e](https://github.com/imAsparky/junction-box/commit/a64530eb6bbba6f293b3ba8a210211e68db97d9f)) ([#34](https://github.com/imAsparky/junction-box/pull/34))
 
 ### Documentation
+
+- log:
+  - Add CHANGELOG to the docs #56 ([c27e973](https://github.com/imAsparky/junction-box/commit/c27e9731926d99738ac6a66a1b87a768d81c6323)) ([#57](https://github.com/imAsparky/junction-box/pull/57))
+  - update-changelog.yaml cron now UTC2300 #54 ([0d6c20c](https://github.com/imAsparky/junction-box/commit/0d6c20c4cb4ecfb60513a06ec07350b465cab73f)) ([#55](https://github.com/imAsparky/junction-box/pull/55))
+  - Add additional tags to update-changelog.yaml# ([dce6027](https://github.com/imAsparky/junction-box/commit/dce60279223d53983c3f365583954e1fe042da7a)) ([#45](https://github.com/imAsparky/junction-box/pull/45))
+
+- README:
+  - Added readthedocs status badge #52 ([de9786b](https://github.com/imAsparky/junction-box/commit/de9786bfd952f5808f942c324b46d69fbd361ca7)) ([#53](https://github.com/imAsparky/junction-box/pull/53))
+  - Added logo to the git README #37 ([7be1e99](https://github.com/imAsparky/junction-box/commit/7be1e99e661850f2895c1522a0acd5c248046c12)) ([#39](https://github.com/imAsparky/junction-box/pull/39))
 
 - about:
   - Added content to the WHY section. ([8446c68](https://github.com/imAsparky/junction-box/commit/8446c682011d5754e2e86935e843f2464273dfac)) ([#50](https://github.com/imAsparky/junction-box/pull/50))
@@ -29,12 +42,6 @@ Changes unreleased.
   - Update Development Pipeline style #35 ([608574f](https://github.com/imAsparky/junction-box/commit/608574f027373e18188c141e40792798cf12ae76)) ([#46](https://github.com/imAsparky/junction-box/pull/46))
   - Add Development Pipeline style #35 ([c9847bb](https://github.com/imAsparky/junction-box/commit/c9847bbe7777ee429c9231e75b329464f0d1ec72)) ([#36](https://github.com/imAsparky/junction-box/pull/36))
   - Added reST style guide. TOC update #23 ([78aad68](https://github.com/imAsparky/junction-box/commit/78aad68cc078dac547e7932f3238a22daba0ed1a)) ([#32](https://github.com/imAsparky/junction-box/pull/32))
-
-- log:
-  - Add additional tags to update-changelog.yaml# ([dce6027](https://github.com/imAsparky/junction-box/commit/dce60279223d53983c3f365583954e1fe042da7a)) ([#45](https://github.com/imAsparky/junction-box/pull/45))
-
-- README:
-  - Added logo to the git README #37 ([7be1e99](https://github.com/imAsparky/junction-box/commit/7be1e99e661850f2895c1522a0acd5c248046c12)) ([#39](https://github.com/imAsparky/junction-box/pull/39))
 
 - images:
   - Add .png and .svg logo's #37 ([1c7abc3](https://github.com/imAsparky/junction-box/commit/1c7abc39c1c225d34e6ff2f04e0ca4b2f5589a36)) ([#38](https://github.com/imAsparky/junction-box/pull/38))
