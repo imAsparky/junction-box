@@ -23,14 +23,15 @@ Changes unreleased.
 
 ### Documentation
 
+- README:
+  - Added a link to youtube Diátaxis ([97dda99](https://github.com/imAsparky/junction-box/commit/97dda99d0fea4ad7b7705fa8c46cc2e7ba5a698a)) ([#67](https://github.com/imAsparky/junction-box/pull/67))
+  - Added readthedocs status badge #52 ([de9786b](https://github.com/imAsparky/junction-box/commit/de9786bfd952f5808f942c324b46d69fbd361ca7)) ([#53](https://github.com/imAsparky/junction-box/pull/53))
+  - Added logo to the git README #37 ([7be1e99](https://github.com/imAsparky/junction-box/commit/7be1e99e661850f2895c1522a0acd5c248046c12)) ([#39](https://github.com/imAsparky/junction-box/pull/39))
+
 - log:
   - Add CHANGELOG to the docs #56 ([c27e973](https://github.com/imAsparky/junction-box/commit/c27e9731926d99738ac6a66a1b87a768d81c6323)) ([#57](https://github.com/imAsparky/junction-box/pull/57))
   - update-changelog.yaml cron now UTC2300 #54 ([0d6c20c](https://github.com/imAsparky/junction-box/commit/0d6c20c4cb4ecfb60513a06ec07350b465cab73f)) ([#55](https://github.com/imAsparky/junction-box/pull/55))
   - Add additional tags to update-changelog.yaml# ([dce6027](https://github.com/imAsparky/junction-box/commit/dce60279223d53983c3f365583954e1fe042da7a)) ([#45](https://github.com/imAsparky/junction-box/pull/45))
-
-- README:
-  - Added readthedocs status badge #52 ([de9786b](https://github.com/imAsparky/junction-box/commit/de9786bfd952f5808f942c324b46d69fbd361ca7)) ([#53](https://github.com/imAsparky/junction-box/pull/53))
-  - Added logo to the git README #37 ([7be1e99](https://github.com/imAsparky/junction-box/commit/7be1e99e661850f2895c1522a0acd5c248046c12)) ([#39](https://github.com/imAsparky/junction-box/pull/39))
 
 - about:
   - Added content to the WHY section. ([8446c68](https://github.com/imAsparky/junction-box/commit/8446c682011d5754e2e86935e843f2464273dfac)) ([#50](https://github.com/imAsparky/junction-box/pull/50))
