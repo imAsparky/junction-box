@@ -48,7 +48,10 @@ Technologies
 Documentation
 ~~~~~~~~~~~~~
 
+
 * `Diátaxis <https://diataxis.fr/>`__ is the documentation framework employed.  Diátaxis adopts a systematic approach to structuring technical documentation.
+
+      See an excellent presentation at `Pycon Melbourne 2017 <https://youtu.be/t4vKPhjcMZg>`__  by the creator of Diátaxis Daniele Procida.
 
 |
 
