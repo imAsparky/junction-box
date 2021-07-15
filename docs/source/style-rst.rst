@@ -187,3 +187,11 @@ See here :ref:`random-heading-link` for information to help with your unexpected
 
    The \:ref:\`random heading-link\` text is surrounded by backticks,
    not single apostrophe's!
+
+
+
+**Admonitions**
+===============
+
+.. https://docutils.sourceforge.io/0.4/docs/ref/rst/directives.html#specific-admonitions
+.. https://docutils.sourceforge.io/0.4/docs/howto/rst-directives.html
