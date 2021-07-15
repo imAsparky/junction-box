@@ -4,12 +4,11 @@
 
 Changes unreleased.
 
-### Chore
-
-- files:
-  - Rename and fix links to the file ([6a689b6](https://github.com/imAsparky/junction-box/commit/6a689b61ef394b9c54826bfc74a6caccdc49a849)) ([#68](https://github.com/imAsparky/junction-box/pull/68))
-
 ### Feature
+
+- style:
+  - Created diataxis tute and intro #25 ([d030edf](https://github.com/imAsparky/junction-box/commit/d030edf07b2252ea3eeeaeb8028f72dc7190e18b)) ([#74](https://github.com/imAsparky/junction-box/pull/74))
+  - Create Intro to Diataxus #25 ([d5c6a19](https://github.com/imAsparky/junction-box/commit/d5c6a19f6869caf2ca32ebeb1ccba1d11ee1e415)) ([#73](https://github.com/imAsparky/junction-box/pull/73))
 
 - sphinx:
   - Add support for markdown #49 ([ab2b705](https://github.com/imAsparky/junction-box/commit/ab2b7059a15a78ba695fb58b2f2cc369aeeff635)) ([#51](https://github.com/imAsparky/junction-box/pull/51))
@@ -85,11 +84,6 @@ Snyk was deployed to monitor this project.
 ## [v0.0.1-alpha](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha) - 2021-07-07 08:23:31
 
 Basic git workflow setup.
-
-### Chore
-
-- venv:
-  - Added requirements.txt ([4eef7b4](https://github.com/imAsparky/junction-box/commit/4eef7b437f161d21d16b0295b830f12bd1dc8d1d)) ([#9](https://github.com/imAsparky/junction-box/pull/9))
 
 ### Feature
 
