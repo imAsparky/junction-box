@@ -2,7 +2,7 @@
 .. highlight:: rst
 .. index:: Diataxus; Introduction
 
-.. _intro-diataxus:
+.. _diataxus-intro:
 
 =====================
 Diátaxis Introduction

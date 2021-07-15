@@ -2,7 +2,7 @@
 .. highlight:: rst
 .. index:: Diataxus; Tutorials
 
-.. _tutorial-diataxus:
+.. _diataxus-tutorials:
 
 =====================
 Diátaxis Tutorials
