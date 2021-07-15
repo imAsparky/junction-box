@@ -7,6 +7,9 @@ Changes unreleased.
 ### Chore
 
 - files:
+  - Housekeeping adding img/diataxus files ([cb5bb26](https://github.com/imAsparky/junction-box/commit/cb5bb2657057448306c6b5f01eda0f6ad934d822)) ([#78](https://github.com/imAsparky/junction-box/pull/78))
+  - Files deleted housekeeping img/ ([afd496e](https://github.com/imAsparky/junction-box/commit/afd496ec709f1240e0e9a91b6e65ed10ff2e012c)) ([#77](https://github.com/imAsparky/junction-box/pull/77))
+  - Housekeeping deleted files ([9163f96](https://github.com/imAsparky/junction-box/commit/9163f96e3c21c51a95b7a497f75240462bddb502)) ([#76](https://github.com/imAsparky/junction-box/pull/76))
   - Added a img/diataxus folder ([a781529](https://github.com/imAsparky/junction-box/commit/a781529166b430841bc1eaf7921835dd0557e3d8)) ([#75](https://github.com/imAsparky/junction-box/pull/75))
   - Rename and fix links to the logo images ([274d296](https://github.com/imAsparky/junction-box/commit/274d296a8f8f86c49a72fd458aaf43afbbbc0fbf)) ([#72](https://github.com/imAsparky/junction-box/pull/72))
   - Rename and fix links to the file ([6a689b6](https://github.com/imAsparky/junction-box/commit/6a689b61ef394b9c54826bfc74a6caccdc49a849)) ([#68](https://github.com/imAsparky/junction-box/pull/68))
