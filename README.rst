@@ -4,7 +4,7 @@
 
 |
 
-.. image:: docs/source/_static/img/logo-junction-box-1280x640.png
+.. image:: docs/source/_static/img/logo/logo-junction-box-1280x640.png
    :alt: Junction Box
 
 |
