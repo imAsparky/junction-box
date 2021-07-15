@@ -4,6 +4,11 @@
 
 Changes unreleased.
 
+### Chore
+
+- files:
+  - Rename and fix links to the file ([6a689b6](https://github.com/imAsparky/junction-box/commit/6a689b61ef394b9c54826bfc74a6caccdc49a849)) ([#68](https://github.com/imAsparky/junction-box/pull/68))
+
 ### Feature
 
 - sphinx:
