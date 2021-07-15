@@ -29,7 +29,7 @@ Each documentation type requires a different approach to its creation.
 
 Technical documentation should be structured explicitly around these four types and should keep them all separate and distinct from each other.
 
-.. figure:: /_static/img/diataxus-framework-1280x640.svg
+.. figure:: /_static/img/diataxus/diataxus-framework-1280x640.svg
     :alt: Diataxus Framework
     :align: center
 
