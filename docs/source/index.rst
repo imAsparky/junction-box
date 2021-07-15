@@ -3,11 +3,19 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root ``toctree`` directive.
 
+.. include:: /extras.rst.txt
+
+.. image:: /_static/img/logo/logo-junction-box-1280x640.svg
+   :width: 250px
+   :align: center
+
+|
+
 Welcome to Junction Box's documentation!
 ========================================
 
-A place to document connections between technologies for our software development framework.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:emph:`A place to document connections between technologies for our software development framework.`
+
 
 .. toctree::
    :maxdepth: 1
