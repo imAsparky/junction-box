@@ -7,9 +7,19 @@ Changes unreleased.
 ### Chore
 
 - files:
+  - Added a img/diataxus folder ([a781529](https://github.com/imAsparky/junction-box/commit/a781529166b430841bc1eaf7921835dd0557e3d8)) ([#75](https://github.com/imAsparky/junction-box/pull/75))
+  - Rename and fix links to the logo images ([274d296](https://github.com/imAsparky/junction-box/commit/274d296a8f8f86c49a72fd458aaf43afbbbc0fbf)) ([#72](https://github.com/imAsparky/junction-box/pull/72))
   - Rename and fix links to the file ([6a689b6](https://github.com/imAsparky/junction-box/commit/6a689b61ef394b9c54826bfc74a6caccdc49a849)) ([#68](https://github.com/imAsparky/junction-box/pull/68))
 
+- log:
+  - update-changelog.yaml on push removed ([f5ce7fe](https://github.com/imAsparky/junction-box/commit/f5ce7fe1e8c3a3d9fa1e761652ed37ef794de1a7)) ([#71](https://github.com/imAsparky/junction-box/pull/71))
+  - update-changelog.yaml Types tweaked ([a2fc239](https://github.com/imAsparky/junction-box/commit/a2fc2390dea6b9a4eec34c2b203c183586e2e5bb)) ([#70](https://github.com/imAsparky/junction-box/pull/70))
+
 ### Feature
+
+- style:
+  - Created diataxis tute and intro #25 ([d030edf](https://github.com/imAsparky/junction-box/commit/d030edf07b2252ea3eeeaeb8028f72dc7190e18b)) ([#74](https://github.com/imAsparky/junction-box/pull/74))
+  - Create Intro to Diataxus #25 ([d5c6a19](https://github.com/imAsparky/junction-box/commit/d5c6a19f6869caf2ca32ebeb1ccba1d11ee1e415)) ([#73](https://github.com/imAsparky/junction-box/pull/73))
 
 - sphinx:
   - Add support for markdown #49 ([ab2b705](https://github.com/imAsparky/junction-box/commit/ab2b7059a15a78ba695fb58b2f2cc369aeeff635)) ([#51](https://github.com/imAsparky/junction-box/pull/51))
@@ -55,6 +65,14 @@ Changes unreleased.
 
 - Style:
   - Add intro Style Guide, Update Index ([2df9ad0](https://github.com/imAsparky/junction-box/commit/2df9ad09c3fd1b69871b83de9bc72a34191f1cb5)) ([#30](https://github.com/imAsparky/junction-box/pull/30))
+
+### In Progress
+
+- DOCS:
+  - Add Diataxus framework images, png, svg #25 ([a4088c1](https://github.com/imAsparky/junction-box/commit/a4088c1bfb0180c0e8d9fffe4f6d11407daa3115)) ([#69](https://github.com/imAsparky/junction-box/pull/69))
+
+- images:
+  - Updated the .png and .svg logos #37 ([28e97fa](https://github.com/imAsparky/junction-box/commit/28e97fa49b43f11918bcab9937378b092c2f37ca)) ([#40](https://github.com/imAsparky/junction-box/pull/40))
 
 ## [v0.0.1-alpha-1](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha-1) - 2021-07-08 07:35:04
 
