@@ -23,10 +23,10 @@ jobs:
           PATH: "/CHANGELOG.md"
           COMMIT_MESSAGE: "docs(CHANGELOG): update release notes:repo"
           TYPE: "chore:Chore,feat:Feature,fix:Bug Fixes,docs:Documentation,perf:Performance Improvements,refactor:Refactor,style:Styling,test:Tests, WIP:In Progress"
-      - uses: BobAnkh/auto-generate-changelog@master
-        with:
-          REPO_NAME: "imAsparky/junction-box"
-          ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
-          PATH: "/docs/source/CHANGELOG.md"
-          COMMIT_MESSAGE: "docs(CHANGELOG): update release notes:docs"
-          TYPE: "feat:Feature,fix:Bug Fixes,docs:Documentation,perf:Performance Improvements,refactor:Refactor,style:Styling,test:Tests"
+      # - uses: BobAnkh/auto-generate-changelog@master
+      #   with:
+      #     REPO_NAME: "imAsparky/junction-box"
+      #     ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      #     PATH: "/docs/source/CHANGELOG.md"
+      #     COMMIT_MESSAGE: "docs(CHANGELOG): update release notes:docs"
+      #     TYPE: "feat:Feature,fix:Bug Fixes,docs:Documentation,perf:Performance Improvements,refactor:Refactor,style:Styling,test:Tests"
