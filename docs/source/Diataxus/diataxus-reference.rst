@@ -11,7 +11,7 @@ Diátaxis Reference
 
 
 .. figure:: /_static/img/diataxus/diataxus-reference-1280x640.svg
-    :alt: Diataxus Tutorial
+    :alt: Diataxus Reference
     :align: center
     :width: 640 px
 
