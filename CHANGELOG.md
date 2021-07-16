@@ -27,6 +27,9 @@ Changes unreleased.
 
 ### Feature
 
+- docs:
+  - Created diataxus-discussion doc #25 ([2b03d6c](https://github.com/imAsparky/junction-box/commit/2b03d6ccbd265b554051d1f5e6af3d9f30141906)) ([#96](https://github.com/imAsparky/junction-box/pull/96))
+
 - style:
   - Add logo images #25 ([11e02d0](https://github.com/imAsparky/junction-box/commit/11e02d0bc4dcfa63a64dd39d9b3b15258c09f691)) ([#80](https://github.com/imAsparky/junction-box/pull/80))
   - Created diataxis tute and intro #25 ([d030edf](https://github.com/imAsparky/junction-box/commit/d030edf07b2252ea3eeeaeb8028f72dc7190e18b)) ([#74](https://github.com/imAsparky/junction-box/pull/74))
@@ -48,6 +51,10 @@ Changes unreleased.
   - Cron job not formatted correctly ([a64530e](https://github.com/imAsparky/junction-box/commit/a64530eb6bbba6f293b3ba8a210211e68db97d9f)) ([#34](https://github.com/imAsparky/junction-box/pull/34))
 
 ### Documentation
+
+- images:
+  - Add .png and .svg diataxus #25 ([a360ff5](https://github.com/imAsparky/junction-box/commit/a360ff5cc9485f88f20d7ef68c2c4f6a47a976cb)) ([#94](https://github.com/imAsparky/junction-box/pull/94))
+  - Add .png and .svg logo's #37 ([1c7abc3](https://github.com/imAsparky/junction-box/commit/1c7abc39c1c225d34e6ff2f04e0ca4b2f5589a36)) ([#38](https://github.com/imAsparky/junction-box/pull/38))
 
 - style:
   - Created how-to-diataxus.rst #25 ([0aa9d46](https://github.com/imAsparky/junction-box/commit/0aa9d46f9cf599c3709a5f3b18ff6425fcb8bf8b)) ([#85](https://github.com/imAsparky/junction-box/pull/85))
@@ -74,15 +81,13 @@ Changes unreleased.
   - Change to match reST style guide. ([230dd44](https://github.com/imAsparky/junction-box/commit/230dd44246be82f710e0c686f461243030d91c96)) ([#31](https://github.com/imAsparky/junction-box/pull/31))
   - Improve wording in the Why section ([ec5c76e](https://github.com/imAsparky/junction-box/commit/ec5c76e0ce1329aa39d2df4b541e6a3e5b50a59c)) ([#26](https://github.com/imAsparky/junction-box/pull/26))
 
-- images:
-  - Add .png and .svg logo's #37 ([1c7abc3](https://github.com/imAsparky/junction-box/commit/1c7abc39c1c225d34e6ff2f04e0ca4b2f5589a36)) ([#38](https://github.com/imAsparky/junction-box/pull/38))
-
 - Style:
   - Add intro Style Guide, Update Index ([2df9ad0](https://github.com/imAsparky/junction-box/commit/2df9ad09c3fd1b69871b83de9bc72a34191f1cb5)) ([#30](https://github.com/imAsparky/junction-box/pull/30))
 
 ### In Progress
 
 - style:
+  - Tweaked 2 diataxus file content #25 ([473eace](https://github.com/imAsparky/junction-box/commit/473eacefe9a5bfe7d3b21a41a433e890568aba81)) ([#96](https://github.com/imAsparky/junction-box/pull/96))
   - Added content diataxus-reference.rst #25 ([ebb761a](https://github.com/imAsparky/junction-box/commit/ebb761a2d230e17d87c27d7920982046cedd0bdc)) ([#92](https://github.com/imAsparky/junction-box/pull/92))
   - Update content diataxus-intro.rst #25 ([ea996f4](https://github.com/imAsparky/junction-box/commit/ea996f40cdcc14ba52b3aaaa28f4783f5e34deea)) ([#92](https://github.com/imAsparky/junction-box/pull/92))
   - Fix asccidental deletion of how-to #25 ([cffef71](https://github.com/imAsparky/junction-box/commit/cffef71a0ceaa65ac13573f33345fa746aded992))
@@ -92,6 +97,9 @@ Changes unreleased.
   - Added content to intro-diataxus #25 ([3f3f328](https://github.com/imAsparky/junction-box/commit/3f3f32802af69c217bf848595bf1fd6821382086)) ([#83](https://github.com/imAsparky/junction-box/pull/83))
   - Diataxus style tutorial update index #25 ([afcded3](https://github.com/imAsparky/junction-box/commit/afcded33fd6a530ac21595e0bde967f86f88c050)) ([#79](https://github.com/imAsparky/junction-box/pull/79))
   - Diataxus style intro update index #25 ([98a7e6b](https://github.com/imAsparky/junction-box/commit/98a7e6b2c66bb5cac551b151332b33e4656708d7)) ([#79](https://github.com/imAsparky/junction-box/pull/79))
+
+- log:
+  - Comment out second BobAnkh job to test #93 ([7f44350](https://github.com/imAsparky/junction-box/commit/7f44350713e6adbde35881b7db4bda067d9cfe91)) ([#95](https://github.com/imAsparky/junction-box/pull/95))
 
 - DOCS:
   - Add Diataxus framework images, png, svg #25 ([a4088c1](https://github.com/imAsparky/junction-box/commit/a4088c1bfb0180c0e8d9fffe4f6d11407daa3115)) ([#69](https://github.com/imAsparky/junction-box/pull/69))
