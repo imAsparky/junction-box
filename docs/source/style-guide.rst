@@ -1,6 +1,18 @@
+.. include:: /extras.rst.txt
+.. index:: style; Style Guide
+.. _style-guide-intro:
+
 ===============
 **Style Guide**
 ===============
+
+.. sidebar:: Optional Sidebar Title
+      :subtitle: Optional Sidebar Subtitle
+
+      Subsequent indented lines comprise
+      the body of the sidebar, and are
+      interpreted as body elements.
+
 
 **What**
 --------
