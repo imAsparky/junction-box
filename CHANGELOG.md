@@ -6,6 +6,13 @@ Changes unreleased.
 
 ### Chore
 
+- file:
+  - Renamed tutorials-diataxus #25 ([fa78293](https://github.com/imAsparky/junction-box/commit/fa78293622c55574d365cbb236f3eea3eadec967)) ([#91](https://github.com/imAsparky/junction-box/pull/91))
+  - Delete intro-diataxus #25 ([ca58e80](https://github.com/imAsparky/junction-box/commit/ca58e8045f0c56fde540fc8f6ba934cb8260e44b)) ([#90](https://github.com/imAsparky/junction-box/pull/90))
+  - Diataxus/how-to-diataxus.rst #25 ([e6fa853](https://github.com/imAsparky/junction-box/commit/e6fa853f75b2770373998528fba0e0eb8ddb4b1a)) ([#89](https://github.com/imAsparky/junction-box/pull/89))
+  - Files renamed to be deleted #25 ([57bb30c](https://github.com/imAsparky/junction-box/commit/57bb30c3deb7d8f3f5b4380fee033919a43c1c2d)) ([#87](https://github.com/imAsparky/junction-box/pull/87))
+  - Rename 2 diataxus files for style #25 ([3901969](https://github.com/imAsparky/junction-box/commit/39019698f7924989bd6e329285ee3832face5c41)) ([#86](https://github.com/imAsparky/junction-box/pull/86))
+
 - files:
   - Housekeeping adding img/diataxus files ([cb5bb26](https://github.com/imAsparky/junction-box/commit/cb5bb2657057448306c6b5f01eda0f6ad934d822)) ([#78](https://github.com/imAsparky/junction-box/pull/78))
   - Files deleted housekeeping img/ ([afd496e](https://github.com/imAsparky/junction-box/commit/afd496ec709f1240e0e9a91b6e65ed10ff2e012c)) ([#77](https://github.com/imAsparky/junction-box/pull/77))
@@ -21,6 +28,7 @@ Changes unreleased.
 ### Feature
 
 - style:
+  - Add logo images #25 ([11e02d0](https://github.com/imAsparky/junction-box/commit/11e02d0bc4dcfa63a64dd39d9b3b15258c09f691)) ([#80](https://github.com/imAsparky/junction-box/pull/80))
   - Created diataxis tute and intro #25 ([d030edf](https://github.com/imAsparky/junction-box/commit/d030edf07b2252ea3eeeaeb8028f72dc7190e18b)) ([#74](https://github.com/imAsparky/junction-box/pull/74))
   - Create Intro to Diataxus #25 ([d5c6a19](https://github.com/imAsparky/junction-box/commit/d5c6a19f6869caf2ca32ebeb1ccba1d11ee1e415)) ([#73](https://github.com/imAsparky/junction-box/pull/73))
 
@@ -41,6 +49,16 @@ Changes unreleased.
 
 ### Documentation
 
+- style:
+  - Created how-to-diataxus.rst #25 ([0aa9d46](https://github.com/imAsparky/junction-box/commit/0aa9d46f9cf599c3709a5f3b18ff6425fcb8bf8b)) ([#85](https://github.com/imAsparky/junction-box/pull/85))
+  - Added content style-rst.rst #23 ([7bb4d14](https://github.com/imAsparky/junction-box/commit/7bb4d14af34eb6146a153c009fc4d7088a1b969c)) ([#82](https://github.com/imAsparky/junction-box/pull/82))
+  - Updated index.rst with extras.rst.txt ([63e844e](https://github.com/imAsparky/junction-box/commit/63e844e6287ff9b360bdcc0908e3878f996cf488)) ([#81](https://github.com/imAsparky/junction-box/pull/81))
+  - Update Development Pipeline style #35 ([2b37173](https://github.com/imAsparky/junction-box/commit/2b37173c06e04342d392bbd2d1f3fb5ddaae95f7)) ([#47](https://github.com/imAsparky/junction-box/pull/47))
+  - Update Commit Message template #41 ([b0c05bb](https://github.com/imAsparky/junction-box/commit/b0c05bb579cc22529c409d681c76c9c1020b866e)) ([#46](https://github.com/imAsparky/junction-box/pull/46))
+  - Update Development Pipeline style #35 ([608574f](https://github.com/imAsparky/junction-box/commit/608574f027373e18188c141e40792798cf12ae76)) ([#46](https://github.com/imAsparky/junction-box/pull/46))
+  - Add Development Pipeline style #35 ([c9847bb](https://github.com/imAsparky/junction-box/commit/c9847bbe7777ee429c9231e75b329464f0d1ec72)) ([#36](https://github.com/imAsparky/junction-box/pull/36))
+  - Added reST style guide. TOC update #23 ([78aad68](https://github.com/imAsparky/junction-box/commit/78aad68cc078dac547e7932f3238a22daba0ed1a)) ([#32](https://github.com/imAsparky/junction-box/pull/32))
+
 - README:
   - Added a link to youtube Diátaxis ([97dda99](https://github.com/imAsparky/junction-box/commit/97dda99d0fea4ad7b7705fa8c46cc2e7ba5a698a)) ([#67](https://github.com/imAsparky/junction-box/pull/67))
   - Added readthedocs status badge #52 ([de9786b](https://github.com/imAsparky/junction-box/commit/de9786bfd952f5808f942c324b46d69fbd361ca7)) ([#53](https://github.com/imAsparky/junction-box/pull/53))
@@ -56,13 +74,6 @@ Changes unreleased.
   - Change to match reST style guide. ([230dd44](https://github.com/imAsparky/junction-box/commit/230dd44246be82f710e0c686f461243030d91c96)) ([#31](https://github.com/imAsparky/junction-box/pull/31))
   - Improve wording in the Why section ([ec5c76e](https://github.com/imAsparky/junction-box/commit/ec5c76e0ce1329aa39d2df4b541e6a3e5b50a59c)) ([#26](https://github.com/imAsparky/junction-box/pull/26))
 
-- style:
-  - Update Development Pipeline style #35 ([2b37173](https://github.com/imAsparky/junction-box/commit/2b37173c06e04342d392bbd2d1f3fb5ddaae95f7)) ([#47](https://github.com/imAsparky/junction-box/pull/47))
-  - Update Commit Message template #41 ([b0c05bb](https://github.com/imAsparky/junction-box/commit/b0c05bb579cc22529c409d681c76c9c1020b866e)) ([#46](https://github.com/imAsparky/junction-box/pull/46))
-  - Update Development Pipeline style #35 ([608574f](https://github.com/imAsparky/junction-box/commit/608574f027373e18188c141e40792798cf12ae76)) ([#46](https://github.com/imAsparky/junction-box/pull/46))
-  - Add Development Pipeline style #35 ([c9847bb](https://github.com/imAsparky/junction-box/commit/c9847bbe7777ee429c9231e75b329464f0d1ec72)) ([#36](https://github.com/imAsparky/junction-box/pull/36))
-  - Added reST style guide. TOC update #23 ([78aad68](https://github.com/imAsparky/junction-box/commit/78aad68cc078dac547e7932f3238a22daba0ed1a)) ([#32](https://github.com/imAsparky/junction-box/pull/32))
-
 - images:
   - Add .png and .svg logo's #37 ([1c7abc3](https://github.com/imAsparky/junction-box/commit/1c7abc39c1c225d34e6ff2f04e0ca4b2f5589a36)) ([#38](https://github.com/imAsparky/junction-box/pull/38))
 
@@ -70,6 +81,17 @@ Changes unreleased.
   - Add intro Style Guide, Update Index ([2df9ad0](https://github.com/imAsparky/junction-box/commit/2df9ad09c3fd1b69871b83de9bc72a34191f1cb5)) ([#30](https://github.com/imAsparky/junction-box/pull/30))
 
 ### In Progress
+
+- style:
+  - Added content diataxus-reference.rst #25 ([ebb761a](https://github.com/imAsparky/junction-box/commit/ebb761a2d230e17d87c27d7920982046cedd0bdc)) ([#92](https://github.com/imAsparky/junction-box/pull/92))
+  - Update content diataxus-intro.rst #25 ([ea996f4](https://github.com/imAsparky/junction-box/commit/ea996f40cdcc14ba52b3aaaa28f4783f5e34deea)) ([#92](https://github.com/imAsparky/junction-box/pull/92))
+  - Fix asccidental deletion of how-to #25 ([cffef71](https://github.com/imAsparky/junction-box/commit/cffef71a0ceaa65ac13573f33345fa746aded992))
+  - Fixed accidental deletion of how-to #25 ([99ca891](https://github.com/imAsparky/junction-box/commit/99ca89113777511efb769cefb405b8b81a91b1af))
+  - Added diataxus-reference images #25 ([ba4aa64](https://github.com/imAsparky/junction-box/commit/ba4aa64c659f92c2b21a275bd8dc50aa9c57b8f5)) ([#86](https://github.com/imAsparky/junction-box/pull/86))
+  - Added content to tutorial-diataxus #25 ([95e1910](https://github.com/imAsparky/junction-box/commit/95e19107937b55c31bb58237db269089dc63d5ed)) ([#84](https://github.com/imAsparky/junction-box/pull/84))
+  - Added content to intro-diataxus #25 ([3f3f328](https://github.com/imAsparky/junction-box/commit/3f3f32802af69c217bf848595bf1fd6821382086)) ([#83](https://github.com/imAsparky/junction-box/pull/83))
+  - Diataxus style tutorial update index #25 ([afcded3](https://github.com/imAsparky/junction-box/commit/afcded33fd6a530ac21595e0bde967f86f88c050)) ([#79](https://github.com/imAsparky/junction-box/pull/79))
+  - Diataxus style intro update index #25 ([98a7e6b](https://github.com/imAsparky/junction-box/commit/98a7e6b2c66bb5cac551b151332b33e4656708d7)) ([#79](https://github.com/imAsparky/junction-box/pull/79))
 
 - DOCS:
   - Add Diataxus framework images, png, svg #25 ([a4088c1](https://github.com/imAsparky/junction-box/commit/a4088c1bfb0180c0e8d9fffe4f6d11407daa3115)) ([#69](https://github.com/imAsparky/junction-box/pull/69))
