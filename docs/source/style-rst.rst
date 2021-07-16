@@ -1,3 +1,5 @@
+.. include:: /extras.rst.txt
+
 ===========================
 **reStructured Text Style**
 ===========================
