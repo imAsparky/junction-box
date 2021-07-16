@@ -10,7 +10,7 @@ Diátaxis How-to
 
 
 .. figure:: /_static/img/diataxus/diataxus-how-to-1280x640.svg
-    :alt: Diataxus Tutorial
+    :alt: Diataxus How-to
     :align: center
     :width: 640 px
 
