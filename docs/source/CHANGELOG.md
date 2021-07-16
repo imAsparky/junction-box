@@ -6,7 +6,12 @@ Changes unreleased.
 
 ### Feature
 
+- docs:
+  - Add content developers style guide #35 ([76dbe8e](https://github.com/imAsparky/junction-box/commit/76dbe8e21186d0a968fe7e49fdb6fda407302626)) ([#98](https://github.com/imAsparky/junction-box/pull/98))
+  - Created diataxus-discussion doc #25 ([2b03d6c](https://github.com/imAsparky/junction-box/commit/2b03d6ccbd265b554051d1f5e6af3d9f30141906)) ([#96](https://github.com/imAsparky/junction-box/pull/96))
+
 - style:
+  - Add logo images #25 ([11e02d0](https://github.com/imAsparky/junction-box/commit/11e02d0bc4dcfa63a64dd39d9b3b15258c09f691)) ([#80](https://github.com/imAsparky/junction-box/pull/80))
   - Created diataxis tute and intro #25 ([d030edf](https://github.com/imAsparky/junction-box/commit/d030edf07b2252ea3eeeaeb8028f72dc7190e18b)) ([#74](https://github.com/imAsparky/junction-box/pull/74))
   - Create Intro to Diataxus #25 ([d5c6a19](https://github.com/imAsparky/junction-box/commit/d5c6a19f6869caf2ca32ebeb1ccba1d11ee1e415)) ([#73](https://github.com/imAsparky/junction-box/pull/73))
 
@@ -18,6 +23,7 @@ Changes unreleased.
 ### Bug Fixes
 
 - log:
+  - fix(log)Split changelog update now 2 files #93 ([12ea44e](https://github.com/imAsparky/junction-box/commit/12ea44e474b6c2d1412282732c49c539a9110d07)) ([#97](https://github.com/imAsparky/junction-box/pull/97))
   - CHANGELOG now updates on push #60 ([eea8e08](https://github.com/imAsparky/junction-box/commit/eea8e0884a518fd21f571fc8584b40c26dee0d16)) ([#61](https://github.com/imAsparky/junction-box/pull/61))
   - Added CHANGELOG.md to /docs/source #58 ([9269a54](https://github.com/imAsparky/junction-box/commit/9269a54ca73da56a53b61f5b8322649394cd59a3)) ([#59](https://github.com/imAsparky/junction-box/pull/59))
   - Changed yaml /source/CHANGELOG #58 ([e6d3c8f](https://github.com/imAsparky/junction-box/commit/e6d3c8f96b158e8ab41f3f84890ff9abacae0662)) ([#59](https://github.com/imAsparky/junction-box/pull/59))
@@ -26,6 +32,20 @@ Changes unreleased.
   - Cron job not formatted correctly ([a64530e](https://github.com/imAsparky/junction-box/commit/a64530eb6bbba6f293b3ba8a210211e68db97d9f)) ([#34](https://github.com/imAsparky/junction-box/pull/34))
 
 ### Documentation
+
+- images:
+  - Add .png and .svg diataxus #25 ([a360ff5](https://github.com/imAsparky/junction-box/commit/a360ff5cc9485f88f20d7ef68c2c4f6a47a976cb)) ([#94](https://github.com/imAsparky/junction-box/pull/94))
+  - Add .png and .svg logo's #37 ([1c7abc3](https://github.com/imAsparky/junction-box/commit/1c7abc39c1c225d34e6ff2f04e0ca4b2f5589a36)) ([#38](https://github.com/imAsparky/junction-box/pull/38))
+
+- style:
+  - Created how-to-diataxus.rst #25 ([0aa9d46](https://github.com/imAsparky/junction-box/commit/0aa9d46f9cf599c3709a5f3b18ff6425fcb8bf8b)) ([#85](https://github.com/imAsparky/junction-box/pull/85))
+  - Added content style-rst.rst #23 ([7bb4d14](https://github.com/imAsparky/junction-box/commit/7bb4d14af34eb6146a153c009fc4d7088a1b969c)) ([#82](https://github.com/imAsparky/junction-box/pull/82))
+  - Updated index.rst with extras.rst.txt ([63e844e](https://github.com/imAsparky/junction-box/commit/63e844e6287ff9b360bdcc0908e3878f996cf488)) ([#81](https://github.com/imAsparky/junction-box/pull/81))
+  - Update Development Pipeline style #35 ([2b37173](https://github.com/imAsparky/junction-box/commit/2b37173c06e04342d392bbd2d1f3fb5ddaae95f7)) ([#47](https://github.com/imAsparky/junction-box/pull/47))
+  - Update Commit Message template #41 ([b0c05bb](https://github.com/imAsparky/junction-box/commit/b0c05bb579cc22529c409d681c76c9c1020b866e)) ([#46](https://github.com/imAsparky/junction-box/pull/46))
+  - Update Development Pipeline style #35 ([608574f](https://github.com/imAsparky/junction-box/commit/608574f027373e18188c141e40792798cf12ae76)) ([#46](https://github.com/imAsparky/junction-box/pull/46))
+  - Add Development Pipeline style #35 ([c9847bb](https://github.com/imAsparky/junction-box/commit/c9847bbe7777ee429c9231e75b329464f0d1ec72)) ([#36](https://github.com/imAsparky/junction-box/pull/36))
+  - Added reST style guide. TOC update #23 ([78aad68](https://github.com/imAsparky/junction-box/commit/78aad68cc078dac547e7932f3238a22daba0ed1a)) ([#32](https://github.com/imAsparky/junction-box/pull/32))
 
 - README:
   - Added a link to youtube Diátaxis ([97dda99](https://github.com/imAsparky/junction-box/commit/97dda99d0fea4ad7b7705fa8c46cc2e7ba5a698a)) ([#67](https://github.com/imAsparky/junction-box/pull/67))
@@ -41,16 +61,6 @@ Changes unreleased.
   - Added content to the WHY section. ([8446c68](https://github.com/imAsparky/junction-box/commit/8446c682011d5754e2e86935e843f2464273dfac)) ([#50](https://github.com/imAsparky/junction-box/pull/50))
   - Change to match reST style guide. ([230dd44](https://github.com/imAsparky/junction-box/commit/230dd44246be82f710e0c686f461243030d91c96)) ([#31](https://github.com/imAsparky/junction-box/pull/31))
   - Improve wording in the Why section ([ec5c76e](https://github.com/imAsparky/junction-box/commit/ec5c76e0ce1329aa39d2df4b541e6a3e5b50a59c)) ([#26](https://github.com/imAsparky/junction-box/pull/26))
-
-- style:
-  - Update Development Pipeline style #35 ([2b37173](https://github.com/imAsparky/junction-box/commit/2b37173c06e04342d392bbd2d1f3fb5ddaae95f7)) ([#47](https://github.com/imAsparky/junction-box/pull/47))
-  - Update Commit Message template #41 ([b0c05bb](https://github.com/imAsparky/junction-box/commit/b0c05bb579cc22529c409d681c76c9c1020b866e)) ([#46](https://github.com/imAsparky/junction-box/pull/46))
-  - Update Development Pipeline style #35 ([608574f](https://github.com/imAsparky/junction-box/commit/608574f027373e18188c141e40792798cf12ae76)) ([#46](https://github.com/imAsparky/junction-box/pull/46))
-  - Add Development Pipeline style #35 ([c9847bb](https://github.com/imAsparky/junction-box/commit/c9847bbe7777ee429c9231e75b329464f0d1ec72)) ([#36](https://github.com/imAsparky/junction-box/pull/36))
-  - Added reST style guide. TOC update #23 ([78aad68](https://github.com/imAsparky/junction-box/commit/78aad68cc078dac547e7932f3238a22daba0ed1a)) ([#32](https://github.com/imAsparky/junction-box/pull/32))
-
-- images:
-  - Add .png and .svg logo's #37 ([1c7abc3](https://github.com/imAsparky/junction-box/commit/1c7abc39c1c225d34e6ff2f04e0ca4b2f5589a36)) ([#38](https://github.com/imAsparky/junction-box/pull/38))
 
 - Style:
   - Add intro Style Guide, Update Index ([2df9ad0](https://github.com/imAsparky/junction-box/commit/2df9ad09c3fd1b69871b83de9bc72a34191f1cb5)) ([#30](https://github.com/imAsparky/junction-box/pull/30))
