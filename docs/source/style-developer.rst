@@ -1,3 +1,6 @@
+.. include:: /extras.rst.txt
+
+
 ====================
 **Developer Styles**
 ====================
@@ -88,21 +91,23 @@ The git commit message follows the
 
 |
 
-Auto-generate CHANGELOG uses
+Two Auto-generate CHANGELOG yaml files use
 `BobAnkh/auto-generate-changelog <https://github.com/BobAnkh/auto-generate-changelog>`__.
 
-|
 
+The first, below, updates the CHANGELOG for the :sep:`repo` and includes additional tags to assist the developers, particularly with WIP.
+
+|
 .. code-block:: yaml
     :linenos:
     :emphasize-lines: 18
 
-    name: Auto-generate CHANGELOG
+    name: Auto-generate CHANGELOG-WIP
     on:
     release:
         types: [created, edited]
     schedule:
-        - cron: "0 2 * * *"
+        - cron: "0 23 * * *"
     workflow_dispatch:
 
     jobs:
@@ -130,5 +135,44 @@ Auto-generate CHANGELOG uses
 
 |
 
+The second, below, updates the CHANGELOG for the :sep:`docs` and excludes the additional tags to assist the developers.
 
-More to come:
+.. code-block:: yaml
+    :linenos:
+    :emphasize-lines: 24
+
+    name: Auto-generate CHANGELOG-DOCS
+    on:
+    release:
+        types: [created, edited]
+    schedule:
+        - cron: "0 23 * * *"
+    push:
+        branches:
+        - main
+    workflow_dispatch:
+
+    jobs:
+    generate-changelog:
+        runs-on: ubuntu-latest
+        steps:
+        - uses: actions/checkout@v2
+            with:
+            fetch-depth: 0
+
+        - uses: BobAnkh/auto-generate-changelog@master
+            with:
+            REPO_NAME: "imAsparky/junction-box"
+            ACCESS_TOKEN: ${{secrets.GITHUB_TOKEN}}
+            PATH: "/docs/source/CHANGELOG.md"
+            COMMIT_MESSAGE: "docs(CHANGELOG): update release notes:docs"
+            TYPE: "feat:Feature,fix:Bug Fixes,docs:Documentation,perf:Performance Improvements,refactor:Refactor,style:Styling,test:Tests"
+
+
+
+.. important::
+
+    Don't forget to change line 24 if you are using this for your Github repo.
+
+
+    More to come:
