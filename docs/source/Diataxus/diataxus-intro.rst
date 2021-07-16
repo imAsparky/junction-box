@@ -66,7 +66,7 @@ References
 
 References are technical descriptions of the machinery and how to operate it. References are information-oriented.
 
-References are like a map and should be to the point and wholly authoritative.
+References are like a map and should be to the point and authoritative.
 
 References are consulted rather than read.
 
