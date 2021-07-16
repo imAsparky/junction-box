@@ -28,6 +28,7 @@ Changes unreleased.
 ### Feature
 
 - docs:
+  - Add content developers style guide #35 ([76dbe8e](https://github.com/imAsparky/junction-box/commit/76dbe8e21186d0a968fe7e49fdb6fda407302626)) ([#98](https://github.com/imAsparky/junction-box/pull/98))
   - Created diataxus-discussion doc #25 ([2b03d6c](https://github.com/imAsparky/junction-box/commit/2b03d6ccbd265b554051d1f5e6af3d9f30141906)) ([#96](https://github.com/imAsparky/junction-box/pull/96))
 
 - style:
@@ -43,6 +44,7 @@ Changes unreleased.
 ### Bug Fixes
 
 - log:
+  - fix(log)Split changelog update now 2 files #93 ([12ea44e](https://github.com/imAsparky/junction-box/commit/12ea44e474b6c2d1412282732c49c539a9110d07)) ([#97](https://github.com/imAsparky/junction-box/pull/97))
   - CHANGELOG now updates on push #60 ([eea8e08](https://github.com/imAsparky/junction-box/commit/eea8e0884a518fd21f571fc8584b40c26dee0d16)) ([#61](https://github.com/imAsparky/junction-box/pull/61))
   - Added CHANGELOG.md to /docs/source #58 ([9269a54](https://github.com/imAsparky/junction-box/commit/9269a54ca73da56a53b61f5b8322649394cd59a3)) ([#59](https://github.com/imAsparky/junction-box/pull/59))
   - Changed yaml /source/CHANGELOG #58 ([e6d3c8f](https://github.com/imAsparky/junction-box/commit/e6d3c8f96b158e8ab41f3f84890ff9abacae0662)) ([#59](https://github.com/imAsparky/junction-box/pull/59))
