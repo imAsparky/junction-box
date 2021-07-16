@@ -8,6 +8,7 @@
 Diátaxis Introduction
 =====================
 
+The Diátaxis Framework was developed by Daniele Procida.
 
 
 Core values for using `Diátaxis  <https://diataxis.fr/>`__:
