@@ -4,9 +4,9 @@
 
 .. _diataxus-tutorials:
 
-=====================
+==================
 Diátaxis Tutorials
-=====================
+==================
 
 
 
@@ -14,6 +14,17 @@ Diátaxis Tutorials
     :alt: Diataxus Tutorial
     :align: center
     :width: 640 px
+
+
+Summary
+=======
+
+A tutorial helps a beginner achieve basic competence.  It needs to show that the learner can succeed by having them do something both meaningful and attainable.
+
+A tutorial is a lesson concerned with learning how rather than understanding why because it's practical, not theoretical.
+
+The work required to create and maintain tutorials is far more than is needed for the other types of documentation.
+
 
 
 Dont be a teacher
@@ -166,3 +177,9 @@ Walking a concrete tutorial path may present exciting diversions along the way.
 Remain focused on what's required to reach the tutorial goals, and everything else can wait for another time.
 
 Doing this keeps the tutorial more concise, saving you and the reader from the extra cognitive load.
+
+
+Further Reading
+===============
+
+For further interesting reading on this topic, see `Diátaxis Tutorials <https://diataxis.fr/tutorials/>`__.
