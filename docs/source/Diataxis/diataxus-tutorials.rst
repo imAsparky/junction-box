@@ -1,8 +1,8 @@
 .. include:: /extras.rst.txt
 .. highlight:: rst
-.. index:: Diataxus; Tutorials
+.. index:: Diataxis; Tutorials
 
-.. _diataxus-tutorials:
+.. _diataxis-tutorials:
 
 ==================
 Diátaxis Tutorials
@@ -10,8 +10,8 @@ Diátaxis Tutorials
 
 
 
-.. figure:: /_static/img/diataxus/diataxus-tutorial-1280x640.svg
-    :alt: Diataxus Tutorial
+.. figure:: /_static/img/diataxis/diataxis-tutorial-1280x640.svg
+    :alt: Diataxis Tutorial
     :align: center
     :width: 640 px
 

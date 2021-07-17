@@ -1,8 +1,8 @@
 .. include:: /extras.rst.txt
 .. highlight:: rst
-.. index:: Diataxus; Discussions
+.. index:: Diataxis; Discussions
 
-.. _diataxus-discussions:
+.. _diataxis-discussions:
 
 ====================
 Diátaxis Discussions
@@ -10,8 +10,8 @@ Diátaxis Discussions
 
 
 
-.. figure:: /_static/img/diataxus/diataxus-discussions-1280x640.svg
-    :alt: Diataxus Discussion
+.. figure:: /_static/img/diataxis/diataxis-discussions-1280x640.svg
+    :alt: Diataxis Discussion
     :align: center
     :width: 640 px
 

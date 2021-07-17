@@ -1,8 +1,8 @@
 .. include:: /extras.rst.txt
 .. highlight:: rst
-.. index:: Diataxus; Reference
+.. index:: Diataxis; Reference
 
-.. _diataxus-reference:
+.. _diataxis-reference:
 
 ==================
 Diátaxis Reference
@@ -10,8 +10,8 @@ Diátaxis Reference
 
 
 
-.. figure:: /_static/img/diataxus/diataxus-reference-1280x640.svg
-    :alt: Diataxus Reference
+.. figure:: /_static/img/diataxis/diataxis-reference-1280x640.svg
+    :alt: Diataxis Reference
     :align: center
     :width: 640 px
 

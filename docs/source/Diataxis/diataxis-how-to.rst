@@ -1,16 +1,16 @@
 .. include:: /extras.rst.txt
 .. highlight:: rst
-.. index:: Diataxus; How-to
+.. index:: Diataxis; How-to
 
-.. _diataxus-how-to:
+.. _diataxis-how-to:
 
 ===============
 Diátaxis How-to
 ===============
 
 
-.. figure:: /_static/img/diataxus/diataxus-how-to-1280x640.svg
-    :alt: Diataxus How-to
+.. figure:: /_static/img/diataxis/diataxis-how-to-1280x640.svg
+    :alt: Diataxis How-to
     :align: center
     :width: 640 px
 
