@@ -6,20 +6,21 @@ Changes unreleased.
 
 ### Chore
 
-- file:
-  - Renamed tutorials-diataxus #25 ([fa78293](https://github.com/imAsparky/junction-box/commit/fa78293622c55574d365cbb236f3eea3eadec967)) ([#91](https://github.com/imAsparky/junction-box/pull/91))
-  - Delete intro-diataxus #25 ([ca58e80](https://github.com/imAsparky/junction-box/commit/ca58e8045f0c56fde540fc8f6ba934cb8260e44b)) ([#90](https://github.com/imAsparky/junction-box/pull/90))
-  - Diataxus/how-to-diataxus.rst #25 ([e6fa853](https://github.com/imAsparky/junction-box/commit/e6fa853f75b2770373998528fba0e0eb8ddb4b1a)) ([#89](https://github.com/imAsparky/junction-box/pull/89))
-  - Files renamed to be deleted #25 ([57bb30c](https://github.com/imAsparky/junction-box/commit/57bb30c3deb7d8f3f5b4380fee033919a43c1c2d)) ([#87](https://github.com/imAsparky/junction-box/pull/87))
-  - Rename 2 diataxus files for style #25 ([3901969](https://github.com/imAsparky/junction-box/commit/39019698f7924989bd6e329285ee3832face5c41)) ([#86](https://github.com/imAsparky/junction-box/pull/86))
-
 - files:
+  - Fix common mispelling of diataxis ([6827ec3](https://github.com/imAsparky/junction-box/commit/6827ec38a213dc808caa0d2f179238f19a93fb99)) ([#102](https://github.com/imAsparky/junction-box/pull/102))
   - Housekeeping adding img/diataxus files ([cb5bb26](https://github.com/imAsparky/junction-box/commit/cb5bb2657057448306c6b5f01eda0f6ad934d822)) ([#78](https://github.com/imAsparky/junction-box/pull/78))
   - Files deleted housekeeping img/ ([afd496e](https://github.com/imAsparky/junction-box/commit/afd496ec709f1240e0e9a91b6e65ed10ff2e012c)) ([#77](https://github.com/imAsparky/junction-box/pull/77))
   - Housekeeping deleted files ([9163f96](https://github.com/imAsparky/junction-box/commit/9163f96e3c21c51a95b7a497f75240462bddb502)) ([#76](https://github.com/imAsparky/junction-box/pull/76))
   - Added a img/diataxus folder ([a781529](https://github.com/imAsparky/junction-box/commit/a781529166b430841bc1eaf7921835dd0557e3d8)) ([#75](https://github.com/imAsparky/junction-box/pull/75))
   - Rename and fix links to the logo images ([274d296](https://github.com/imAsparky/junction-box/commit/274d296a8f8f86c49a72fd458aaf43afbbbc0fbf)) ([#72](https://github.com/imAsparky/junction-box/pull/72))
   - Rename and fix links to the file ([6a689b6](https://github.com/imAsparky/junction-box/commit/6a689b61ef394b9c54826bfc74a6caccdc49a849)) ([#68](https://github.com/imAsparky/junction-box/pull/68))
+
+- file:
+  - Renamed tutorials-diataxus #25 ([fa78293](https://github.com/imAsparky/junction-box/commit/fa78293622c55574d365cbb236f3eea3eadec967)) ([#91](https://github.com/imAsparky/junction-box/pull/91))
+  - Delete intro-diataxus #25 ([ca58e80](https://github.com/imAsparky/junction-box/commit/ca58e8045f0c56fde540fc8f6ba934cb8260e44b)) ([#90](https://github.com/imAsparky/junction-box/pull/90))
+  - Diataxus/how-to-diataxus.rst #25 ([e6fa853](https://github.com/imAsparky/junction-box/commit/e6fa853f75b2770373998528fba0e0eb8ddb4b1a)) ([#89](https://github.com/imAsparky/junction-box/pull/89))
+  - Files renamed to be deleted #25 ([57bb30c](https://github.com/imAsparky/junction-box/commit/57bb30c3deb7d8f3f5b4380fee033919a43c1c2d)) ([#87](https://github.com/imAsparky/junction-box/pull/87))
+  - Rename 2 diataxus files for style #25 ([3901969](https://github.com/imAsparky/junction-box/commit/39019698f7924989bd6e329285ee3832face5c41)) ([#86](https://github.com/imAsparky/junction-box/pull/86))
 
 - log:
   - update-changelog.yaml on push removed ([f5ce7fe](https://github.com/imAsparky/junction-box/commit/f5ce7fe1e8c3a3d9fa1e761652ed37ef794de1a7)) ([#71](https://github.com/imAsparky/junction-box/pull/71))
@@ -44,6 +45,7 @@ Changes unreleased.
 ### Bug Fixes
 
 - log:
+  - Corrected time in cron to 1400 #100 ([9810148](https://github.com/imAsparky/junction-box/commit/9810148c1e8c73244153e312140ac1505a749333)) ([#101](https://github.com/imAsparky/junction-box/pull/101))
   - fix(log)Split changelog update now 2 files #93 ([12ea44e](https://github.com/imAsparky/junction-box/commit/12ea44e474b6c2d1412282732c49c539a9110d07)) ([#97](https://github.com/imAsparky/junction-box/pull/97))
   - CHANGELOG now updates on push #60 ([eea8e08](https://github.com/imAsparky/junction-box/commit/eea8e0884a518fd21f571fc8584b40c26dee0d16)) ([#61](https://github.com/imAsparky/junction-box/pull/61))
   - Added CHANGELOG.md to /docs/source #58 ([9269a54](https://github.com/imAsparky/junction-box/commit/9269a54ca73da56a53b61f5b8322649394cd59a3)) ([#59](https://github.com/imAsparky/junction-box/pull/59))
