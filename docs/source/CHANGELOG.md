@@ -23,6 +23,7 @@ Changes unreleased.
 ### Bug Fixes
 
 - log:
+  - Corrected time in cron to 1400 #100 ([9810148](https://github.com/imAsparky/junction-box/commit/9810148c1e8c73244153e312140ac1505a749333)) ([#101](https://github.com/imAsparky/junction-box/pull/101))
   - fix(log)Split changelog update now 2 files #93 ([12ea44e](https://github.com/imAsparky/junction-box/commit/12ea44e474b6c2d1412282732c49c539a9110d07)) ([#97](https://github.com/imAsparky/junction-box/pull/97))
   - CHANGELOG now updates on push #60 ([eea8e08](https://github.com/imAsparky/junction-box/commit/eea8e0884a518fd21f571fc8584b40c26dee0d16)) ([#61](https://github.com/imAsparky/junction-box/pull/61))
   - Added CHANGELOG.md to /docs/source #58 ([9269a54](https://github.com/imAsparky/junction-box/commit/9269a54ca73da56a53b61f5b8322649394cd59a3)) ([#59](https://github.com/imAsparky/junction-box/pull/59))
