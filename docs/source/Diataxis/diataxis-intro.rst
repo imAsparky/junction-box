@@ -1,8 +1,8 @@
 .. include:: /extras.rst.txt
 .. highlight:: rst
-.. index:: Diataxus; Introduction
+.. index:: Diataxis; Introduction
 
-.. _diataxus-intro:
+.. _diataxis-intro:
 
 =====================
 Diátaxis Introduction
@@ -30,11 +30,11 @@ Each documentation type requires a different approach to its creation.
 
 Technical documentation should be structured explicitly around these four types and should keep them all separate and distinct from each other.
 
-.. figure:: /_static/img/diataxus/diataxus-framework-1280x640.svg
-    :alt: Diataxus Framework
+.. figure:: /_static/img/diataxis/diataxis-framework-1280x640.svg
+    :alt: Diataxis Framework
     :align: center
 
-    Diataxus Framework
+    Diataxis Framework
 
 
 Tutorials
