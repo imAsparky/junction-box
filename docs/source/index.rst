@@ -5,6 +5,7 @@
 
 .. include:: /extras.rst.txt
 
+
 .. image:: /_static/img/logo/logo-junction-box-1280x640.svg
    :width: 250px
    :align: center
@@ -22,8 +23,10 @@ Welcome to Junction Box's documentation!
    :caption: Contents:
 
    style-guide
+   Diataxis/diataxis-index
    about
    CHANGELOG.md
+
 
 
 
