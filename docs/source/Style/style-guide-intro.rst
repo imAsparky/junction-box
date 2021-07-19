@@ -2,25 +2,17 @@
 .. index:: style; Style Guide
 .. _style-guide-intro:
 
-===============
-**Style Guide**
-===============
+===========
+Style Guide
+===========
 
-.. sidebar:: Optional Sidebar Title
-      :subtitle: Optional Sidebar Subtitle
-
-      Subsequent indented lines comprise
-      the body of the sidebar, and are
-      interpreted as body elements.
-
-
-**What**
---------
+What
+----
 
 Style guides provide guidelines for presenting your Brand from a visual and written perspective.
 
-**How**
--------
+How
+---
 Provide well-written style guides developed from six essential areas:
 
 #. Your story.
@@ -30,15 +22,15 @@ Provide well-written style guides developed from six essential areas:
 #. Your imagery.
 #. and Typography.
 
-**Why**
--------
+Why
+---
 Style guides establish consistent usage of language and layout across several different contributors.
 
 Well structured and written style guides, including layouts for the four pillars of Diátaxis content framework, reduce the load on technical and content creators.
 
 
-**When**
---------
+When
+----
 
 Right now is an excellent time to start.
 
@@ -52,11 +44,3 @@ See our list of style guides below.
 .. tip::
 
    Style guides are under construction... More to come : )
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Style Guides:
-
-
-   style-developer.rst
-   style-rst
