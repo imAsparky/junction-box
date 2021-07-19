@@ -47,6 +47,13 @@ templates_path = ["_templates"]
 exclude_patterns = []
 
 # The name of the Pygments (syntax highlighting) style to use.
+# Available styles ['default', 'emacs', 'friendly', 'colorful',
+# 'autumn', 'murphy', 'manni', 'material', 'monokai', 'perldoc',
+# 'pastie', 'borland', 'trac', 'native', 'fruity', 'bw', 'vim',
+# 'vs', 'tango', 'rrt', 'xcode', 'igor', 'paraiso-light', 'paraiso-dark',
+# 'lovelace', 'algol', 'algol_nu', 'arduino', 'rainbow_dash', 'abap',
+# 'solarized-dark', 'solarized-light', 'sas', 'stata', 'stata-light',
+# 'stata-dark', 'inkpot', 'zenburn', 'gruvbox-dark', 'gruvbox-light']
 pygments_style = "monokai"
 pygments_dark_style = "monokai"
 
@@ -55,8 +62,8 @@ pygments_dark_style = "monokai"
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-# html_theme = "furo"
-html_theme = "sphinx_rtd_theme"
+html_theme = "furo"
+# html_theme = "sphinx_rtd_theme"
 
 html_theme_options = {}
 # Add any paths that contain custom static files (such as style sheets) here,
