@@ -7,6 +7,7 @@ Changes unreleased.
 ### Chore
 
 - files:
+  - Fix more common misspelling of diataxis ([11f3014](https://github.com/imAsparky/junction-box/commit/11f30141c1366e298be54eb9672e63145fab04d2)) ([#103](https://github.com/imAsparky/junction-box/pull/103))
   - Fix common mispelling of diataxis ([6827ec3](https://github.com/imAsparky/junction-box/commit/6827ec38a213dc808caa0d2f179238f19a93fb99)) ([#102](https://github.com/imAsparky/junction-box/pull/102))
   - Housekeeping adding img/diataxus files ([cb5bb26](https://github.com/imAsparky/junction-box/commit/cb5bb2657057448306c6b5f01eda0f6ad934d822)) ([#78](https://github.com/imAsparky/junction-box/pull/78))
   - Files deleted housekeeping img/ ([afd496e](https://github.com/imAsparky/junction-box/commit/afd496ec709f1240e0e9a91b6e65ed10ff2e012c)) ([#77](https://github.com/imAsparky/junction-box/pull/77))
