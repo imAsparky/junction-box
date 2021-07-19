@@ -1,18 +1,19 @@
 .. include:: /extras.rst.txt
 
-===========================
-**reStructured Text Style**
-===========================
+=======================
+reStructured Text Style
+=======================
 
-There may be a need to modify one of the pre-existing templates or create a new one to improve how the author can convey their message.
+There may be a need to modify one of the pre-existing templates or
+create a new one to improve how the author can convey their message.
 
 For those occasions, here is Junction Box's reST styling guide.
 
-**Text Emphasis**
-=================
+Text Emphasis
+=============
 
-**Bold and Italic**
--------------------
+Bold and Italic
+---------------
 
 Sphinx can render text as either bold or italic but not both.
 
@@ -28,8 +29,8 @@ Sphinx can render text as either bold or italic but not both.
 Normal text, **bold text** and *italic text*.
 
 
-**Line Spaces**
-----------------
+Line Spaces
+-----------
 
 Line spaces can help emphasise text in some cases.
 
@@ -80,8 +81,8 @@ Text on line 6
 
 .. _document-headings:
 
-**Document Headings**
-=====================
+Document Headings
+=================
 
 In reST, you can use different underlining styles in any order.
 
@@ -90,49 +91,49 @@ For reST (.rst) Title and Heading styles, see below.
 .. code-block:: rest
    :linenos:
 
-      ============
-      **DocTitle**
-      ============
+      ========
+      DocTitle
+      ========
 
-      **Heading 1**
-      =============
+      Heading 1
+      =========
 
-      **Heading 1.1**
-      ---------------
+      Heading 1.1
+      -----------
 
-      **Heading 1.1.1**
-      ~~~~~~~~~~~~~~~~~
+      Heading 1.1.1
+      ~~~~~~~~~~~~~
 
-      **Heading 1.1.1.1**
-      """""""""""""""""""
+      Heading 1.1.1.1
+      """""""""""""""
 
 |
 
 *See the styling above rendered by Sphinx below.*
 
-============
-**DocTitle**
-============
+========
+DocTitle
+========
 
-**Heading 1**
-=============
+Heading 1
+=========
 
-**Heading 1.1**
----------------
+Heading 1.1
+-----------
 
-**Heading 1.1.1**
-~~~~~~~~~~~~~~~~~
+Heading 1.1.1
+~~~~~~~~~~~~~~~
 
-**Heading 1.1.1.1**
-"""""""""""""""""""
+Heading 1.1.1.1
+"""""""""""""""
 
 |
 
-**Links**
-=========
+Links
+=====
 
-**Link to a Heading**
----------------------
+Link to a Heading
+-----------------
 
 Sphinx provides the ability to link to internal document references.
 
@@ -164,10 +165,7 @@ Sphinx provides the ability to link to internal document references.
 
 .. _random-heading-link:
 
-**Random Heading**
-==================
-
-Some random text to help some unexpected challenge.
+ndom Heading============Some random text to help some unexpected challenge.
 
 |
 |
@@ -190,10 +188,20 @@ See here :ref:`random-heading-link` for information to help with your unexpected
    The \:ref:\`random heading-link\` text is surrounded by backticks,
    not single apostrophe's!
 
+|
+|
+
+.. .. sidebar:: Optional Sidebar Title
+..       :subtitle: Optional Sidebar Subtitle
+
+..       Subsequent indented lines comprise
+..       the body of the sidebar, and are
+..       interpreted as body elements.
 
 
-**Admonitions**
-===============
+
+.. **Admonitions**
+.. ===============
 
 .. https://docutils.sourceforge.io/0.4/docs/ref/rst/directives.html#specific-admonitions
 .. https://docutils.sourceforge.io/0.4/docs/howto/rst-directives.html

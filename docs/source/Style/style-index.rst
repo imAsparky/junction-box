@@ -3,11 +3,13 @@
 .. index:: Style; Reference
 .. _rest-reference:
 
-=======================
-reST & Sphinx reference
-=======================
+============
+Style Guides
+============
 
 .. toctree::
    :titlesonly:
 
-   style-developers
+   style-guide-intro
+   style-developer
+   style-rst

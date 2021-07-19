@@ -1,20 +1,20 @@
 .. include:: /extras.rst.txt
 
 
-====================
-**Developer Styles**
-====================
+================
+Developer Styles
+================
 
 |
 
-**Git**
-=======
+Git
+===
 
 |
 
 
-**Commit Message**
-------------------
+Commit Message
+--------------
 
 |
 
@@ -86,8 +86,8 @@ The git commit message follows the
 |
 
 
-**CHANGELOG**
---------------
+CHANGELOG
+---------
 
 |
 

@@ -1,6 +1,6 @@
-=========
-**About**
-=========
+=====
+About
+=====
 
 |
 
@@ -9,8 +9,8 @@ JUNCTION BOX
 
 |
 
-**What's in a name?**
----------------------
+What's in a name?
+-----------------
 
 The process of writing software is very similar to the electrical trade in the sense that things are wired up or connected.
 
@@ -18,16 +18,16 @@ Hence the name **Junction Box**, a place where things are connected.
 
 |
 
-**Overview**
-------------
+Overview
+--------
 |
 
 This project is about documenting how we use several technologies that meet the needs of our software development initiatives.
 
 |
 
-**What**
---------
+What
+----
 
 |
 
@@ -50,8 +50,8 @@ When how we use the first two items has been  documented, other technologies on 
 
 |
 
-**How**
--------
+How
+---
 |
 
 #. Create and follow a style guide.
@@ -61,8 +61,8 @@ When how we use the first two items has been  documented, other technologies on 
 
 |
 
-**Why**
--------
+Why
+---
 
 |
 
@@ -85,20 +85,20 @@ When it is needed, good documentation can ease the load of remembering.
 
 |
 
-**When**
---------
+When
+----
 |
 
 Following Continuous Delivery Principles, this is a living document.
 
 |
 
-**The Author**
---------------
+The Author
+----------
 |
 
 Mark Sevelj has an electrical trade background.
 
 Roles where often technical and using Python and pandas for data analysis was a lot faster than excel.
 
-A need to formalise and document these scripts and workflows is now the purpose of this endeavour.
+A need to formalise and document these scripts and workflows is the purpose of this project.
