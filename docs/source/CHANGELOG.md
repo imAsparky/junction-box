@@ -4,7 +4,22 @@
 
 Changes unreleased.
 
+### Documentation
+
+- style:
+  - Fix typo style-developers.rst ([14ccb60](https://github.com/imAsparky/junction-box/commit/14ccb60ed95483f0efc730b7d38a476bb0529846)) ([#105](https://github.com/imAsparky/junction-box/pull/105))
+
+## [v0.0.1-alpha-2](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha-2) - 2021-07-19 03:32:22
+
+Completed some Style guides and Diátaxis documentation. A reasonable body of work to release and clean up the In Progress list.
+
 ### Feature
+
+- sphinx:
+  - Theme is now Furo ([eb4b170](https://github.com/imAsparky/junction-box/commit/eb4b17086cd7160527f5dca1877adcd3d6fd8e92)) ([#104](https://github.com/imAsparky/junction-box/pull/104))
+  - Add support for markdown #49 ([ab2b705](https://github.com/imAsparky/junction-box/commit/ab2b7059a15a78ba695fb58b2f2cc369aeeff635)) ([#51](https://github.com/imAsparky/junction-box/pull/51))
+  - Theme is now sphinx_rtd_theme ([97174c7](https://github.com/imAsparky/junction-box/commit/97174c733cda618f11e6c0c875c13421e07008b4)) ([#29](https://github.com/imAsparky/junction-box/pull/29))
+  - Theme is now  t3SphinxThemeRtd #12 ([86f3afb](https://github.com/imAsparky/junction-box/commit/86f3afbbb57082b0cf167fd3f7ecba8c77b03057)) ([#27](https://github.com/imAsparky/junction-box/pull/27))
 
 - docs:
   - Add content developers style guide #35 ([76dbe8e](https://github.com/imAsparky/junction-box/commit/76dbe8e21186d0a968fe7e49fdb6fda407302626)) ([#98](https://github.com/imAsparky/junction-box/pull/98))
@@ -14,11 +29,6 @@ Changes unreleased.
   - Add logo images #25 ([11e02d0](https://github.com/imAsparky/junction-box/commit/11e02d0bc4dcfa63a64dd39d9b3b15258c09f691)) ([#80](https://github.com/imAsparky/junction-box/pull/80))
   - Created diataxis tute and intro #25 ([d030edf](https://github.com/imAsparky/junction-box/commit/d030edf07b2252ea3eeeaeb8028f72dc7190e18b)) ([#74](https://github.com/imAsparky/junction-box/pull/74))
   - Create Intro to Diataxus #25 ([d5c6a19](https://github.com/imAsparky/junction-box/commit/d5c6a19f6869caf2ca32ebeb1ccba1d11ee1e415)) ([#73](https://github.com/imAsparky/junction-box/pull/73))
-
-- sphinx:
-  - Add support for markdown #49 ([ab2b705](https://github.com/imAsparky/junction-box/commit/ab2b7059a15a78ba695fb58b2f2cc369aeeff635)) ([#51](https://github.com/imAsparky/junction-box/pull/51))
-  - Theme is now sphinx_rtd_theme ([97174c7](https://github.com/imAsparky/junction-box/commit/97174c733cda618f11e6c0c875c13421e07008b4)) ([#29](https://github.com/imAsparky/junction-box/pull/29))
-  - Theme is now  t3SphinxThemeRtd #12 ([86f3afb](https://github.com/imAsparky/junction-box/commit/86f3afbbb57082b0cf167fd3f7ecba8c77b03057)) ([#27](https://github.com/imAsparky/junction-box/pull/27))
 
 ### Bug Fixes
 
