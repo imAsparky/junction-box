@@ -25,7 +25,7 @@ project = "Junction Box"
 copyright = "2021, Mark Sevelj"
 author = "Mark Sevelj"
 # The full version, including alpha/beta/rc tags
-release = "0.0.1-alpha"
+release = "0.0.1-alpha-2"
 
 
 # -- General configuration ---------------------------------------------------
