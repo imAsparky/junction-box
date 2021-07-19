@@ -81,7 +81,7 @@ The git commit message follows the
 
     Example: docs(style):Added a new reST style guide #42
 
-    (subject): CHANGELOG update groups items with the same subject.
+    (subject): The CHANGELOG's update groups items with the same subject.
 
 |
 
@@ -175,4 +175,5 @@ The second, below, updates the CHANGELOG for the :sep:`docs` and excludes the ad
     Don't forget to change line 24 if you are using this for your Github repo.
 
 
-    More to come:
+
+:sep:`More to come:`
