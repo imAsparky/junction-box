@@ -10,23 +10,33 @@
    :align: center
 
 |
+|
 
 Welcome to Junction Box's documentation!
 ========================================
 :emph:`A place to document connections between technologies for our software development framework.`
+
+|
+|
 
 
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
 
-   Design/design-index
    Diataxis/diataxis-index
+   Design/design-index
    Style/style-index
    about
    CHANGELOG.md
 
+|
+|
 
+Would you mind providing feedback or creating a discussion on our GitHub
+`discussion board <https://github.com/imAsparky/junction-box/discussions>`__?
+
+|
 
 Indices and tables
 ==================

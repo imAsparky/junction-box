@@ -37,6 +37,11 @@ A junction box is a place for making connections.
 
 |
 
+Would you mind providing feedback or creating a discussion on our GitHub
+`discussion board <https://github.com/imAsparky/junction-box/discussions>`__?
+
+|
+
 Junction Box documentation `here <https://junction-box.readthedocs.io/>`__.
 
 |
