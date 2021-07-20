@@ -4,6 +4,11 @@
 
 Changes unreleased.
 
+### Feature
+
+- sphinx:
+  - Add copy-button to code-blocks #110 ([b2cfcee](https://github.com/imAsparky/junction-box/commit/b2cfceebf2e81f4290b7c7087d23cd91127e11e8)) ([#111](https://github.com/imAsparky/junction-box/pull/111))
+
 ### Documentation
 
 - style:
