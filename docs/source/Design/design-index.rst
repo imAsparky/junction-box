@@ -2,7 +2,7 @@
 .. highlight:: rst
 .. index:: Design; Index
 
-An index some design ideas chosen or considered for our project.
+An index for design ideas chosen or considered for our project.
 
 .. _design-index:
 
@@ -14,3 +14,4 @@ Design Principles
     :titlesonly:
 
     design-ux
+    design-tailwind-figma
