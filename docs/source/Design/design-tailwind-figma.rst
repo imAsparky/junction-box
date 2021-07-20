@@ -8,11 +8,18 @@
 Design with Tailwind css and Figma
 ==================================
 
-`Figma <https://www.figma.com/>`__, a  UX design tool,  allows the entire team
-to interact with the latest web design by accessing a single, live URL.
+|
 
-Figma is a free design tool that helps teams create, test, and ship better
-designs from start to finish.
+`Tailwindcss, <https://tailwindcss.com/>`__ a utility first CSS framework with
+classes that can be composed to build any website design directly in your markup.
+
+|
+
+`Figma <https://www.figma.com/>`__, a free UX design tool,  allows the entire
+team to interact with the latest web design by accessing a single, live URL.
+
+
+Figma helps teams create, test, and ship better website designs from start to finish.
 
 |
 
