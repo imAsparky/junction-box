@@ -6,12 +6,24 @@ Changes unreleased.
 
 ### Feature
 
+- discussion:
+  - Links to discussion board #118 ([345e441](https://github.com/imAsparky/junction-box/commit/345e4413701f02624d5aac8821551957f9d7c5c7)) ([#119](https://github.com/imAsparky/junction-box/pull/119))
+
 - sphinx:
   - Add copy-button to code-blocks #110 ([b2cfcee](https://github.com/imAsparky/junction-box/commit/b2cfceebf2e81f4290b7c7087d23cd91127e11e8)) ([#111](https://github.com/imAsparky/junction-box/pull/111))
+
+### Bug Fixes
+
+- sphinx:
+  - New regex for copy-button   #112 ([094e00c](https://github.com/imAsparky/junction-box/commit/094e00c4314052d0fe259c8a51916701a58a4c98)) ([#120](https://github.com/imAsparky/junction-box/pull/120))
+
+- git:
+  - Fix typo in .git-commit-template.txt ([504d6aa](https://github.com/imAsparky/junction-box/commit/504d6aae20351ed92163c7bc47dae3e18e419e05)) ([#116](https://github.com/imAsparky/junction-box/pull/116))
 
 ### Documentation
 
 - style:
+  - Updated .git-commit-template.txt ([3f32fae](https://github.com/imAsparky/junction-box/commit/3f32fae8a18307c10b9792f49b04f649bd7651bb)) ([#117](https://github.com/imAsparky/junction-box/pull/117))
   - Fix typo style-developers.rst ([14ccb60](https://github.com/imAsparky/junction-box/commit/14ccb60ed95483f0efc730b7d38a476bb0529846)) ([#105](https://github.com/imAsparky/junction-box/pull/105))
 
 ## [v0.0.1-alpha-2](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha-2) - 2021-07-19 03:32:22
