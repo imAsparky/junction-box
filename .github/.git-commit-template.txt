@@ -18,7 +18,7 @@
 # **   chore    (a chore that needs to be done)
 #      dbg      (changes in debugging code/frameworks; no production code change)
 #      defaults (changes default options)
-# **   doc      (changes to documentation)
+# **   docs      (changes to documentation)
 # **   feat     (new feature)
 # **   fix      (bug fix)
 #      hack     (temporary fix to make things move forward; please avoid it)
