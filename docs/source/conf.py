@@ -63,6 +63,7 @@ html_theme = "furo"
 # html_theme = "sphinx_rtd_theme"
 
 html_theme_options = {}
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
@@ -74,7 +75,5 @@ html_static_path = ["_static"]
 # config options are here https://sphinx-copybutton.readthedocs.io/en/latest/
 # This config removes Python Repl + continuation, Bash line prefixes,
 # ipython and qtconsole + continuation, jupyter-console + continuation
-copybutton_prompt_text = (
-    r">>> |\.\.\. |\$ |In \[\d*\]: | {2,5}\.\.\.: | {5,8}: "
-)
+copybutton_prompt_text = r"[0-9] |[0-9][0-9] |[0-9][0-9][0-9] |>>> |\.\.\. |\$ |In \[\d*\]: | {2,5}\.\.\.: | {5,8}: "
 copybutton_prompt_is_regexp = True
