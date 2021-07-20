@@ -74,6 +74,15 @@ html_static_path = ["_static"]
 # sphinx-copybutton is a lightweight code-block copy button
 # config options are here https://sphinx-copybutton.readthedocs.io/en/latest/
 # This config removes Python Repl + continuation, Bash line prefixes,
-# ipython and qtconsole + continuation, jupyter-console + continuation
-copybutton_prompt_text = r"[0-9] |[0-9][0-9] |[0-9][0-9][0-9] |>>> |\.\.\. |\$ |In \[\d*\]: | {2,5}\.\.\.: | {5,8}: "
+# ipython and qtconsole + continuation, jupyter-console + continuation and preceding line numbers
+copybutton_prompt_text = (
+    r"^.\d|^\d\d|^\d\d\d|>>> |\.\.\. |\$ |In \[\d*\]: | {2,5}\.\.\.: | {5,8}: "
+)
 copybutton_prompt_is_regexp = True
+
+# datalad download-url http://www.tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf \
+# --dataset . \
+# -m "add beginners guide on bash" \
+# -O books/bash_guide.pdf
+# is correctly pasted with the following setting
+copybutton_line_continuation_character = "\\"
