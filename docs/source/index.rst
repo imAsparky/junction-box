@@ -27,6 +27,7 @@ Welcome to Junction Box's documentation!
    Diataxis/diataxis-index
    Design/design-index
    Style/style-index
+   reST/reST-index
    about
    CHANGELOG.md
 
