@@ -6,21 +6,28 @@ Changes unreleased.
 
 ### Feature
 
+- sphinx:
+  - Add inline text support #121 ([1464634](https://github.com/imAsparky/junction-box/commit/14646346f346f935c3cd90692cada0194c9899d1)) ([#123](https://github.com/imAsparky/junction-box/pull/123))
+  - Add copy-button to code-blocks #110 ([b2cfcee](https://github.com/imAsparky/junction-box/commit/b2cfceebf2e81f4290b7c7087d23cd91127e11e8)) ([#111](https://github.com/imAsparky/junction-box/pull/111))
+
 - discussion:
   - Links to discussion board #118 ([345e441](https://github.com/imAsparky/junction-box/commit/345e4413701f02624d5aac8821551957f9d7c5c7)) ([#119](https://github.com/imAsparky/junction-box/pull/119))
-
-- sphinx:
-  - Add copy-button to code-blocks #110 ([b2cfcee](https://github.com/imAsparky/junction-box/commit/b2cfceebf2e81f4290b7c7087d23cd91127e11e8)) ([#111](https://github.com/imAsparky/junction-box/pull/111))
 
 ### Bug Fixes
 
 - sphinx:
+  - spinx-inline-tabs broken ([36d9242](https://github.com/imAsparky/junction-box/commit/36d924295ead1eac87c7c6b1d5b90b2b37accd47)) ([#125](https://github.com/imAsparky/junction-box/pull/125))
+  - sphinx-inline-tabs==2021.4.11b9 missing ([36d994f](https://github.com/imAsparky/junction-box/commit/36d994fa3be668d7064e5b43b9b890ca94707ad2)) ([#124](https://github.com/imAsparky/junction-box/pull/124))
   - New regex for copy-button   #112 ([094e00c](https://github.com/imAsparky/junction-box/commit/094e00c4314052d0fe259c8a51916701a58a4c98)) ([#120](https://github.com/imAsparky/junction-box/pull/120))
 
 - git:
   - Fix typo in .git-commit-template.txt ([504d6aa](https://github.com/imAsparky/junction-box/commit/504d6aae20351ed92163c7bc47dae3e18e419e05)) ([#116](https://github.com/imAsparky/junction-box/pull/116))
 
 ### Documentation
+
+- reST:
+  - Added introduction and update index #65 ([dac78e9](https://github.com/imAsparky/junction-box/commit/dac78e9fd8b5869f2f5535f9942fb386e7880597)) ([#132](https://github.com/imAsparky/junction-box/pull/132))
+  - Added inline-tabs.rst  #122 ([fd8e8c7](https://github.com/imAsparky/junction-box/commit/fd8e8c7bd48caa93666cc137083c2fb20c18cc72)) ([#123](https://github.com/imAsparky/junction-box/pull/123))
 
 - style:
   - Updated .git-commit-template.txt ([3f32fae](https://github.com/imAsparky/junction-box/commit/3f32fae8a18307c10b9792f49b04f649bd7651bb)) ([#117](https://github.com/imAsparky/junction-box/pull/117))
