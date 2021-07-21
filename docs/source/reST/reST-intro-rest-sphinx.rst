@@ -1,13 +1,14 @@
 .. include:: /extras.rst.txt
 .. highlight:: rst
-.. index:: reST; Syntax
-.. _intro-rest-syntax:
+.. index:: reST; Introduction
+.. _intro-rest-sphinx:
 
-====================================
-Introduction: reST and Sphinx syntax
-====================================
+===============================
+Introduction to reST and Sphinx
+===============================
 
-reStructuredText is an easy-to-read plaintext markup syntax and parser system.
+reStructuredText, commonly referred to as reST, is an easy-to-read plaintext
+markup syntax and parser system.
 
 It is excellent for inline program documentation (such as Python docstrings),
 quickly creating simple web pages and standalone documents using Sphinx.
@@ -101,9 +102,9 @@ For example, indentation is the sole markup indicator for block quotes.
 
       This paragraph belongs to a second-level block quote.
 
-     This paragraph belongs to a first-level block quote.  The
-     second-level block quote above is inside this first-level
-     block quote.
+    This paragraph belongs to a first-level block quote.  The
+    second-level block quote above is inside this first-level
+    block quote.
 
 
 
@@ -119,6 +120,14 @@ This is another top-level paragraph.
 
   This paragraph belongs to a second-level block quote.
 
- This paragraph belongs to a first-level block quote.  The
- second-level block quote above is inside this first-level
- block quote.
+This paragraph belongs to a first-level block quote.  The
+second-level block quote above is inside this first-level
+block quote
+
+
+
+Further Reading
+===============
+
+For further interesting reading on this topic, see
+:ref:`reST How-to Index <rest-index>`
