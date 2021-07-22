@@ -14,7 +14,7 @@ Admonitions are a particular group of reST directives.
 Admonitions purpose is to highlight a message to the user with colour
 and formatting.
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. _how-to-admonitions:
 
@@ -87,7 +87,7 @@ admonition styles and is the "note" directive.
 
          Here is the note admonition...
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. _reference-admonitions:
 
@@ -99,15 +99,13 @@ Reference
 :sep:`Many other examples follow below, in the How it Looks and reST syntax
 tabs.`
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; admonition
 .. _reference-admonition:
 
 Admonition
 ---------
-
-|
 
 .. tab:: How it Looks
 
@@ -131,14 +129,12 @@ Admonition
     The syntax must look like this :sep:`.. admonition:: Some User Title.`
     or this particular style may not render correctly.
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; seealso
 
 See also
 --------
-
-|
 
 .. tab:: How it Looks
 
@@ -155,14 +151,12 @@ See also
 
             Admonitions in `docutils <http://docutils.sourceforge.net/0.7/docs/ref/rst/directives.html#admonitions>`__.
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; note
 
 Note
 ----
-
-|
 
 .. tab:: How it Looks
 
@@ -179,7 +173,7 @@ Note
 
             Here is a short note.
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; tip
 
@@ -201,14 +195,12 @@ Tip
 
            A tip is an idea that can help.
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; hint
 
 Hint
 ----
-
-|
 
 .. tab:: How it Looks
 
@@ -225,14 +217,12 @@ Hint
 
           A hint is an indirect suggestion or advice.
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; important
 
 Important
 ---------
-
-|
 
 .. tab:: How it Looks
 
@@ -249,15 +239,12 @@ Important
 
           Important information that should be considered.
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; caution
 
-
 Caution
 -------
-
-|
 
 .. tab:: How it Looks
 
@@ -275,14 +262,12 @@ Caution
           Caution dragons may live here.
 
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; warning
 
 Warning
 -------
-
-|
 
 .. tab:: How it Looks
 
@@ -299,14 +284,12 @@ Warning
 
           Warning dragons probably live here.
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; danger
 
 Danger
 ------
-
-|
 
 .. tab:: How it Looks
 
@@ -323,14 +306,12 @@ Danger
 
           Danger dragons do live here.
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; attention
 
 Attention
 ---------
-
-|
 
 .. tab:: How it Looks
 
@@ -347,13 +328,12 @@ Attention
 
           Look out the dragon has seen you!
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; error
 
 Error
 -----
-
 
 .. tab:: How it Looks
 
@@ -370,14 +350,12 @@ Error
 
             Ooops to late you didnt heed all the messages about dragons...
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. _discussion-admonitions:
 
 Discussion
 ==========
-
-|
 
 Please consider the display order of admonitions in the
 :ref:`Reference <reference-admonitions>` section and the accompanying messages
@@ -390,12 +368,13 @@ This hierarchy is a good guide for using the admonitions in your documentation
 and serves as a reference to maintain consistency in admonitions usage.
 
 |
-There are a few different ways to write admonitions. Depending on the length and style of the message, each has its merits.
+
+There are a few different ways to write admonitions. Depending on the length
+and style of the message, each has its merits.
 
 For example, this works, but it looks messy in the text file.
 
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
+|
 
 .. code-block:: rest
     :linenos:
@@ -493,7 +472,7 @@ See below for some demonstrated common options.
         Here is a link to `Google <https://google.com>`__.
 
 
-|
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Further Reading
 ===============
