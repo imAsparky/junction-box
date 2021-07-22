@@ -26,6 +26,7 @@ Changes unreleased.
 ### Documentation
 
 - reST:
+  - Added reST-admonitions #64 ([43b4baf](https://github.com/imAsparky/junction-box/commit/43b4baf2942cf458428312aea943b0d52f788235)) ([#133](https://github.com/imAsparky/junction-box/pull/133))
   - Added introduction and update index #65 ([dac78e9](https://github.com/imAsparky/junction-box/commit/dac78e9fd8b5869f2f5535f9942fb386e7880597)) ([#132](https://github.com/imAsparky/junction-box/pull/132))
   - Added inline-tabs.rst  #122 ([fd8e8c7](https://github.com/imAsparky/junction-box/commit/fd8e8c7bd48caa93666cc137083c2fb20c18cc72)) ([#123](https://github.com/imAsparky/junction-box/pull/123))
 
