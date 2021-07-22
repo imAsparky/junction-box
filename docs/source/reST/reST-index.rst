@@ -1,4 +1,4 @@
-.. include:: /Includes.rst.txt
+.. include:: /extras.rst.txt
 .. highlight:: rst
 .. index:: reST; Index
 .. _rest-index:
@@ -17,4 +17,5 @@ See a list of the How-to help files we have completed below.
    :titlesonly:
 
    reST-intro-rest-sphinx
+   reST-admonitions
    reSt-inline-tabs
