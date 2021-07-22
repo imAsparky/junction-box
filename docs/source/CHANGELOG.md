@@ -34,6 +34,11 @@ Changes unreleased.
   - Updated .git-commit-template.txt ([3f32fae](https://github.com/imAsparky/junction-box/commit/3f32fae8a18307c10b9792f49b04f649bd7651bb)) ([#117](https://github.com/imAsparky/junction-box/pull/117))
   - Fix typo style-developers.rst ([14ccb60](https://github.com/imAsparky/junction-box/commit/14ccb60ed95483f0efc730b7d38a476bb0529846)) ([#105](https://github.com/imAsparky/junction-box/pull/105))
 
+### Styling
+
+- reST:
+  - Admonitions layout tweaks #64 ([6532329](https://github.com/imAsparky/junction-box/commit/65323291a185d7c2668ef072c4aa511c95aeff5f)) ([#134](https://github.com/imAsparky/junction-box/pull/134))
+
 ## [v0.0.1-alpha-2](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha-2) - 2021-07-19 03:32:22
 
 Completed some Style guides and Diátaxis documentation. A reasonable body of work to release and clean up the In Progress list.
