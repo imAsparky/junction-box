@@ -16,6 +16,7 @@ Changes unreleased.
 ### Bug Fixes
 
 - sphinx:
+  - Regex for copy button improved #136 ([74d122d](https://github.com/imAsparky/junction-box/commit/74d122dd764d812df2f34a07335ed1c589134ef7)) ([#137](https://github.com/imAsparky/junction-box/pull/137))
   - spinx-inline-tabs broken ([36d9242](https://github.com/imAsparky/junction-box/commit/36d924295ead1eac87c7c6b1d5b90b2b37accd47)) ([#125](https://github.com/imAsparky/junction-box/pull/125))
   - sphinx-inline-tabs==2021.4.11b9 missing ([36d994f](https://github.com/imAsparky/junction-box/commit/36d994fa3be668d7064e5b43b9b890ca94707ad2)) ([#124](https://github.com/imAsparky/junction-box/pull/124))
   - New regex for copy-button   #112 ([094e00c](https://github.com/imAsparky/junction-box/commit/094e00c4314052d0fe259c8a51916701a58a4c98)) ([#120](https://github.com/imAsparky/junction-box/pull/120))
@@ -26,6 +27,10 @@ Changes unreleased.
 ### Documentation
 
 - reST:
+  - Add a reST documentation template #142 ([1e9e566](https://github.com/imAsparky/junction-box/commit/1e9e566069edff725d9ba2a4492079e399c4a490)) ([#143](https://github.com/imAsparky/junction-box/pull/143))
+  - Added literalinclude document #135 ([cb6db79](https://github.com/imAsparky/junction-box/commit/cb6db7986cb9029042acc98d952e36af2ae564c4)) ([#141](https://github.com/imAsparky/junction-box/pull/141))
+  - Updated index and renamed file ([823150e](https://github.com/imAsparky/junction-box/commit/823150edb3e14d0ce91b59cd7cd1fe9e4d81c305)) ([#138](https://github.com/imAsparky/junction-box/pull/138))
+  - Added Titles and Headings #66 ([de90bcf](https://github.com/imAsparky/junction-box/commit/de90bcf0f9d522dc43a38b33b291814e61b4f05a)) ([#138](https://github.com/imAsparky/junction-box/pull/138))
   - Added reST-admonitions #64 ([43b4baf](https://github.com/imAsparky/junction-box/commit/43b4baf2942cf458428312aea943b0d52f788235)) ([#133](https://github.com/imAsparky/junction-box/pull/133))
   - Added introduction and update index #65 ([dac78e9](https://github.com/imAsparky/junction-box/commit/dac78e9fd8b5869f2f5535f9942fb386e7880597)) ([#132](https://github.com/imAsparky/junction-box/pull/132))
   - Added inline-tabs.rst  #122 ([fd8e8c7](https://github.com/imAsparky/junction-box/commit/fd8e8c7bd48caa93666cc137083c2fb20c18cc72)) ([#123](https://github.com/imAsparky/junction-box/pull/123))
@@ -37,6 +42,7 @@ Changes unreleased.
 ### Styling
 
 - reST:
+  - Admonitions fixed some typos #64 ([b73c740](https://github.com/imAsparky/junction-box/commit/b73c740f3f6bd870fa417881288bc3d29cacd195)) ([#138](https://github.com/imAsparky/junction-box/pull/138))
   - Admonitions layout tweaks #64 ([6532329](https://github.com/imAsparky/junction-box/commit/65323291a185d7c2668ef072c4aa511c95aeff5f)) ([#134](https://github.com/imAsparky/junction-box/pull/134))
 
 ## [v0.0.1-alpha-2](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha-2) - 2021-07-19 03:32:22
