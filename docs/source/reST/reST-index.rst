@@ -22,3 +22,4 @@ See a list of the How-to help files we have completed below.
    reST-inline-tabs
    reST-literalinclude-file
    reST-titles-headings
+   reST-documentation-template
