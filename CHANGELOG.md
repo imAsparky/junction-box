@@ -7,6 +7,65 @@ Changes unreleased.
 ### Chore
 
 - files:
+  - readthedocs.yaml tweak ([0e72fa3](https://github.com/imAsparky/junction-box/commit/0e72fa35fa66c8bc596c7092bb37b49c7ae13d69)) ([#131](https://github.com/imAsparky/junction-box/pull/131))
+  - readthedocs.yaml tweak ([75bcc96](https://github.com/imAsparky/junction-box/commit/75bcc9650f45caf4d793734657b957583f49e2a2)) ([#130](https://github.com/imAsparky/junction-box/pull/130))
+  - Pinned sphinx-inline-tabs==2021.4.11b9 ([61b4163](https://github.com/imAsparky/junction-box/commit/61b41632ddfacf31d6ca2db8a34591ad427a1b82)) ([#129](https://github.com/imAsparky/junction-box/pull/129))
+  - Pinned sphinx-inline-==2021.4.11b9 ([aa23f81](https://github.com/imAsparky/junction-box/commit/aa23f819cd8a4a6fdd3465711733097aa085867a)) ([#128](https://github.com/imAsparky/junction-box/pull/128))
+
+- file:
+  - Fix python version for readthedocs ([1687e1f](https://github.com/imAsparky/junction-box/commit/1687e1f345e72ca8471837f80efffae4207eb1da)) ([#127](https://github.com/imAsparky/junction-box/pull/127))
+  - Rename .readthedocs.yml ([099522f](https://github.com/imAsparky/junction-box/commit/099522fec51782dfeb5b6cf80b3c8622f95f6227)) ([#126](https://github.com/imAsparky/junction-box/pull/126))
+
+- readthedocs:
+  - Added yaml config file ([33fb345](https://github.com/imAsparky/junction-box/commit/33fb3456ac2534050fba71bf6aaeae6c89d15e6a)) ([#126](https://github.com/imAsparky/junction-box/pull/126))
+
+- conf:
+  - Update to latest release ([4cb3576](https://github.com/imAsparky/junction-box/commit/4cb3576f82fd47fee047ce3748ab47f7ab473586)) ([#106](https://github.com/imAsparky/junction-box/pull/106))
+
+### Feature
+
+- sphinx:
+  - Add inline text support #121 ([1464634](https://github.com/imAsparky/junction-box/commit/14646346f346f935c3cd90692cada0194c9899d1)) ([#123](https://github.com/imAsparky/junction-box/pull/123))
+  - Add copy-button to code-blocks #110 ([b2cfcee](https://github.com/imAsparky/junction-box/commit/b2cfceebf2e81f4290b7c7087d23cd91127e11e8)) ([#111](https://github.com/imAsparky/junction-box/pull/111))
+
+- discussion:
+  - Links to discussion board #118 ([345e441](https://github.com/imAsparky/junction-box/commit/345e4413701f02624d5aac8821551957f9d7c5c7)) ([#119](https://github.com/imAsparky/junction-box/pull/119))
+
+### Bug Fixes
+
+- sphinx:
+  - spinx-inline-tabs broken ([36d9242](https://github.com/imAsparky/junction-box/commit/36d924295ead1eac87c7c6b1d5b90b2b37accd47)) ([#125](https://github.com/imAsparky/junction-box/pull/125))
+  - sphinx-inline-tabs==2021.4.11b9 missing ([36d994f](https://github.com/imAsparky/junction-box/commit/36d994fa3be668d7064e5b43b9b890ca94707ad2)) ([#124](https://github.com/imAsparky/junction-box/pull/124))
+  - New regex for copy-button   #112 ([094e00c](https://github.com/imAsparky/junction-box/commit/094e00c4314052d0fe259c8a51916701a58a4c98)) ([#120](https://github.com/imAsparky/junction-box/pull/120))
+
+- git:
+  - Fix typo in .git-commit-template.txt ([504d6aa](https://github.com/imAsparky/junction-box/commit/504d6aae20351ed92163c7bc47dae3e18e419e05)) ([#116](https://github.com/imAsparky/junction-box/pull/116))
+
+### Documentation
+
+- reST:
+  - Added reST-admonitions #64 ([43b4baf](https://github.com/imAsparky/junction-box/commit/43b4baf2942cf458428312aea943b0d52f788235)) ([#133](https://github.com/imAsparky/junction-box/pull/133))
+  - Added introduction and update index #65 ([dac78e9](https://github.com/imAsparky/junction-box/commit/dac78e9fd8b5869f2f5535f9942fb386e7880597)) ([#132](https://github.com/imAsparky/junction-box/pull/132))
+  - Added inline-tabs.rst  #122 ([fd8e8c7](https://github.com/imAsparky/junction-box/commit/fd8e8c7bd48caa93666cc137083c2fb20c18cc72)) ([#123](https://github.com/imAsparky/junction-box/pull/123))
+
+- style:
+  - Updated .git-commit-template.txt ([3f32fae](https://github.com/imAsparky/junction-box/commit/3f32fae8a18307c10b9792f49b04f649bd7651bb)) ([#117](https://github.com/imAsparky/junction-box/pull/117))
+  - Fix typo style-developers.rst ([14ccb60](https://github.com/imAsparky/junction-box/commit/14ccb60ed95483f0efc730b7d38a476bb0529846)) ([#105](https://github.com/imAsparky/junction-box/pull/105))
+
+### Styling
+
+- reST:
+  - Admonitions layout tweaks #64 ([6532329](https://github.com/imAsparky/junction-box/commit/65323291a185d7c2668ef072c4aa511c95aeff5f)) ([#134](https://github.com/imAsparky/junction-box/pull/134))
+
+## [v0.0.1-alpha-2](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha-2) - 2021-07-19 03:32:22
+
+Completed some Style guides and Diátaxis documentation. A reasonable body of work to release and clean up the In Progress list.
+
+### Chore
+
+- files:
+  - Added folder, rename files for TOC #62 ([130809b](https://github.com/imAsparky/junction-box/commit/130809b6c17c01dbccefa329124341e75e910acc)) ([#104](https://github.com/imAsparky/junction-box/pull/104))
+  - Rename folder and file for TOC #62 ([ba723a5](https://github.com/imAsparky/junction-box/commit/ba723a55f47e6c25c296950a8e4ac1b3cd27f042)) ([#104](https://github.com/imAsparky/junction-box/pull/104))
   - Fix more common misspelling of diataxis ([11f3014](https://github.com/imAsparky/junction-box/commit/11f30141c1366e298be54eb9672e63145fab04d2)) ([#103](https://github.com/imAsparky/junction-box/pull/103))
   - Fix common mispelling of diataxis ([6827ec3](https://github.com/imAsparky/junction-box/commit/6827ec38a213dc808caa0d2f179238f19a93fb99)) ([#102](https://github.com/imAsparky/junction-box/pull/102))
   - Housekeeping adding img/diataxus files ([cb5bb26](https://github.com/imAsparky/junction-box/commit/cb5bb2657057448306c6b5f01eda0f6ad934d822)) ([#78](https://github.com/imAsparky/junction-box/pull/78))
@@ -29,6 +88,12 @@ Changes unreleased.
 
 ### Feature
 
+- sphinx:
+  - Theme is now Furo ([eb4b170](https://github.com/imAsparky/junction-box/commit/eb4b17086cd7160527f5dca1877adcd3d6fd8e92)) ([#104](https://github.com/imAsparky/junction-box/pull/104))
+  - Add support for markdown #49 ([ab2b705](https://github.com/imAsparky/junction-box/commit/ab2b7059a15a78ba695fb58b2f2cc369aeeff635)) ([#51](https://github.com/imAsparky/junction-box/pull/51))
+  - Theme is now sphinx_rtd_theme ([97174c7](https://github.com/imAsparky/junction-box/commit/97174c733cda618f11e6c0c875c13421e07008b4)) ([#29](https://github.com/imAsparky/junction-box/pull/29))
+  - Theme is now  t3SphinxThemeRtd #12 ([86f3afb](https://github.com/imAsparky/junction-box/commit/86f3afbbb57082b0cf167fd3f7ecba8c77b03057)) ([#27](https://github.com/imAsparky/junction-box/pull/27))
+
 - docs:
   - Add content developers style guide #35 ([76dbe8e](https://github.com/imAsparky/junction-box/commit/76dbe8e21186d0a968fe7e49fdb6fda407302626)) ([#98](https://github.com/imAsparky/junction-box/pull/98))
   - Created diataxus-discussion doc #25 ([2b03d6c](https://github.com/imAsparky/junction-box/commit/2b03d6ccbd265b554051d1f5e6af3d9f30141906)) ([#96](https://github.com/imAsparky/junction-box/pull/96))
@@ -37,11 +102,6 @@ Changes unreleased.
   - Add logo images #25 ([11e02d0](https://github.com/imAsparky/junction-box/commit/11e02d0bc4dcfa63a64dd39d9b3b15258c09f691)) ([#80](https://github.com/imAsparky/junction-box/pull/80))
   - Created diataxis tute and intro #25 ([d030edf](https://github.com/imAsparky/junction-box/commit/d030edf07b2252ea3eeeaeb8028f72dc7190e18b)) ([#74](https://github.com/imAsparky/junction-box/pull/74))
   - Create Intro to Diataxus #25 ([d5c6a19](https://github.com/imAsparky/junction-box/commit/d5c6a19f6869caf2ca32ebeb1ccba1d11ee1e415)) ([#73](https://github.com/imAsparky/junction-box/pull/73))
-
-- sphinx:
-  - Add support for markdown #49 ([ab2b705](https://github.com/imAsparky/junction-box/commit/ab2b7059a15a78ba695fb58b2f2cc369aeeff635)) ([#51](https://github.com/imAsparky/junction-box/pull/51))
-  - Theme is now sphinx_rtd_theme ([97174c7](https://github.com/imAsparky/junction-box/commit/97174c733cda618f11e6c0c875c13421e07008b4)) ([#29](https://github.com/imAsparky/junction-box/pull/29))
-  - Theme is now  t3SphinxThemeRtd #12 ([86f3afb](https://github.com/imAsparky/junction-box/commit/86f3afbbb57082b0cf167fd3f7ecba8c77b03057)) ([#27](https://github.com/imAsparky/junction-box/pull/27))
 
 ### Bug Fixes
 
