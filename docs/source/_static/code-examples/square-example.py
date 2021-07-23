@@ -2,9 +2,9 @@ import os
 
 
 def square(a):
-    """short description of the function square
+    """a very simple squaring function
 
-    longish explanation: returns the square of a: :math:`a^2`
+    long description: returns the square of a: :math:`a^2`
 
     :param a: an input argument
 
