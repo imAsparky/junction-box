@@ -18,8 +18,9 @@ and formatting.
 
 .. _how-to-admonitions:
 
+
 How-to
-========
+======
 
 The code block below demonstrates the syntax for one of the available
 admonition styles and is the "note" directive.
