@@ -80,9 +80,7 @@ html_static_path = ["_static"]
 # config options are here https://sphinx-copybutton.readthedocs.io/en/latest/
 # This config removes Python Repl + continuation, Bash line prefixes,
 # ipython and qtconsole + continuation, jupyter-console + continuation and preceding line numbers
-copybutton_prompt_text = (
-    r"^.\d|^\d\d|^\d\d\d|>>> |\.\.\. |\$ |In \[\d*\]: | {2,5}\.\.\.: | {5,8}: "
-)
+copybutton_prompt_text = r"^\d|^.\d|^\d\d|^\d\d\d|>>> |\.\.\. |\$ |In \[\d*\]: | {2,5}\.\.\.: | {5,8}: "
 copybutton_prompt_is_regexp = True
 
 # datalad download-url http://www.tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf \
