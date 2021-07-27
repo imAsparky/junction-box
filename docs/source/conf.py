@@ -38,6 +38,7 @@ extensions = [
     "myst_parser",
     "sphinx_copybutton",
     "sphinx_inline_tabs",
+    "sphinx.ext.autodoc",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
