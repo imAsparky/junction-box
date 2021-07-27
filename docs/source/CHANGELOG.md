@@ -7,6 +7,7 @@ Changes unreleased.
 ### Feature
 
 - sphinx:
+  - Added autodoc extension #144 ([00559c6](https://github.com/imAsparky/junction-box/commit/00559c666bf2dd5310a5539b040bf55a88e226b3)) ([#147](https://github.com/imAsparky/junction-box/pull/147))
   - Add inline text support #121 ([1464634](https://github.com/imAsparky/junction-box/commit/14646346f346f935c3cd90692cada0194c9899d1)) ([#123](https://github.com/imAsparky/junction-box/pull/123))
   - Add copy-button to code-blocks #110 ([b2cfcee](https://github.com/imAsparky/junction-box/commit/b2cfceebf2e81f4290b7c7087d23cd91127e11e8)) ([#111](https://github.com/imAsparky/junction-box/pull/111))
 
