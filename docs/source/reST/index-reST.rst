@@ -3,13 +3,13 @@
 .. index:: reST; Index
 .. _rest-index:
 
-=================
-reSt How-to Index
-=================
+====
+reSt
+====
 
 |
 
-See a list of the How-to help files we have completed below.
+See a list of the :sep:`How-to` help files below.
 
 |
 
