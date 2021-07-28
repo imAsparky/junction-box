@@ -134,8 +134,8 @@ Here are eight tips to help improve the UX design process:
    #. A simple system is
 
       #. :emph:`Errors are red.`
-      #. :emph:``Warnings are orange.
-      #. :emph:``Ok is green
+      #. :emph:`Warnings are orange.`
+      #. :emph:`Ok is green.`
 
    #. Use one colour for clickable components and other colours for accents.
 
