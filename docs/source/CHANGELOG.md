@@ -27,6 +27,10 @@ Changes unreleased.
 
 ### Documentation
 
+- index:
+  - Multiple file index fixes #146 ([328319d](https://github.com/imAsparky/junction-box/commit/328319d722b9bd50215441ebe3ab1e4567faf35f)) ([#151](https://github.com/imAsparky/junction-box/pull/151))
+  - Added index template #146 ([5677a65](https://github.com/imAsparky/junction-box/commit/5677a651861fdf22402bf36cb5455728c98d2f25)) ([#151](https://github.com/imAsparky/junction-box/pull/151))
+
 - template:
   - Added reST  #148 ([fb03281](https://github.com/imAsparky/junction-box/commit/fb03281309ca86d13f4f0a7b0ae482b2ea5b6194)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
 
