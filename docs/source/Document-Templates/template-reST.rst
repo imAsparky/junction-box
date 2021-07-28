@@ -9,9 +9,9 @@
 .. index:: reST; Title Here
 .. _rest-title-here:
 
-=============================
-Template - reST Documentation
-=============================
+==================
+reST Documentation
+==================
 
 |
 
