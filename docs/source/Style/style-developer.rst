@@ -98,6 +98,7 @@ Two Auto-generate CHANGELOG yaml files use
 The first, below, updates the CHANGELOG for the :sep:`repo` and includes additional tags to assist the developers, particularly with WIP.
 
 |
+
 .. code-block:: yaml
     :linenos:
     :emphasize-lines: 18
