@@ -6,6 +6,25 @@ Changes unreleased.
 
 ### Chore
 
+- docs:
+  - Fixed transition titleblock #149 ([7b82d92](https://github.com/imAsparky/junction-box/commit/7b82d92658da84bd4398f95f223377ef784e49c9)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+  - Fixed damaged link #149 ([d7b7d00](https://github.com/imAsparky/junction-box/commit/d7b7d000152a312e501e7528f0c1d347769be633)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+  - Fixed linking errors #149 ([8e6ce6f](https://github.com/imAsparky/junction-box/commit/8e6ce6f7eb567666751d5c59d1db7f433b2dc160)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+  - Remove ref to deleted doc  #149 ([80487f1](https://github.com/imAsparky/junction-box/commit/80487f195403356318e7599f3ac3235e2dcd6c21)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+  - Delete unused file  #149 ([83e2e53](https://github.com/imAsparky/junction-box/commit/83e2e5337bf2d99dbab27085dd09abda85a58e67)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+  - Deleted ununsed document #149 ([c614b7b](https://github.com/imAsparky/junction-box/commit/c614b7b4922e8a1ce696ada3f6c8d637a531f423)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+  - Fix lineblock error #149 ([f2f1709](https://github.com/imAsparky/junction-box/commit/f2f1709fc76f30561ea46157dbacba6d52100a35)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+  - Remove transistion error #149 ([fa3e293](https://github.com/imAsparky/junction-box/commit/fa3e293397961c3b6152858fd43a78ac6ae281a5)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+  - fix Title underline too short #149 ([b804684](https://github.com/imAsparky/junction-box/commit/b804684965d0606987bd01147c6ba483020ad386)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+  - Fix incorrect use of directive #149 ([6c1cd48](https://github.com/imAsparky/junction-box/commit/6c1cd48a056ffe98e8fac9122eff527d03170591)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+  - Fix 2 rows of ` errors #149 ([4af88eb](https://github.com/imAsparky/junction-box/commit/4af88eb9e2089c883d3127f25e9df50be971297b)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+
+- pre-commit:
+  - Remove `` check ([dc8e9fd](https://github.com/imAsparky/junction-box/commit/dc8e9fd73f5c35914f1d043f1c39ae5ff678afbd)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+
+- reST:
+  - Added example files for docs #139 ([f12c7fa](https://github.com/imAsparky/junction-box/commit/f12c7fa1793a429d38a0aa5b1209921625e5ac68)) ([#140](https://github.com/imAsparky/junction-box/pull/140))
+
 - files:
   - readthedocs.yaml tweak ([0e72fa3](https://github.com/imAsparky/junction-box/commit/0e72fa35fa66c8bc596c7092bb37b49c7ae13d69)) ([#131](https://github.com/imAsparky/junction-box/pull/131))
   - readthedocs.yaml tweak ([75bcc96](https://github.com/imAsparky/junction-box/commit/75bcc9650f45caf4d793734657b957583f49e2a2)) ([#130](https://github.com/imAsparky/junction-box/pull/130))
@@ -25,6 +44,7 @@ Changes unreleased.
 ### Feature
 
 - sphinx:
+  - Added autodoc extension #144 ([00559c6](https://github.com/imAsparky/junction-box/commit/00559c666bf2dd5310a5539b040bf55a88e226b3)) ([#147](https://github.com/imAsparky/junction-box/pull/147))
   - Add inline text support #121 ([1464634](https://github.com/imAsparky/junction-box/commit/14646346f346f935c3cd90692cada0194c9899d1)) ([#123](https://github.com/imAsparky/junction-box/pull/123))
   - Add copy-button to code-blocks #110 ([b2cfcee](https://github.com/imAsparky/junction-box/commit/b2cfceebf2e81f4290b7c7087d23cd91127e11e8)) ([#111](https://github.com/imAsparky/junction-box/pull/111))
 
@@ -34,6 +54,7 @@ Changes unreleased.
 ### Bug Fixes
 
 - sphinx:
+  - Regex for copy button improved #136 ([74d122d](https://github.com/imAsparky/junction-box/commit/74d122dd764d812df2f34a07335ed1c589134ef7)) ([#137](https://github.com/imAsparky/junction-box/pull/137))
   - spinx-inline-tabs broken ([36d9242](https://github.com/imAsparky/junction-box/commit/36d924295ead1eac87c7c6b1d5b90b2b37accd47)) ([#125](https://github.com/imAsparky/junction-box/pull/125))
   - sphinx-inline-tabs==2021.4.11b9 missing ([36d994f](https://github.com/imAsparky/junction-box/commit/36d994fa3be668d7064e5b43b9b890ca94707ad2)) ([#124](https://github.com/imAsparky/junction-box/pull/124))
   - New regex for copy-button   #112 ([094e00c](https://github.com/imAsparky/junction-box/commit/094e00c4314052d0fe259c8a51916701a58a4c98)) ([#120](https://github.com/imAsparky/junction-box/pull/120))
@@ -43,7 +64,18 @@ Changes unreleased.
 
 ### Documentation
 
+- index:
+  - Multiple file index fixes #146 ([328319d](https://github.com/imAsparky/junction-box/commit/328319d722b9bd50215441ebe3ab1e4567faf35f)) ([#151](https://github.com/imAsparky/junction-box/pull/151))
+  - Added index template #146 ([5677a65](https://github.com/imAsparky/junction-box/commit/5677a651861fdf22402bf36cb5455728c98d2f25)) ([#151](https://github.com/imAsparky/junction-box/pull/151))
+
+- template:
+  - Added reST  #148 ([fb03281](https://github.com/imAsparky/junction-box/commit/fb03281309ca86d13f4f0a7b0ae482b2ea5b6194)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+
 - reST:
+  - Add a reST documentation template #142 ([1e9e566](https://github.com/imAsparky/junction-box/commit/1e9e566069edff725d9ba2a4492079e399c4a490)) ([#143](https://github.com/imAsparky/junction-box/pull/143))
+  - Added literalinclude document #135 ([cb6db79](https://github.com/imAsparky/junction-box/commit/cb6db7986cb9029042acc98d952e36af2ae564c4)) ([#141](https://github.com/imAsparky/junction-box/pull/141))
+  - Updated index and renamed file ([823150e](https://github.com/imAsparky/junction-box/commit/823150edb3e14d0ce91b59cd7cd1fe9e4d81c305)) ([#138](https://github.com/imAsparky/junction-box/pull/138))
+  - Added Titles and Headings #66 ([de90bcf](https://github.com/imAsparky/junction-box/commit/de90bcf0f9d522dc43a38b33b291814e61b4f05a)) ([#138](https://github.com/imAsparky/junction-box/pull/138))
   - Added reST-admonitions #64 ([43b4baf](https://github.com/imAsparky/junction-box/commit/43b4baf2942cf458428312aea943b0d52f788235)) ([#133](https://github.com/imAsparky/junction-box/pull/133))
   - Added introduction and update index #65 ([dac78e9](https://github.com/imAsparky/junction-box/commit/dac78e9fd8b5869f2f5535f9942fb386e7880597)) ([#132](https://github.com/imAsparky/junction-box/pull/132))
   - Added inline-tabs.rst  #122 ([fd8e8c7](https://github.com/imAsparky/junction-box/commit/fd8e8c7bd48caa93666cc137083c2fb20c18cc72)) ([#123](https://github.com/imAsparky/junction-box/pull/123))
@@ -55,6 +87,7 @@ Changes unreleased.
 ### Styling
 
 - reST:
+  - Admonitions fixed some typos #64 ([b73c740](https://github.com/imAsparky/junction-box/commit/b73c740f3f6bd870fa417881288bc3d29cacd195)) ([#138](https://github.com/imAsparky/junction-box/pull/138))
   - Admonitions layout tweaks #64 ([6532329](https://github.com/imAsparky/junction-box/commit/65323291a185d7c2668ef072c4aa511c95aeff5f)) ([#134](https://github.com/imAsparky/junction-box/pull/134))
 
 ## [v0.0.1-alpha-2](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha-2) - 2021-07-19 03:32:22
