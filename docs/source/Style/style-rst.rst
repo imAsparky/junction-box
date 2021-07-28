@@ -4,6 +4,15 @@
 reStructured Text Style
 =======================
 
+
+.. sidebar:: Optional Sidebar Title
+      :subtitle: Optional Sidebar Subtitle
+
+      Subsequent indented lines comprise
+      the body of the sidebar, and are
+      interpreted as body elements.
+
+
 There may be a need to modify one of the pre-existing templates or
 create a new one to improve how the author can convey their message.
 
@@ -15,7 +24,7 @@ Text Emphasis
 Bold and Italic
 ---------------
 
-Sphinx can render text as either bold or italic but not both.
+:sep:`Sphinx can render text as either bold or italic but not both.`
 
 .. code-block:: rest
    :linenos:
@@ -165,7 +174,10 @@ Sphinx provides the ability to link to internal document references.
 
 .. _random-heading-link:
 
-ndom Heading============Some random text to help some unexpected challenge.
+Random Heading
+==============
+
+Some random text to help some unexpected challenge.
 
 |
 |
