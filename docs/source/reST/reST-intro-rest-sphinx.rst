@@ -49,6 +49,8 @@ This is some text in a New paragraph.
     from `here <https://docutils.sourceforge.io/docs/ref/rst/restructuredtext.html>`__.
 
 
+.. _go-back:
+
 .. code-block:: rest
     :linenos:
 
@@ -56,7 +58,7 @@ This is some text in a New paragraph.
     *emphasis*, **strong emphasis**, `interpreted text`, ``inline
     literals``, standalone hyperlinks (http://www.python.org),
     external hyperlinks (Python_), internal cross-references
-    (example_), footnote references ([1]_), citation references
+    (example_), footnote references ([#1]_), citation references
     ([CIT2002]_), substitution references (|example|),
     and _`inline internal targets`.
 
@@ -65,12 +67,11 @@ This is some text in a New paragraph.
 :emph:`See Paragraph styling above rendered by Sphinx below.`
 
 Paragraphs contain text and may contain inline markup:
-*emphasis*, **strong emphasis**,
-standalone hyperlinks (http://www.python.org),
+*emphasis*, **strong emphasis**, `interpreted text`, ``inline
+literals``, standalone hyperlinks (http://www.python.org),
 external hyperlinks (Python_), internal cross-references
-(example_), footnote references ([1]_), citation references
-([CIT2002]_), substitution references (|example|),
-and _`inline internal targets`.
+(example_), footnote references ([#1]_), citation references
+([CIT2002]_), and _`inline internal targets`.
 
 Paragraphs are separated by blank lines and are left-aligned.
 
@@ -131,3 +132,19 @@ Further Reading
 
 For further interesting reading on this topic, see
 :ref:`reST How-to Index <rest-index>`
+
+|
+
+.. _example:
+
+:sep:`Example of links used in test.`
+
+
+.. [#1] Here is a footnote numbered 1.
+
+.. [CIT2002] Here is the citation for CIT2002
+
+Click to go back to the link examples above: :ref:`.. code-block:: rest <go-back>`
+
+
+.. _Python: http://www.python.org
