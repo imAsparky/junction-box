@@ -1,4 +1,4 @@
-.. include:: /Includes.rst.txt
+.. include:: /extras.rst.txt
 .. highlight:: rst
 .. index:: Style; Reference
 .. _rest-reference:

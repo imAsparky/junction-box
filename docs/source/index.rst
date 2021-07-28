@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root ``toctree`` directive.
 
-.. include:: /extras.rst.txt
+.. include:: extras.rst.txt
 
 .. image:: /_static/img/logo/logo-junction-box-1280x640.svg
    :width: 250px
@@ -14,22 +14,27 @@
 
 Welcome to Junction Box's documentation!
 ========================================
-:emph:`A place to document connections between technologies for our software development framework.`
+:emph:`A place to document connections between technologies for our software
+development framework.`
 
 |
 |
 
 
 .. toctree::
-   :maxdepth: 1
+   :hidden:
+   :maxdepth: 2
    :caption: Contents:
 
-   Diataxis/diataxis-index
-   Design/design-index
-   Style/style-index
-   reST/reST-index
+   Design/index-design
+   Diataxis/index-diataxis
+   Document-Templates/index-document-template
+   index-how-to
+   Style/index-style
+
    about
    CHANGELOG.md
+
 
 |
 |
