@@ -9,9 +9,9 @@
 .. index:: reST; Title Here
 .. _rest-title-here:
 
-=============================
-Template - reST Documentation
-=============================
+==================
+reST Documentation
+==================
 
 |
 
@@ -32,6 +32,7 @@ that follows.
 
 Use admonitions, inline-tabs and other reST tools to get a concise
 message across.
+
 |
 
 
@@ -50,7 +51,7 @@ tabs.`
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; title-here
-.. _reference-title-here:
+.. .. _reference-title-here:
 
 First Example
 -------------
@@ -75,8 +76,11 @@ First Example
 Discussion
 ==========
 
+|
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+|
 
 Further Reading
 ===============

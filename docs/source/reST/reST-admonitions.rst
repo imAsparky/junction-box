@@ -106,7 +106,7 @@ tabs.`
 .. _reference-admonition:
 
 Admonition
----------
+----------
 
 .. tab:: How it Looks
 
