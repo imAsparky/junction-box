@@ -27,6 +27,9 @@ Changes unreleased.
 
 ### Documentation
 
+- template:
+  - Added reST  #148 ([fb03281](https://github.com/imAsparky/junction-box/commit/fb03281309ca86d13f4f0a7b0ae482b2ea5b6194)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
+
 - reST:
   - Add a reST documentation template #142 ([1e9e566](https://github.com/imAsparky/junction-box/commit/1e9e566069edff725d9ba2a4492079e399c4a490)) ([#143](https://github.com/imAsparky/junction-box/pull/143))
   - Added literalinclude document #135 ([cb6db79](https://github.com/imAsparky/junction-box/commit/cb6db7986cb9029042acc98d952e36af2ae564c4)) ([#141](https://github.com/imAsparky/junction-box/pull/141))
