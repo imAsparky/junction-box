@@ -51,7 +51,7 @@ tabs.`
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 .. index:: reST directives; title-here
-.. _reference-title-here:
+.. .. _reference-title-here:
 
 First Example
 -------------
@@ -76,8 +76,11 @@ First Example
 Discussion
 ==========
 
+|
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+|
 
 Further Reading
 ===============
