@@ -28,6 +28,7 @@ Changes unreleased.
 ### Documentation
 
 - index:
+  - Multiple file rename index fixes #146 ([11c0f96](https://github.com/imAsparky/junction-box/commit/11c0f9664a8eda7131ab3778a9b3a51cbc388e3d)) ([#152](https://github.com/imAsparky/junction-box/pull/152))
   - Multiple file index fixes #146 ([328319d](https://github.com/imAsparky/junction-box/commit/328319d722b9bd50215441ebe3ab1e4567faf35f)) ([#151](https://github.com/imAsparky/junction-box/pull/151))
   - Added index template #146 ([5677a65](https://github.com/imAsparky/junction-box/commit/5677a651861fdf22402bf36cb5455728c98d2f25)) ([#151](https://github.com/imAsparky/junction-box/pull/151))
 
