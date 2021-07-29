@@ -3,6 +3,9 @@
 .. index:: Style; Reference
 .. _rest-reference:
 
+
+Generally we follow :pep:`8` in our Python code.
+
 ============
 Style Guides
 ============
