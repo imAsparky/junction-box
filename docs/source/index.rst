@@ -26,11 +26,13 @@ development framework.`
    :maxdepth: 2
    :caption: Contents:
 
-   Design/index-design
-   Diataxis/index-diataxis
+
+   Document-Framework/index-document-framework
    Document-Templates/index-document-template
+   Design/index-design
    index-how-to
    Style/index-style
+   API/index-api
 
    about
    CHANGELOG.md
@@ -49,8 +51,6 @@ Indices and tables
 
 * :ref:`search`
 
+* :ref:`genindex`
 
-
-.. * :ref:`genindex`
-
-.. * :ref:`modindex`
+* :ref:`modindex`

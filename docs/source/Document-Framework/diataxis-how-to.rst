@@ -4,9 +4,9 @@
 
 .. _diataxis-how-to:
 
-===============
-Diátaxis How-to
-===============
+======
+How-to
+======
 
 
 .. figure:: /_static/img/diataxis/diataxis-how-to-1280x640.svg

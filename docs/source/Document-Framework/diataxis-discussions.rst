@@ -4,9 +4,9 @@
 
 .. _diataxis-discussions:
 
-====================
-Diátaxis Discussions
-====================
+===========
+Discussions
+===========
 
 
 
