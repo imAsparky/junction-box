@@ -4,9 +4,9 @@
 
 .. _diataxis-reference:
 
-==================
-Diátaxis Reference
-==================
+=========
+Reference
+=========
 
 
 

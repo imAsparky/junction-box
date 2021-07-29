@@ -4,9 +4,9 @@
 
 .. _diataxis-tutorials:
 
-==================
-Diátaxis Tutorials
-==================
+=========
+Tutorials
+=========
 
 
 
