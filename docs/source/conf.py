@@ -17,6 +17,7 @@ import sys
 # Then changed it back again.  Its a mystery to me so left the optional fix just in case.
 # Found the fix here https://stackoverflow.com/questions/59903051/sphinxs-autodocs-automodule-having-apparently-no-effect
 sys.path.insert(0, os.path.abspath("."))
+sys.path.insert(0, os.path.abspath("../source/_static"))
 # sys.path.insert(0, os.path.abspath(os.path.join("..", "..")))
 
 # -- Project information -----------------------------------------------------
@@ -39,6 +40,7 @@ extensions = [
     "sphinx_copybutton",
     "sphinx_inline_tabs",
     "sphinx.ext.autodoc",
+    "sphinx.ext.autosummary",
 ]
 
 # Add any paths that contain templates here, relative to this directory.

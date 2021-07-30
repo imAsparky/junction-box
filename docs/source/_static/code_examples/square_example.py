@@ -1,6 +1,3 @@
-import os
-
-
 def square(a):
     """a very simple squaring function
 
