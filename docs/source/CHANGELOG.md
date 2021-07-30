@@ -27,6 +27,14 @@ Changes unreleased.
 
 ### Documentation
 
+- Autodoc:
+  - Added config and docs to test #145 ([bc997fa](https://github.com/imAsparky/junction-box/commit/bc997fa03b7a68c664ca6442cb457c8acde27067)) ([#153](https://github.com/imAsparky/junction-box/pull/153))
+
+- style:
+  - Added pep 8 reference to styling index ([98fb6de](https://github.com/imAsparky/junction-box/commit/98fb6de3aa7cb00f9778074a82f3c765b48d7036)) ([#153](https://github.com/imAsparky/junction-box/pull/153))
+  - Updated .git-commit-template.txt ([3f32fae](https://github.com/imAsparky/junction-box/commit/3f32fae8a18307c10b9792f49b04f649bd7651bb)) ([#117](https://github.com/imAsparky/junction-box/pull/117))
+  - Fix typo style-developers.rst ([14ccb60](https://github.com/imAsparky/junction-box/commit/14ccb60ed95483f0efc730b7d38a476bb0529846)) ([#105](https://github.com/imAsparky/junction-box/pull/105))
+
 - index:
   - Multiple file rename index fixes #146 ([11c0f96](https://github.com/imAsparky/junction-box/commit/11c0f9664a8eda7131ab3778a9b3a51cbc388e3d)) ([#152](https://github.com/imAsparky/junction-box/pull/152))
   - Multiple file index fixes #146 ([328319d](https://github.com/imAsparky/junction-box/commit/328319d722b9bd50215441ebe3ab1e4567faf35f)) ([#151](https://github.com/imAsparky/junction-box/pull/151))
@@ -43,10 +51,6 @@ Changes unreleased.
   - Added reST-admonitions #64 ([43b4baf](https://github.com/imAsparky/junction-box/commit/43b4baf2942cf458428312aea943b0d52f788235)) ([#133](https://github.com/imAsparky/junction-box/pull/133))
   - Added introduction and update index #65 ([dac78e9](https://github.com/imAsparky/junction-box/commit/dac78e9fd8b5869f2f5535f9942fb386e7880597)) ([#132](https://github.com/imAsparky/junction-box/pull/132))
   - Added inline-tabs.rst  #122 ([fd8e8c7](https://github.com/imAsparky/junction-box/commit/fd8e8c7bd48caa93666cc137083c2fb20c18cc72)) ([#123](https://github.com/imAsparky/junction-box/pull/123))
-
-- style:
-  - Updated .git-commit-template.txt ([3f32fae](https://github.com/imAsparky/junction-box/commit/3f32fae8a18307c10b9792f49b04f649bd7651bb)) ([#117](https://github.com/imAsparky/junction-box/pull/117))
-  - Fix typo style-developers.rst ([14ccb60](https://github.com/imAsparky/junction-box/commit/14ccb60ed95483f0efc730b7d38a476bb0529846)) ([#105](https://github.com/imAsparky/junction-box/pull/105))
 
 ### Styling
 
