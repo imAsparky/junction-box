@@ -13,13 +13,11 @@
 import os
 import sys
 
-# This path didnt seem to work so commented out and added the one below.
-# Then changed it back again.  Its a mystery to me so left the optional fix just in case.
-# Found the fix here https://stackoverflow.com/questions/59903051/sphinxs-autodocs-automodule-having-apparently-no-effect
-sys.path.insert(0, os.path.abspath("."))
-sys.path.insert(0, os.path.abspath("../source/_static"))
-# sys.path.insert(0, os.path.abspath(os.path.join("..", "..")))
+sys.path.insert(0, os.path.abspath("../.."))
+sys.path.append(os.path.abspath("../source/_static/code_examples"))
 
+# print("***********\nExecutable\n", sys.executable)
+# print("\nPATHS\n", sys.path, "\n***********\n")
 # -- Project information -----------------------------------------------------
 
 project = "Junction Box"
@@ -41,6 +39,7 @@ extensions = [
     "sphinx_inline_tabs",
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
+    "sphinx.ext.intersphinx",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -92,3 +91,17 @@ copybutton_prompt_is_regexp = True
 # -O books/bash_guide.pdf
 # is correctly pasted with the following setting
 copybutton_line_continuation_character = "\\"
+
+
+# autosummary settings
+autosummary_generate = True
+
+# Intersphinx settings
+
+intersphinx_mapping = {
+    "python": ("https://docs.python.org/3.9", None),
+    "django": (
+        "https://docs.djangoproject.com/en/3.2",
+        "https://docs.djangoproject.com/en/3.2/_objects",
+    ),
+}
