@@ -1,0 +1,15 @@
+Example file for literal include: File Tree Number 1
+
+junction-box
+├── file_tree_literal_include_example_2.txt
+└── docs
+    └── source
+        └── reST
+            ├── index-reST.rst
+            ├── reST-admonitions.rst
+            ├── reST-inline-tabs.rst
+            ├── reST-intro-rest-sphinx.rst
+            ├── reST-literalinclude-file.rst
+            ├── reST-titles-headings.rst
+            ├── reST-toctree.rst
+            └── file_tree_literal_include_example_1.txt

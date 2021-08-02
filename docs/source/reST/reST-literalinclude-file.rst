@@ -150,6 +150,7 @@ Line Numbers
 
     .. code-block:: rest
         :linenos:
+        :emphasize-lines: 3
 
         .. literalinclude:: ../../../.readthedocs.yaml
             :language: yaml
@@ -171,6 +172,7 @@ Line Highlight
 
     .. code-block:: rest
         :linenos:
+        :emphasize-lines: 4
 
         .. literalinclude:: ../../../.readthedocs.yaml
             :language: yaml
@@ -202,38 +204,12 @@ Line Selection
 
     .. code-block:: rest
         :linenos:
+        :emphasize-lines: 4
 
         .. literalinclude:: ../../../.readthedocs.yaml
             :language: yaml
             :linenos:
             :lines: 1,2, 10-13
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-File Encoding
-
-.. tab:: How it Looks
-
-    .. literalinclude:: ../../../.readthedocs.yaml
-        :language: yaml
-        :linenos:
-        :encoding: utf-8-sig
-
-    .. note::
-
-        Default file encoding is utf-8-sig.
-
-        Use this class for different target file encodings, e.g. latin-1.
-
-.. tab:: reST syntax
-
-    .. code-block:: rest
-        :linenos:
-
-        .. literalinclude:: ../../../.readthedocs.yaml
-            :language: yaml
-            :linenos:
-            :encoding: utf-8-sig
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -269,6 +245,59 @@ Code Language
             :linenos:
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+File Diff
+
+.. tab:: How it Looks
+
+    .. literalinclude:: file_tree_literal_include_example_1.txt
+        :language: text
+        :linenos:
+        :diff: file_tree_literal_include_example_1_old.txt
+
+
+.. tab:: reST syntax
+
+    .. code-block:: rest
+        :linenos:
+        :emphasize-lines: 4
+
+        .. literalinclude:: file_tree_literal_include_example_1.txt
+        :language: text
+        :linenos:
+        :diff: file_tree_literal_include_example_1_old.txt
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+File Encoding
+
+.. tab:: How it Looks
+
+    .. literalinclude:: ../../../.readthedocs.yaml
+        :language: yaml
+        :linenos:
+        :encoding: utf-8-sig
+
+
+    .. note::
+
+        Default file encoding is utf-8-sig.
+
+        Use this class for different target file encodings, e.g. latin-1.
+
+.. tab:: reST syntax
+
+    .. code-block:: rest
+        :linenos:
+        :emphasize-lines: 4
+
+        .. literalinclude:: ../../../.readthedocs.yaml
+            :language: yaml
+            :linenos:
+            :encoding: utf-8-sig
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 .. _discussion-literal-include:
 
