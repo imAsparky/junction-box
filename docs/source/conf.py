@@ -10,11 +10,13 @@
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #
+#  style(reST):Change code-block->literalinclude #154
+
 import os
 import sys
 
-sys.path.insert(0, os.path.abspath("../.."))
-sys.path.append(os.path.abspath("../source/_static/code_examples"))
+sys.path.append(os.path.abspath("../.."))
+sys.path.append(os.path.abspath("../source/_static"))
 
 # print("***********\nExecutable\n", sys.executable)
 # print("\nPATHS\n", sys.path, "\n***********\n")

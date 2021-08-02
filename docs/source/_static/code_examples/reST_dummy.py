@@ -1,6 +1,7 @@
 """This module illustrates how to write your docstring in Junction-Box
 and other projects related to Junction-box."""
 
+
 __license__ = "Cecill-C"
 __revision__ = " $Id: actor.py 1586 2009-01-30 15:56:25Z cokelaer $ "
 __docformat__ = "reStructuredText"
