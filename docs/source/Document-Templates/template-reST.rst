@@ -33,7 +33,16 @@ that follows.
 Use admonitions, inline-tabs and other reST tools to get a concise
 message across.
 
-|
+.. tab:: How it Looks
+
+    Demonstrate what the reST code will look like here.
+
+.. tab:: reST syntax
+
+   .. code-block:: rest
+        :linenos:
+
+        Add reST here
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
