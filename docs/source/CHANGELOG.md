@@ -27,6 +27,9 @@ Changes unreleased.
 
 ### Documentation
 
+- sphinx:
+  - Add files for autodoc #145 ([f4caa81](https://github.com/imAsparky/junction-box/commit/f4caa81968d61baa3fcc74eb2d3daf759282fd17)) ([#157](https://github.com/imAsparky/junction-box/pull/157))
+
 - template:
   - Updated reST template #148 ([9b59b34](https://github.com/imAsparky/junction-box/commit/9b59b3452021a09f1a8f6dd65b9f500425b2569d)) ([#156](https://github.com/imAsparky/junction-box/pull/156))
   - Added reST  #148 ([fb03281](https://github.com/imAsparky/junction-box/commit/fb03281309ca86d13f4f0a7b0ae482b2ea5b6194)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
