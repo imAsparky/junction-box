@@ -1,3 +1,6 @@
+""" A very very simple square function"""
+
+
 def square(a):
     """a very simple squaring function
 

@@ -25,29 +25,103 @@ How-to
 
 .. tab:: How it Looks
 
-    .. literalinclude:: /_static/code-examples/.readthedocs-example.yaml
-        :language: yaml
+    .. caution::
 
-    .. seealso::
+        `..literalinclude` does not use the System Path to connect to target
+        files.  The target files location is relative to the calling file.
 
-        The example displayed above has no modifier options.
+        Often the target file is in the same folder as the calling file, as in
+        this example, see the reST syntax tab for the code.
 
-        See :ref:`Reference <reference-literal-include>` section below
-        for modifying options.
+        See the Path Examples tab for more information on how to access target
+        files in different directories.
+
+    .. literalinclude:: file_tree_literal_include_example_1.txt
+        :language: text
+        :linenos:
+        :emphasize-lines: 1, 24, 27
+
+    .. note::
+
+        Line 1: Example file name.
+
+        Line 24: Location of the `.. literalinclude::` calling the file.
+
+        Line 27: Location of the file being called.
 
 .. tab:: reST syntax
 
     .. code-block:: rest
+        :linenos:
+
+        .. literalinclude:: file_tree_literal_include_example_1.txt
+        :language: text
+        :linenos:
+        :emphasize-lines: 1, 24, 27
+
+
+.. tab:: Path Example 2
+
+    .. hint::
+
+        This example demonstrates :sep:`..literalinclude <path-to-file>` with
+        the target file three folders above.
+
+    .. code-block:: rest
        :linenos:
 
-       .. literalinclude:: /_static/code-examples/.readthedocs-example.yaml
+       .. literalinclude:: ../../../file_tree_literal_include_example_2.txt
+        :language: text
+        :linenos:
+        :emphasize-lines: 1, 4, 24
 
-    .. tip::
 
-        Usually, the file name is relative to the current file's path.
+    .. literalinclude:: ../../../file_tree_literal_include_example_2.txt
+        :language: text
+        :linenos:
+        :emphasize-lines: 1, 4, 24
 
-        However, it can be relative to the top source directory if it is
-        absolute, i.e. starting with /, as shown in the example above.
+    .. note::
+
+        Line 1: Example file name.
+
+        Line 4: Location of the file being called.
+
+        Line 24: Location of the `.. literalinclude::` calling the file.
+
+.. tab:: Path Example 3
+
+    .. hint::
+
+        This example demonstrates :sep:`..literalinclude <path-to-file>` with
+        the target file up one folder and across two folders.
+
+    .. code-block:: rest
+       :linenos:
+
+       .. literalinclude:: ../_static/code_examples/file_tree_literal_include_example_2.txt
+        :language: text
+        :linenos:
+        :emphasize-lines: 1, 16, 24
+
+
+    .. literalinclude:: ../_static/code_examples/file_tree_literal_include_example_3.txt
+        :language: text
+        :linenos:
+        :emphasize-lines: 1, 16, 24
+
+    .. note::
+
+        Line 1: Example file name.
+
+        Line 4: Location of the file being called.
+
+        Line 24: Location of the `.. literalinclude::` calling the file.
+
+See :ref:`Reference <reference-literal-include>` section below for modifying options.
+
+
+
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -67,7 +141,7 @@ Line Numbers
 
 .. tab:: How it Looks
 
-    .. literalinclude:: /_static/code-examples/.readthedocs-example.yaml
+    .. literalinclude:: ../../../.readthedocs.yaml
         :language: yaml
         :linenos:
 
@@ -76,8 +150,9 @@ Line Numbers
 
     .. code-block:: rest
         :linenos:
+        :emphasize-lines: 3
 
-        .. literalinclude:: /_static/code-examples/.readthedocs-example.yaml
+        .. literalinclude:: ../../../.readthedocs.yaml
             :language: yaml
             :linenos:
 
@@ -87,7 +162,7 @@ Line Highlight
 
 .. tab:: How it Looks
 
-    .. literalinclude:: /_static/code-examples/.readthedocs-example.yaml
+    .. literalinclude:: ../../../.readthedocs.yaml
         :language: yaml
         :linenos:
         :emphasize-lines: 1,2, 10-13
@@ -97,8 +172,9 @@ Line Highlight
 
     .. code-block:: rest
         :linenos:
+        :emphasize-lines: 4
 
-        .. literalinclude:: /_static/code-examples/.readthedocs-example.yaml
+        .. literalinclude:: ../../../.readthedocs.yaml
             :language: yaml
             :linenos:
             :emphasize-lines: 1,2, 10-13
@@ -109,7 +185,7 @@ Line Selection
 
 .. tab:: How it Looks
 
-    .. literalinclude:: /_static/code-examples/.readthedocs-example.yaml
+    .. literalinclude:: ../../../.readthedocs.yaml
         :language: yaml
         :linenos:
         :lines: 1,2, 10-13
@@ -128,50 +204,20 @@ Line Selection
 
     .. code-block:: rest
         :linenos:
+        :emphasize-lines: 4
 
-        .. literalinclude:: /_static/code-examples/.readthedocs-example.yaml
+        .. literalinclude:: ../../../.readthedocs.yaml
             :language: yaml
             :linenos:
             :lines: 1,2, 10-13
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-File Encoding
-
-.. tab:: How it Looks
-
-    .. literalinclude:: /_static/code-examples/.readthedocs-example.yaml
-        :language: yaml
-        :linenos:
-        :encoding: utf-8-sig
-
-    .. note::
-
-        Default file encoding is utf-8-sig.
-
-        Use this class for different file encodings, e.g. latin-1.
-
-.. tab:: reST syntax
-
-    .. code-block:: rest
-        :linenos:
-
-        .. literalinclude:: /_static/code-examples/.readthedocs-example.yaml
-            :language: yaml
-            :linenos:
-            :encoding: utf-8-sig
-
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 Code Language
 
-.. tab:: How it Looks
+|
 
-    .. literalinclude:: /_static/code-examples/square-example.py
-        :language: python
-        :linenos:
-
-    .. note::
+.. seealso::
 
         All examples above have used a single yaml file to display the options.
 
@@ -182,16 +228,76 @@ Code Language
         `Pygments Lexers <https://pygments.org/docs/lexers/>`__
 
 
+.. tab:: How it Looks
+
+    .. literalinclude:: ../_static/code_examples/square_example.py
+        :language: python
+        :linenos:
+
+
 .. tab:: reST syntax
 
     .. code-block:: rest
         :linenos:
 
-        .. literalinclude:: /_static/code-examples/square-example.py
+        .. literalinclude:: ../_static/code_examples/square_example.py
             :language: python
             :linenos:
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+File Diff
+
+.. tab:: How it Looks
+
+    .. literalinclude:: file_tree_literal_include_example_1.txt
+        :language: text
+        :linenos:
+        :diff: file_tree_literal_include_example_1_old.txt
+
+
+.. tab:: reST syntax
+
+    .. code-block:: rest
+        :linenos:
+        :emphasize-lines: 4
+
+        .. literalinclude:: file_tree_literal_include_example_1.txt
+        :language: text
+        :linenos:
+        :diff: file_tree_literal_include_example_1_old.txt
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+File Encoding
+
+.. tab:: How it Looks
+
+    .. literalinclude:: ../../../.readthedocs.yaml
+        :language: yaml
+        :linenos:
+        :encoding: utf-8-sig
+
+
+    .. note::
+
+        Default file encoding is utf-8-sig.
+
+        Use this class for different target file encodings, e.g. latin-1.
+
+.. tab:: reST syntax
+
+    .. code-block:: rest
+        :linenos:
+        :emphasize-lines: 4
+
+        .. literalinclude:: ../../../.readthedocs.yaml
+            :language: yaml
+            :linenos:
+            :encoding: utf-8-sig
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 .. _discussion-literal-include:
 
