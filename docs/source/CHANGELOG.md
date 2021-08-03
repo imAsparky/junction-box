@@ -65,6 +65,17 @@ Changes unreleased.
   - Admonitions fixed some typos #64 ([b73c740](https://github.com/imAsparky/junction-box/commit/b73c740f3f6bd870fa417881288bc3d29cacd195)) ([#138](https://github.com/imAsparky/junction-box/pull/138))
   - Admonitions layout tweaks #64 ([6532329](https://github.com/imAsparky/junction-box/commit/65323291a185d7c2668ef072c4aa511c95aeff5f)) ([#134](https://github.com/imAsparky/junction-box/pull/134))
 
+### Tests
+
+- sphinx:
+  - Testing autoclasstoc feature #145 ([4b7df48](https://github.com/imAsparky/junction-box/commit/4b7df486f041e99e73091d38f1694faf855d3ee3)) ([#163](https://github.com/imAsparky/junction-box/pull/163))
+  - Testing autoclasstoc feature #145 ([1a433e6](https://github.com/imAsparky/junction-box/commit/1a433e6cdfc41070c7e29133fa12363f5bf459be)) ([#162](https://github.com/imAsparky/junction-box/pull/162))
+  - Testing autoclasstoc feature #145 ([81b95bd](https://github.com/imAsparky/junction-box/commit/81b95bd7b5c940bb89b502bb53d0e74a0ebc4098)) ([#161](https://github.com/imAsparky/junction-box/pull/161))
+  - Testing autoclasstoc feature #145 ([82141cc](https://github.com/imAsparky/junction-box/commit/82141cc725845111576f0173d639f8a721699023)) ([#160](https://github.com/imAsparky/junction-box/pull/160))
+  - Testing autoclasstoc feature #145 ([f2be741](https://github.com/imAsparky/junction-box/commit/f2be74185e2e3a7759ecd56c42ac3f39e80e50f5)) ([#159](https://github.com/imAsparky/junction-box/pull/159))
+  - Testing autoclasstoc feature #145 ([6048a3a](https://github.com/imAsparky/junction-box/commit/6048a3a3ce1fdefb576e62779d9a38537ad531eb)) ([#159](https://github.com/imAsparky/junction-box/pull/159))
+  - Testing autoclasstoc feature #145 ([e7a9d88](https://github.com/imAsparky/junction-box/commit/e7a9d888ba439dcf386284427e9b0bf804f87cb5)) ([#158](https://github.com/imAsparky/junction-box/pull/158))
+
 ## [v0.0.1-alpha-2](https://github.com/imAsparky/junction-box/releases/tag/v0.0.1-alpha-2) - 2021-07-19 03:32:22
 
 Completed some Style guides and Diátaxis documentation. A reasonable body of work to release and clean up the In Progress list.
