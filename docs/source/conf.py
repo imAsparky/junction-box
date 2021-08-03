@@ -42,7 +42,7 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
-    "autoclasstoc",
+    "autoclasstoc_2",
     "sphinx.ext.todo",
 ]
 
