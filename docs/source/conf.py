@@ -19,7 +19,7 @@ sys.path.append(os.path.abspath("../.."))
 sys.path.append(os.path.abspath("../source/_static"))
 
 # print("***********\nExecutable\n", sys.executable)
-# print("\nPATHS\n", sys.path, "\n***********\n")
+print("\nPATHS\n", sys.path, "\n***********\n")
 # -- Project information -----------------------------------------------------
 
 project = "Junction Box"
@@ -42,6 +42,8 @@ extensions = [
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
     "sphinx.ext.intersphinx",
+    "autoclasstoc",
+    "sphinx.ext.todo",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -96,7 +98,7 @@ copybutton_line_continuation_character = "\\"
 
 
 # autosummary settings
-autosummary_generate = True
+# autosummary_generate = True
 
 # Intersphinx settings
 
@@ -106,4 +108,14 @@ intersphinx_mapping = {
         "https://docs.djangoproject.com/en/3.2",
         "https://docs.djangoproject.com/en/3.2/_objects",
     ),
+}
+
+
+autodoc_default_options = {
+    "members": True,
+    "special-members": True,
+    "private-members": True,
+    "inherited-members": True,
+    "undoc-members": True,
+    "exclude-members": "__weakref__",
 }

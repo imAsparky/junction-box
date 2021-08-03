@@ -1,6 +1,7 @@
 alabaster==0.7.12
 appdirs==1.4.4
 attrs==21.2.0
+autoclasstoc==1.2.0
 Babel==2.9.1
 beautifulsoup4==4.9.3
 black==21.6b0
@@ -58,9 +59,10 @@ six==1.16.0
 snooty-lextudio==1.9.2.dev0
 snowballstemmer==2.1.0
 soupsieve==2.2.1
-Sphinx==4.0.3
+Sphinx==4.1.2
 sphinx-copybutton==0.4.0
-sphinx-inline-tabs==2021.4.11b9
+sphinx-rtd-theme==0.5.2
+sphinx_inline_tabs==2021.4.11b9
 sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==2.0.0
