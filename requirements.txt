@@ -1,7 +1,7 @@
 alabaster==0.7.12
 appdirs==1.4.4
 attrs==21.2.0
-autoclasstoc_2 @ git+git://github.com/imAsparky/autoclasstoc-2.git@5bbdbd43ea891bb26dd8db24fb59bd8a8feac8c3
+autoclasstoc==1.2.0
 Babel==2.9.1
 beautifulsoup4==4.9.3
 black==21.6b0
