@@ -41,7 +41,7 @@ development framework.`
    index-how-to
    Style/index-style
    API/index-api
-   API-Style-2/index-API-Style-2
+   API2/index-API2
 
    about
    CHANGELOG.md
