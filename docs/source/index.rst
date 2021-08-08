@@ -20,14 +20,6 @@ development framework.`
 |
 |
 
-.. .. toctree::
-..    :maxdepth: 1
-..    :glob:
-..    :caption: Global
-
-..    ?
-..    ??
-
 
 .. toctree::
    :hidden:
@@ -41,7 +33,6 @@ development framework.`
    index-how-to
    Style/index-style
    API/index-api
-   API2/index-API2
 
    about
    CHANGELOG.md
