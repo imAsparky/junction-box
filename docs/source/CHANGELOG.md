@@ -16,6 +16,9 @@ Changes unreleased.
 
 ### Bug Fixes
 
+- autosummary:
+  - Files renamed, index tweak #170 ([d655bee](https://github.com/imAsparky/junction-box/commit/d655bee89f1934ca12807aee9563929b62cded4c)) ([#174](https://github.com/imAsparky/junction-box/pull/174))
+
 - sphinx:
   - Regex for copy button improved #136 ([74d122d](https://github.com/imAsparky/junction-box/commit/74d122dd764d812df2f34a07335ed1c589134ef7)) ([#137](https://github.com/imAsparky/junction-box/pull/137))
   - spinx-inline-tabs broken ([36d9242](https://github.com/imAsparky/junction-box/commit/36d924295ead1eac87c7c6b1d5b90b2b37accd47)) ([#125](https://github.com/imAsparky/junction-box/pull/125))
