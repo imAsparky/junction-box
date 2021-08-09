@@ -16,7 +16,7 @@ import os
 import sys
 
 sys.path.append(os.path.abspath("../.."))
-sys.path.append(os.path.abspath("../source/_static"))
+# sys.path.append(os.path.abspath("../source/_static"))
 
 # print("***********\nExecutable\n", sys.executable)
 # print("\nPATHS\n", sys.path, "\n***********\n")
@@ -35,12 +35,13 @@ release = "0.0.1-alpha-2"
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    "sphinx_rtd_theme",
     "myst_parser",
-    "sphinx_copybutton",
-    "sphinx_inline_tabs",
     "sphinx.ext.autodoc",
     "sphinx.ext.autosummary",
+    "sphinx_copybutton",
+    "sphinx_inline_tabs",
+    "autoclasstoc_2",
+    "sphinx.ext.todo",
     "sphinx.ext.intersphinx",
 ]
 
@@ -95,8 +96,24 @@ copybutton_prompt_is_regexp = True
 copybutton_line_continuation_character = "\\"
 
 
-# autosummary settings
+autodoc_default_options = {
+    "members": True,
+    "special-members": True,
+    "private-members": True,
+    "inherited-members": True,
+    "undoc-members": True,
+    "exclude-members": "__weakref__",
+}
+
+
 autosummary_generate = True
+
+autoclasstoc_sections = [
+    "public-attrs",
+    "public-methods",
+    "private-attrs",
+    "private-methods",
+]
 
 # Intersphinx settings
 
