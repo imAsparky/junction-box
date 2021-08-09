@@ -5,6 +5,7 @@ workspace.code-workspace
 
 # restructuredtext vscode build folder
 docs/source/_build/
+source/API/_autosummary/
 
 __pycache__/
 *.py[cod]
