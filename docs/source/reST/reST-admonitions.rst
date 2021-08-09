@@ -403,8 +403,8 @@ first example.
 
     .. note::
             Here is a line of text that doesn't produce anything of interest;
-            it just looks messy and challenging to follow in the text file where
-            it's written.  The line width is too wide for the text editor,
+            it just looks messy and challenging to follow in the text file
+            where it's written.  The line width is too wide for the text editor,
             and you need to scroll to get the message
 
 .. code-block:: rest
@@ -413,8 +413,8 @@ first example.
     .. note::
 
             Here is a line of text that doesn't produce anything of interest;
-            it just looks messy and challenging to follow in the text file where
-            it's written.  The line width is too wide for the text editor,
+            it just looks messy and challenging to follow in the text file
+            where it's written.  The line width is too wide for the text editor,
             and you need to scroll to get the message
 
 |

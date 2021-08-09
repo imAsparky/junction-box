@@ -39,15 +39,15 @@ How-to
     .. literalinclude:: file_tree_literal_include_example_1.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 24, 27
+        :emphasize-lines: 1, 26, 32
 
     .. note::
 
         Line 1: Example file name.
 
-        Line 24: Location of the `.. literalinclude::` calling the file.
+        Line 26: Location of the file being called.
 
-        Line 27: Location of the file being called.
+        Line 32: Location of the `.. literalinclude::` calling the file.
 
 .. tab:: reST syntax
 
@@ -57,7 +57,7 @@ How-to
         .. literalinclude:: file_tree_literal_include_example_1.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 24, 27
+        :emphasize-lines: 1, 26, 32
 
 
 .. tab:: Path Example 2
@@ -73,13 +73,13 @@ How-to
        .. literalinclude:: ../../../file_tree_literal_include_example_2.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 4, 24
+        :emphasize-lines: 1, 4, 32
 
 
     .. literalinclude:: ../../../file_tree_literal_include_example_2.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 4, 24
+        :emphasize-lines: 1, 4, 32
 
     .. note::
 
@@ -87,7 +87,7 @@ How-to
 
         Line 4: Location of the file being called.
 
-        Line 24: Location of the `.. literalinclude::` calling the file.
+        Line 32: Location of the `.. literalinclude::` calling the file.
 
 .. tab:: Path Example 3
 
@@ -102,21 +102,21 @@ How-to
        .. literalinclude:: ../_static/code_examples_2/file_tree_literal_include_example_2.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 16, 24
+        :emphasize-lines: 1, 22, 32
 
 
     .. literalinclude:: ../_static/code_examples_2/file_tree_literal_include_example_3.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 16, 24
+        :emphasize-lines: 1, 22, 32
 
     .. note::
 
         Line 1: Example file name.
 
-        Line 4: Location of the file being called.
+        Line 22: Location of the file being called.
 
-        Line 24: Location of the `.. literalinclude::` calling the file.
+        Line 32: Location of the `.. literalinclude::` calling the file.
 
 See :ref:`Reference <reference-literal-include>` section below for modifying options.
 
@@ -230,7 +230,7 @@ Code Language
 
 .. tab:: How it Looks
 
-    .. literalinclude:: ../_static/code_examples_2/square_example.py
+    .. literalinclude:: ../_static/code_examples_2/square_example_2.py
         :language: python
         :linenos:
 
@@ -240,7 +240,7 @@ Code Language
     .. code-block:: rest
         :linenos:
 
-        .. literalinclude:: ../_static/code_examples_2/square_example.py
+        .. literalinclude:: ../_static/code_examples_2/square_example_2.py
             :language: python
             :linenos:
 
