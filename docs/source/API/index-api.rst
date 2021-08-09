@@ -1,15 +1,53 @@
-=========
-API Index
-=========
+=================
+API Summary Index
+=================
 
-.. .. currentmodule:: code_examples
+This page displays how autosummary displays the API summary.
+
+Click one of the options below to see autoclasstoc grouping.
+
+|
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Sphinx Examples
+***************
+
+|
+
+.. currentmodule:: sphinx
+
+.. autosummary::
+   :toctree: _autosummary
+   :caption: Sphinx Documentationser
+   :recursive:
+
+   environment.BuildEnvironment
+   util.relative_uri
+
+|
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Local Examples
+**************
+
+.. currentmodule:: code_examples
+
+.. autosummary::
+   :toctree: _autosummary
+   :recursive:
+
+   reST_docstrings_example.MainClass1
+   simple_calculators_example
 
 
-.. .. autosummary:: code_examples
-..     :toctree: _autosummary
-..     :recursive:
 
 
-..     square_example
-..     simple_calculators_example
-..     reST_dummy
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

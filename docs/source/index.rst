@@ -33,7 +33,6 @@ development framework.`
    index-how-to
    Style/index-style
    API/index-api
-   API-Style-2/index-API-style-2
 
    about
    CHANGELOG.md
