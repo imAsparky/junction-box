@@ -1,6 +1,7 @@
 alabaster==0.7.12
 appdirs==1.4.4
 attrs==21.2.0
+autoclasstoc_2 @ git+git://github.com/imAsparky/autoclasstoc-2.git@5bbdbd43ea891bb26dd8db24fb59bd8a8feac8c3
 Babel==2.9.1
 beautifulsoup4==4.9.3
 black==21.6b0
@@ -60,7 +61,7 @@ snowballstemmer==2.1.0
 soupsieve==2.2.1
 Sphinx==4.0.3
 sphinx-copybutton==0.4.0
-sphinx-inline-tabs==2021.4.11b9
+sphinx_inline_tabs==2021.4.11b9
 sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==2.0.0
