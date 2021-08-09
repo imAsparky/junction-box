@@ -30,14 +30,8 @@ Changes unreleased.
 
 ### Documentation
 
-- sphinx:
-  - Add files for autodoc #145 ([f4caa81](https://github.com/imAsparky/junction-box/commit/f4caa81968d61baa3fcc74eb2d3daf759282fd17)) ([#157](https://github.com/imAsparky/junction-box/pull/157))
-
-- template:
-  - Updated reST template #148 ([9b59b34](https://github.com/imAsparky/junction-box/commit/9b59b3452021a09f1a8f6dd65b9f500425b2569d)) ([#156](https://github.com/imAsparky/junction-box/pull/156))
-  - Added reST  #148 ([fb03281](https://github.com/imAsparky/junction-box/commit/fb03281309ca86d13f4f0a7b0ae482b2ea5b6194)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
-
 - reST:
+  - code-blocks to literalinclude #154 ([cde6b7d](https://github.com/imAsparky/junction-box/commit/cde6b7d21753800ad98fa05da049918923b1f44f)) ([#175](https://github.com/imAsparky/junction-box/pull/175))
   - Added diff to literalinclude options ([0870244](https://github.com/imAsparky/junction-box/commit/0870244eeb5fb4799318f3dc2015c20104811645)) ([#156](https://github.com/imAsparky/junction-box/pull/156))
   - Add a reST documentation template #142 ([1e9e566](https://github.com/imAsparky/junction-box/commit/1e9e566069edff725d9ba2a4492079e399c4a490)) ([#143](https://github.com/imAsparky/junction-box/pull/143))
   - Added literalinclude document #135 ([cb6db79](https://github.com/imAsparky/junction-box/commit/cb6db7986cb9029042acc98d952e36af2ae564c4)) ([#141](https://github.com/imAsparky/junction-box/pull/141))
@@ -46,6 +40,16 @@ Changes unreleased.
   - Added reST-admonitions #64 ([43b4baf](https://github.com/imAsparky/junction-box/commit/43b4baf2942cf458428312aea943b0d52f788235)) ([#133](https://github.com/imAsparky/junction-box/pull/133))
   - Added introduction and update index #65 ([dac78e9](https://github.com/imAsparky/junction-box/commit/dac78e9fd8b5869f2f5535f9942fb386e7880597)) ([#132](https://github.com/imAsparky/junction-box/pull/132))
   - Added inline-tabs.rst  #122 ([fd8e8c7](https://github.com/imAsparky/junction-box/commit/fd8e8c7bd48caa93666cc137083c2fb20c18cc72)) ([#123](https://github.com/imAsparky/junction-box/pull/123))
+
+- typo:
+  - Fix reST-admonitions ([9b90afe](https://github.com/imAsparky/junction-box/commit/9b90afed31129c9d25a68559d7df9eb6c25f7686)) ([#175](https://github.com/imAsparky/junction-box/pull/175))
+
+- sphinx:
+  - Add files for autodoc #145 ([f4caa81](https://github.com/imAsparky/junction-box/commit/f4caa81968d61baa3fcc74eb2d3daf759282fd17)) ([#157](https://github.com/imAsparky/junction-box/pull/157))
+
+- template:
+  - Updated reST template #148 ([9b59b34](https://github.com/imAsparky/junction-box/commit/9b59b3452021a09f1a8f6dd65b9f500425b2569d)) ([#156](https://github.com/imAsparky/junction-box/pull/156))
+  - Added reST  #148 ([fb03281](https://github.com/imAsparky/junction-box/commit/fb03281309ca86d13f4f0a7b0ae482b2ea5b6194)) ([#150](https://github.com/imAsparky/junction-box/pull/150))
 
 - Autodoc:
   - Added config and docs to test #145 ([bc997fa](https://github.com/imAsparky/junction-box/commit/bc997fa03b7a68c664ca6442cb457c8acde27067)) ([#153](https://github.com/imAsparky/junction-box/pull/153))
