@@ -21,7 +21,7 @@ This section shows the useage for autoclasstoc extension.
 .. currentmodule:: code_examples
 
 .. autosummary::
-   :toctree: _autosum2
+   :toctree: _autosummary
    :recursive:
 
    reST_docstrings_example.MainClass1
