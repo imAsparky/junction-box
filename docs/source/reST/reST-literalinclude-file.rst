@@ -99,13 +99,13 @@ How-to
     .. code-block:: rest
        :linenos:
 
-       .. literalinclude:: ../_static/code_examples/file_tree_literal_include_example_2.txt
+       .. literalinclude:: ../_static/code_examples_2/file_tree_literal_include_example_2.txt
         :language: text
         :linenos:
         :emphasize-lines: 1, 16, 24
 
 
-    .. literalinclude:: ../_static/code_examples/file_tree_literal_include_example_3.txt
+    .. literalinclude:: ../_static/code_examples_2/file_tree_literal_include_example_3.txt
         :language: text
         :linenos:
         :emphasize-lines: 1, 16, 24
@@ -230,7 +230,7 @@ Code Language
 
 .. tab:: How it Looks
 
-    .. literalinclude:: ../_static/code_examples/square_example.py
+    .. literalinclude:: ../_static/code_examples_2/square_example.py
         :language: python
         :linenos:
 
@@ -240,7 +240,7 @@ Code Language
     .. code-block:: rest
         :linenos:
 
-        .. literalinclude:: ../_static/code_examples/square_example.py
+        .. literalinclude:: ../_static/code_examples_2/square_example.py
             :language: python
             :linenos:
 
