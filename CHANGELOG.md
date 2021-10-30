@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.0 (2021-10-30)
+### Feature
+* **pyup:** Add pyup dependency checks and badge #186 ([`4721097`](https://github.com/imAsparky/junction-box/commit/47210974f08f2fd726da2acca91bb7bb5b1637fb))
+
 ## v0.2.1 (2021-10-30)
 ### Fix
 * **docs:** Update autoclasstoc version #177 ([`d0267cc`](https://github.com/imAsparky/junction-box/commit/d0267ccc253f220b13ac4319c52d6e1d382cc23c))
