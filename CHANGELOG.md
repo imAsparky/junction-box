@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.1 (2021-10-30)
+### Fix
+* **docs:** Update autoclasstoc version #177 ([`d0267cc`](https://github.com/imAsparky/junction-box/commit/d0267ccc253f220b13ac4319c52d6e1d382cc23c))
+
 ## v0.2.0 (2021-10-30)
 ### Feature
 * **sem-ver:** Add semantic versioning and changelog #179 ([`f5e57bc`](https://github.com/imAsparky/junction-box/commit/f5e57bc5ae1d180ce7e116be1acb1f605609ebb2))
