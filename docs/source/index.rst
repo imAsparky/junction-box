@@ -35,7 +35,7 @@ development framework.`
    API/index-api
 
    about
-   CHANGELOG.md
+   changelog.rst
 
 
 |
