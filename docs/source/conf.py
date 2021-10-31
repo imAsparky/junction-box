@@ -40,7 +40,7 @@ extensions = [
     "sphinx.ext.autosummary",
     "sphinx_copybutton",
     "sphinx_inline_tabs",
-    "autoclasstoc_2",
+    "autoclasstoc",
     "sphinx.ext.todo",
     "sphinx.ext.intersphinx",
 ]
