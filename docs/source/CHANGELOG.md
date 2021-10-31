@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.5.1 (2021-10-31)
+### Fix
+* **docs:** Move changelog to docs folder #202 ([`0a3f093`](https://github.com/imAsparky/junction-box/commit/0a3f09306ab09ce1e3ccd5cb3a2789baa7ebbd47))
+
 ## v0.5.0 (2021-10-31)
 ### Feature
 * **docs:** Add additional Tutorial Template #199 ([`629e1f0`](https://github.com/imAsparky/junction-box/commit/629e1f0ab31be86c7c3a1281b8529253afe88b35))
