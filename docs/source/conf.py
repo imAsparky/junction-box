@@ -21,12 +21,13 @@ sys.path.append(os.path.abspath("../.."))
 # print("***********\nExecutable\n", sys.executable)
 # print("\nPATHS\n", sys.path, "\n***********\n")
 # -- Project information -----------------------------------------------------
+__version__ = "0.4.0"
 
 project = "Junction Box"
 copyright = "2021, Mark Sevelj"
 author = "Mark Sevelj"
 # The full version, including alpha/beta/rc tags
-release = "0.0.1-alpha-2"
+release = __version__
 
 
 # -- General configuration ---------------------------------------------------
