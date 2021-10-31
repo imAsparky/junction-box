@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.3.1 (2021-10-31)
+### Fix
+* **deps:** Tidy up requirements.txt unused deps #188 ([`5bd1772`](https://github.com/imAsparky/junction-box/commit/5bd177255e02c899168c9f705df38b8ed4d51749))
+
 ## v0.3.0 (2021-10-30)
 ### Feature
 * **pyup:** Add pyup dependency checks and badge #186 ([`4721097`](https://github.com/imAsparky/junction-box/commit/47210974f08f2fd726da2acca91bb7bb5b1637fb))
