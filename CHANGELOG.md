@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.4.0 (2021-10-31)
+### Feature
+* **docs:** Add sem-ver changelog to docs #190 ([`811b056`](https://github.com/imAsparky/junction-box/commit/811b056f3a13c95581c7dd4ad0a622fb11540f48))
+
 ## v0.3.1 (2021-10-31)
 ### Fix
 * **deps:** Tidy up requirements.txt unused deps #188 ([`5bd1772`](https://github.com/imAsparky/junction-box/commit/5bd177255e02c899168c9f705df38b8ed4d51749))
