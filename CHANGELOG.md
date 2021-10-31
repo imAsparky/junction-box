@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.5.0 (2021-10-31)
+### Feature
+* **docs:** Add additional Tutorial Template #199 ([`629e1f0`](https://github.com/imAsparky/junction-box/commit/629e1f0ab31be86c7c3a1281b8529253afe88b35))
+
 ## v0.4.1 (2021-10-31)
 ### Fix
 * **docs:** Fix version source in conf.py #194 ([`a862ebd`](https://github.com/imAsparky/junction-box/commit/a862ebdf90f201b42673b3212109619fc3319cde))
