@@ -35,7 +35,8 @@ development framework.`
    API/index-api
 
    about
-   changelog.rst
+   changelog
+
 
 
 |

@@ -1,19 +1,67 @@
-.. IMPORTANT:- when naming your index file it must be in the
-.. format index-name-of-index.rst
-
 .. include:: /extras.rst.txt
 .. highlight:: rst
-.. index:: name-of-index; Index
+.. index:: template-index ; Index
 
-.. _name-of-index:
 
+.. _template-index:
 ==============
 Index Template
 ==============
 
-.. Add a brief description
+Use the copy button and paste the template into your new index.
 
 |
 
-.. toctree::
-    :titlesonly:
+.. note::
+
+    Change the highlighted line numbers 3, 6 and 8 to suit you use case.
+
+|
+
+.. tip::
+
+    Remove the optional highlighted `toctree` options that aren't required.
+
+    See `Sphinx toctree <https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html>`_
+    for more information about toctree options.
+|
+
+.. code-block:: rst
+    :caption: **Index Page Template**
+    :linenos:
+    :emphasize-lines: 3, 6, 8, 15-22
+
+    .. include:: /extras.rst.txt
+    .. highlight:: rst
+    .. index:: template-index ; Index
+
+
+    .. _template-index:
+    ================
+    Index Title Here
+    ================
+
+    An optional brief description describes the index.
+
+
+    .. toctree::
+       :titlesonly:
+       :maxdepth: int
+       :hidden:
+       :caption:
+       :includehidden:
+       :reversed:
+       :numbered:
+       :glob:
+
+.. code-block:: rst
+    :caption: **Format to include pages in the TOC**
+
+        to include .rst files in the TOC
+
+        /path-to-first-page
+        /path-to-second-page
+
+        to include markdown files in the TOC use the full name with file extension
+
+        /path/to/markdown-file.md

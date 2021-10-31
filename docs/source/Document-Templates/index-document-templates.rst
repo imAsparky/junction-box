@@ -1,15 +1,12 @@
 .. include:: /extras.rst.txt
 .. highlight:: rst
-.. index:: templates; Index
+.. index:: index-template ; Index
 
 
-.. _templates-index:
-
+.. _index-template:
 ==================
 Document Templates
 ==================
-
-|
 
 See a list of the Document Templates we have completed below.
 
@@ -20,3 +17,4 @@ See a list of the Document Templates we have completed below.
 
    template-index
    template-reST
+   template-tutorial
