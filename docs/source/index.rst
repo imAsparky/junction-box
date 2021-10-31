@@ -28,7 +28,7 @@ development framework.`
 
 
    Document-Framework/index-document-framework
-   Document-Templates/index-document-template
+   Document-Templates/index-document-templates
    Design/index-design
    index-how-to
    Style/index-style
