@@ -19,6 +19,7 @@ exclude = '''
 
 branch =  "main"
 version_variable = "version.toml:__version__,docs/source/conf.py:__version__"
+changelog_file = "docs/source/CHANGELOG.md"
 
 build_command = ""
 remove_dist = false
