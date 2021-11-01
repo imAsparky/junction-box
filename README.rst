@@ -62,9 +62,9 @@ development and will be available when complete.
 #. `Traefik <https://traefik.io/>`__ Cloud-Native networking stack that just works.
 
 #. `Docker <https://www.docker.com/>`__ Accelerate how you build, share, and
-    run modern applications.
+   run modern applications.
 
-#. `Django <https://www.djangoproject.com/>`__` makes it easier to build better
+#. `Django <https://www.djangoproject.com/>`__ makes it easier to build better
    web apps more quickly and with less code.
 
 |
