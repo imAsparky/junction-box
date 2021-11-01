@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.7.0 (2021-11-01)
+### Feature
+* **how-to:** Reorganise structure, add CLI cheatsheet #213 ([`cac844a`](https://github.com/imAsparky/junction-box/commit/cac844ab1fa6dea94a4ab002d48046e9c2f16509))
+
 ## v0.6.0 (2021-11-01)
 ### Feature
 * **docs:** Add Diataxis quickstart document #209 ([`064fa1b`](https://github.com/imAsparky/junction-box/commit/064fa1b7048649ab970ec16a66a4efa558aaa315))
