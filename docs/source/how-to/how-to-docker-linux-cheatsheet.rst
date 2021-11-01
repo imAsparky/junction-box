@@ -3,9 +3,9 @@
 .. index:: how-to-cli-cheat ; Index
 
 .. _how-to-cli-cheat:
-========================
-Linux/Docker Cheat Sheet
-========================
+===============
+CLI Cheat Sheet
+===============
 
 .. _how-to-cli-cheat-docker:
 Docker
@@ -231,11 +231,6 @@ Check Ports
         netstat -bano | findstr /R /C:"[LISTEING]"
 
 
-.. rubric:: Footnotes
-
-.. [#] https://docs.docker.com/config/pruning/
-
-
 .. _how-to-cli-cheat-django-secret-key:
 Django Secret Key
 -----------------
@@ -264,3 +259,7 @@ Copy the key generated and exit the python shell.
 
 See :ref:`here<create-env-var-segment>` for a tutorial about creating
 environment variables.
+
+.. rubric:: Footnotes
+
+.. [#] https://docs.docker.com/config/pruning/
