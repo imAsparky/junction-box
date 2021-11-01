@@ -74,7 +74,7 @@ Documentation
 
 * `Diátaxis <https://diataxis.fr/>`__ is the documentation framework employed.
   Diátaxis adopts a systematic approach to structuring technical documentation.
-  See the `Quickstart <https://junction-box.readthedocs.io/en/stable/Document-Framework/diataxis-quickstart.html>`
+  See the `Diátaxis Quickstart <https://junction-box.readthedocs.io/en/stable/Document-Framework/diataxis-quickstart.html>`__
   here.
 
       See an excellent presentation at `Pycon Melbourne 2017

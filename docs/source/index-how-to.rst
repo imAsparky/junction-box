@@ -14,5 +14,3 @@ Here is a list of all our How-to's
 
 .. toctree::
     :titlesonly:
-
-    reST/index-reST

@@ -39,7 +39,7 @@ How-to
     .. literalinclude:: file_tree_literal_include_example_1.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 26, 32
+        :emphasize-lines: 1, 29, 35
 
     .. note::
 
@@ -57,7 +57,7 @@ How-to
         .. literalinclude:: file_tree_literal_include_example_1.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 26, 32
+        :emphasize-lines: 1, 26, 35
 
 
 .. tab:: Path Example 2
@@ -70,16 +70,16 @@ How-to
     .. code-block:: rest
        :linenos:
 
-       .. literalinclude:: ../../../file_tree_literal_include_example_2.txt
+       .. literalinclude:: ../../../../file_tree_literal_include_example_2.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 4, 32
+        :emphasize-lines: 1, 4, 35
 
 
-    .. literalinclude:: ../../../file_tree_literal_include_example_2.txt
+    .. literalinclude:: ../../../../file_tree_literal_include_example_2.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 4, 32
+        :emphasize-lines: 1, 4, 35
 
     .. note::
 
@@ -99,16 +99,16 @@ How-to
     .. code-block:: rest
        :linenos:
 
-       .. literalinclude:: ../_static/code_examples_2/file_tree_literal_include_example_2.txt
+       .. literalinclude:: ../../_static/code_examples_2/file_tree_literal_include_example_2.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 22, 32
+        :emphasize-lines: 1, 22, 35
 
 
-    .. literalinclude:: ../_static/code_examples_2/file_tree_literal_include_example_3.txt
+    .. literalinclude:: ../../_static/code_examples_2/file_tree_literal_include_example_3.txt
         :language: text
         :linenos:
-        :emphasize-lines: 1, 22, 32
+        :emphasize-lines: 1, 22, 35
 
     .. note::
 
@@ -141,7 +141,7 @@ Line Numbers
 
 .. tab:: How it Looks
 
-    .. literalinclude:: ../../../.readthedocs.yaml
+    .. literalinclude:: ../../../../.readthedocs.yaml
         :language: yaml
         :linenos:
 
@@ -152,7 +152,7 @@ Line Numbers
         :linenos:
         :emphasize-lines: 3
 
-        .. literalinclude:: ../../../.readthedocs.yaml
+        .. literalinclude:: ../../../../.readthedocs.yaml
             :language: yaml
             :linenos:
 
@@ -162,7 +162,7 @@ Line Highlight
 
 .. tab:: How it Looks
 
-    .. literalinclude:: ../../../.readthedocs.yaml
+    .. literalinclude:: ../../../../.readthedocs.yaml
         :language: yaml
         :linenos:
         :emphasize-lines: 1,2, 10-13
@@ -174,7 +174,7 @@ Line Highlight
         :linenos:
         :emphasize-lines: 4
 
-        .. literalinclude:: ../../../.readthedocs.yaml
+        .. literalinclude:: ../../../../.readthedocs.yaml
             :language: yaml
             :linenos:
             :emphasize-lines: 1,2, 10-13
@@ -185,7 +185,7 @@ Line Selection
 
 .. tab:: How it Looks
 
-    .. literalinclude:: ../../../.readthedocs.yaml
+    .. literalinclude:: ../../../../.readthedocs.yaml
         :language: yaml
         :linenos:
         :lines: 1,2, 10-13
@@ -206,7 +206,7 @@ Line Selection
         :linenos:
         :emphasize-lines: 4
 
-        .. literalinclude:: ../../../.readthedocs.yaml
+        .. literalinclude:: ../../../../.readthedocs.yaml
             :language: yaml
             :linenos:
             :lines: 1,2, 10-13
@@ -230,7 +230,7 @@ Code Language
 
 .. tab:: How it Looks
 
-    .. literalinclude:: ../_static/code_examples_2/square_example_2.py
+    .. literalinclude:: ../../_static/code_examples_2/square_example_2.py
         :language: python
         :linenos:
 
@@ -240,7 +240,7 @@ Code Language
     .. code-block:: rest
         :linenos:
 
-        .. literalinclude:: ../_static/code_examples_2/square_example_2.py
+        .. literalinclude:: ../../_static/code_examples_2/square_example_2.py
             :language: python
             :linenos:
 
@@ -273,7 +273,7 @@ File Encoding
 
 .. tab:: How it Looks
 
-    .. literalinclude:: ../../../.readthedocs.yaml
+    .. literalinclude:: ../../../../.readthedocs.yaml
         :language: yaml
         :linenos:
         :encoding: utf-8-sig
@@ -291,7 +291,7 @@ File Encoding
         :linenos:
         :emphasize-lines: 4
 
-        .. literalinclude:: ../../../.readthedocs.yaml
+        .. literalinclude:: ../../../../.readthedocs.yaml
             :language: yaml
             :linenos:
             :encoding: utf-8-sig
