@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.7.1 (2021-11-01)
+### Fix
+* **how-to:** Main index link updated to new location #215 ([`aa76a29`](https://github.com/imAsparky/junction-box/commit/aa76a2984d01c96e0a31d273055e4ea2bb90d38d))
+
 ## v0.7.0 (2021-11-01)
 ### Feature
 * **how-to:** Reorganise structure, add CLI cheatsheet #213 ([`cac844a`](https://github.com/imAsparky/junction-box/commit/cac844ab1fa6dea94a4ab002d48046e9c2f16509))

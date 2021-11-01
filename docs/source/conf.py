@@ -21,7 +21,7 @@ sys.path.append(os.path.abspath("../.."))
 # print("***********\nExecutable\n", sys.executable)
 # print("\nPATHS\n", sys.path, "\n***********\n")
 # -- Project information -----------------------------------------------------
-__version__ = "0.7.0"
+__version__ = "0.7.1"
 
 project = "Junction Box"
 copyright = "2021, Mark Sevelj"
