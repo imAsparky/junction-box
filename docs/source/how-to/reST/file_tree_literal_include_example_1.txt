@@ -22,13 +22,16 @@ junction-box
         │   │   └── file_tree_literal_include_example_3.txt
         │   └── css
         │       └── custom.css
-        └── reST
-            ├── file_tree_literal_include_example_1.txt
-            ├── file_tree_literal_include_example_1_old.txt
-            ├── index-reST.rst
-            ├── reST-admonitions.rst
-            ├── reST-inline-tabs.rst
-            ├── reST-intro-rest-sphinx.rst
-            ├── reST-literalinclude-file.rst
-            ├── reST-titles-headings.rst
-            └── reST-toctree.rst
+        └── how-to
+            ├── how-to-docker-linux-cheatsheet.rst
+            ├── index-how-to.rst
+            └── reST
+                ├── file_tree_literal_include_example_1.txt
+                ├── file_tree_literal_include_example_1_old.txt
+                ├── index-reST.rst
+                ├── reST-admonitions.rst
+                ├── reST-inline-tabs.rst
+                ├── reST-intro-rest-sphinx.rst
+                ├── reST-literalinclude-file.rst
+                ├── reST-titles-headings.rst
+                └── reST-toctree.rst

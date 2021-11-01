@@ -4,7 +4,7 @@
 .. _rest-index:
 
 ====
-reSt
+reST
 ====
 
 |
@@ -17,8 +17,8 @@ See a list of the :sep:`How-to` help files below.
    :maxdepth: 1
 
 
-   reST-intro-rest-sphinx
-   reST-admonitions
-   reST-inline-tabs
-   reST-literalinclude-file
-   reST-titles-headings
+   how-to-reST-intro-rest-sphinx
+   how-to-reST-admonitions
+   how-to-reST-inline-tabs
+   how-to-reST-literalinclude-file
+   how-to-reST-titles-headings
