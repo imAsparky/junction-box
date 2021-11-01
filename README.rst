@@ -74,6 +74,8 @@ Documentation
 
 * `Diátaxis <https://diataxis.fr/>`__ is the documentation framework employed.
   Diátaxis adopts a systematic approach to structuring technical documentation.
+  See the `Quickstart <https://junction-box.readthedocs.io/en/stable/Document-Framework/diataxis-quickstart.html>`
+  here.
 
       See an excellent presentation at `Pycon Melbourne 2017
       <https://youtu.be/t4vKPhjcMZg>`__  by the creator of Diátaxis
@@ -92,6 +94,8 @@ Documentation
   <https://junction-box.readthedocs.io/en/stable/Document-Templates/template-index.html>`__
   have been added to get documentation up and running fast.  More templates are
   under development.
+
+|
 
 * `Semantic Versioning`  has been added. See the
   `CHANGELOG <https://junction-box.readthedocs.io/en/stable/CHANGELOG.html>`__

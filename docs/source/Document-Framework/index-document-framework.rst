@@ -19,6 +19,7 @@ on  each page.
 .. toctree::
     :titlesonly:
 
+    diataxis-quickstart
     diataxis-intro
     diataxis-tutorials
     diataxis-how-to
