@@ -1,4 +1,4 @@
-autoclasstoc @ git+git://github.com/imAsparky/autoclasstoc.git@6517d2b6158b2967163b2114fc1b6eb3586b9fde
+autoclasstoc==1.3.0
 furo==2021.10.9
 myst-parser==0.15.2
 Sphinx==4.2.0
