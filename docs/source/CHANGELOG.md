@@ -2,6 +2,13 @@
 
 <!--next-version-placeholder-->
 
+## v0.6.0 (2021-11-01)
+### Feature
+* **docs:** Add Diataxis quickstart document #209 ([`064fa1b`](https://github.com/imAsparky/junction-box/commit/064fa1b7048649ab970ec16a66a4efa558aaa315))
+
+### Fix
+* **pyup:** Exclude autoclasstoc from checks #210 ([`a1e68f0`](https://github.com/imAsparky/junction-box/commit/a1e68f0827d077d4980216ecd799b8bf243fa467))
+
 ## v0.5.1 (2021-10-31)
 ### Fix
 * **docs:** Move changelog to docs folder #202 ([`0a3f093`](https://github.com/imAsparky/junction-box/commit/0a3f09306ab09ce1e3ccd5cb3a2789baa7ebbd47))
