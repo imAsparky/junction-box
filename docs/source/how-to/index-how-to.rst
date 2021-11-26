@@ -14,5 +14,5 @@ See below for a list of How-To for Junction Box.
 .. toctree::
    :titlesonly:
 
-   how-to-docker-linux-cheatsheet
+   linux-servers/index-how-to-linux-servers
    reST/how-to-index-reST
