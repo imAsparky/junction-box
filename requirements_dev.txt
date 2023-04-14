@@ -1,7 +1,8 @@
 -r docs/requirements.txt
 
+
 pre-commit==3.2.2
-pytest==7.1.2
-tox==3.25.1
+pytest==7.3.0
+tox==4.4.12
 watchdog==2.1.9
 
