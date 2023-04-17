@@ -1,5 +1,4 @@
-autoclasstoc @ git+git://github.com/imAsparky/autoclasstoc.git@6517d2b6158b2967163b2114fc1b6eb3586b9fde  # pyup: ignore
-
+autoclasstoc==1.6.0
 furo==2023.3.27
 myst-parser==1.0.0
 Sphinx==6.1.3
