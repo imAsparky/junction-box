@@ -1,6 +1,6 @@
 -r docs/requirements.txt
 
-pre-commit==3.2.2
+pre-commit==3.3.0
 pytest==7.3.1
 tox==4.5.1
 watchdog==3.0.0
