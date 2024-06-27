@@ -3,5 +3,5 @@
 
 pre-commit==3.3.3
 pytest==8.2.2
-tox==4.9.0
+tox==4.15.1
 watchdog==3.0.0
