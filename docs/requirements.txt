@@ -1,4 +1,4 @@
-autoclasstoc==1.6.0
+autoclasstoc==1.7.0
 Sphinx==7.4.3
 myst-parser==3.0.1
 furo==2024.5.6
